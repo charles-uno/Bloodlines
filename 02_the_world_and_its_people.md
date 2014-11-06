@@ -1,6 +1,6 @@
 # The World and its Peoples
 
-At the dawn of the **First Age**, eight peoples awakened. For centuries, each
+At the dawn of the **First Age**, four peoples awakened. For centuries, each
 lived isolated, oblivious to the existences of the others.
 
 The **Second Age** was a time of exploration, then colonization, then
@@ -14,11 +14,10 @@ fantastical creatures. Its fruits impregnate every corner of the world.
 
 It was not just culture and magic that were exchanged during this time,
 however. Through a hundred generations of political marriages and forbidden
-loves, bloodlines intermingled, giving rise to an entirely new people: Humans,
+loves, bloodlines intermingled, creating to an entirely new people: Humans,
 whose rise heralded the opening of the **Fourth Age**.
 
-Humanity has inherited the strongest qualities of its parents – the wits of
-the Naga with the strength of the Orcs – but not their magical gifts.  Few
+Humanity has inherited the strongest qualities of its parents – the strength of the Dwarves and the charisma of the Halflings – but not their magical gifts.  Few
 Humans exhibit any magical ability at all, and the powers that do appear are
 modest.
 
@@ -28,8 +27,8 @@ least – is chaotic and dangerous.
 
 This change has not gone unnoticed. Many among the ancient peoples view it as
 an omen that their stewardship over the world has ended. They gradually
-withdraw. The majestic Dwarven cities shut their gates; their populations
-dwindle. Elves take pilgrimages to the edges of the world, never to return.
+withdraw. The majestic Elvish cities shut their gates; their populations
+dwindle. Goblins take pilgrimages to the edges of the world, never to return.
 All the while, Humanity's population swells.
 
 Humanity is not the only thing that grows, however. As magic recedes, the
@@ -91,55 +90,3 @@ their heads, as well as on the tops of their almost-always-bare feet.
 Halflings are quiet artisans. Disinterested in danger and adventure, they are
 content to farm their grains, brew their ales, and whittle their trinkets.
 
-## Merfolk
-
-Tiny mountain streams merge and interweave as they flow east across the
-landscape, finally emptying into the sea. This watery network is the home of
-the Merfolk.
-
-Merfolk are an amphibious people with hairless blue-green skin and webbed
-hands and feet. They wear little clothing, but tattoo themselves heavily.
-
-Merfolk are merchants and ambassadors. They travel the waterways of the world,
-brokering all manner of agreements between all manner of folk.
-
-## Naga
-
-On the opposite side of the world from the great mangrove swamp, the sea is
-edged by desert cliffs. Upon these cliffs the Naga build their pyramid cities.
-
-Naga are serpentfolk. Each part of their bodies is long and slender, from
-their necks to their limbs to their tails. Their skin is bald and scaly, often
-covered in beautiful patterns.
-
-Naga are scholars and astrologers. They study the motions of the stars and
-planets through cloudless desert skies, connecting their patterns to history
-and the cycle of life and death.
-
-## Orcs
-
-The great desert runs from the western edge of the world to the central
-mountains. It is home to the Orcs, hardy nomads who travel endlessly from
-oasis to oasis.
-
-Orcs are tall and broad, with heavy brows and jaws. Their skin color can be
-anywhere from sandy brown to a dark green. Their dark hair is traditionally
-tied tightly atop their heads.
-
-Orcs are survivors. Their harsh desert home has made them strong and
-resilient; their ability to endure hunger, thirst, and extreme temperature is
-unparalleled.
-
-## Satyrs
-
-The mountain peaks are home to the Satyrs. On the eastern slopes, above the
-forest, they grow their grapes; on the western slopes, above the sands, they
-gather brush for their fires.
-
-Satyrs are goatfolk, with cloven hooves and small horns above their ears.
-Their legs are covered in short, coarse hair, which can also appear on their
-arms and shoulders.
-
-Satyrs are hedonistic revelers. They gather each night around their
-mountaintop bonfires – from dusk until dawn they drink wine, dance, and put on
-plays.
