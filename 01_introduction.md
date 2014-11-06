@@ -72,3 +72,7 @@ no arithmetic required.
 That is, Bloodlines is a roleplaying game boiled down to its essence: a
 setting ripe for exploration and adventure, and a rules framework that
 incorporates dice in a satisfying but unobtrusive way.
+
+## Game Materials
+
+(working on it...)
