@@ -1,60 +1,32 @@
 # Creating Player Characters
 
-The most fundamental aspect of a PC is the **description**. This is a place
-for the player to keep track of their PC's background, personality,
-motivations, and any other details that might be used to guide the PC's
-actions during play.
+The most fundamental aspect of a PC is the **description**. This is a place for the player to keep track of their PC's background, personality, motivations, and any other details that might be used to guide the PC's actions during play.
 
-Writing a PC's description can be a collaborative effort. Players are
-encouraged to talk to each other to figure out any relationships between the
-PCs, and what has brought them together. Players should also talk to the GM
-about specific details about the in-game world.
+Writing a PC's description can be a collaborative effort. Players are encouraged to talk to each other to figure out ideas for interesting backstories, relationships between the PCs, and what specifically has brought them together. The GM should be part of this discussion as well, in order to provide relevant details about the in-game world.... as well as to take note of people and places mentioned in the PCs' descriptions which may later be leveraged to create engaging plot hooks. 
 
-The description also lets players contribute to building the in-game world.
-Any people or places mentioned in a PC's description become a part of the
-story... and can later be leveraged by the GM to create engaging plot hooks.
+The descriptions is also used to illustrate the equipment each PC carries. There is no formal handling of items or currency in Bloodlines, so the description is used to judge holistically whether a PC seems like they would carry lockpicks, a spyglass, an extra weapon, rope, and other gear.
 
-The descriptions is also used to illustrate the equipment each PC carries.
-There is no formal handling of items or currency in Bloodlines, so the
-description is used to judge holistically whether a PC seems like they would
-carry lockpicks, a spyglass, an extra weapon, rope, and other gear.
+Players have complete freedom over their PCs' descriptions. They may update them at any time in order to track important or unusual items, new relationships with NPCs, and so on.
 
-Players have complete freedom over their PCs' descriptions. They may update
-them at any time in order to track important or unusual items, new
-relationships with NPCs, and so on.
+A PC's description – in fact, everything on the PC's character sheet – is public information. It need not be hidden from other players or from the GM. There is one exception, however: if a PC is specifically withholding something from the other PCs, that player may withhold the same information from the other players. This is best done in anticipation of a dramatic reveal!
 
-A PC's description – in fact, everything on the PC's character sheet – is
-public information. It need not be hidden from other players or from the GM.
-There is one exception, however; if a PC is specifically withholding something
-from the other PCs, that player may withhold the same information from the
-other players, so that it may be dramatically revealed later.
+---
 
-Each PC can sustain four **wounds**. Wounds are boxes which can be marked off
-to indicate injuries, exhaustion, starvation, or any other sort of damage or
-stress inflicted on the PC. If all four of a PC's wounds are marked off, the
-PC is incapacitated. If a fifth would be inflicted, they are killed.
+Each PC can sustain four **wounds**. Wounds are boxes on the character sheet which are marked off to indicate any sort of stress -- physical or mental -- inflicted on the PC. When all four are marked off, the PC is defeated. 
 
-Wounds are recovered in dramatically appropriate time. A night of rest
-somewhere safe, or a hot meal, would each uncheck a single wound.
+Physical wounds indicate bodily injury due to brawls, poisons, weapons, and so on. Defeat by physical wounds causes physical incapacitation. The PC may (per the GM's discretion) be conscious and able to speak, but they cannot move or defend themselves. Given the chance, any NPC can easily kill them. 
 
-PCs are Human, and as such their abilities can be expressed in terms of their
-eight **bloodline scores**. These are numbers which illustrate how well the PC
-embodies the strengths of the eight ancient peoples. A Human whose Elf
-bloodline manifests strongly will be sharp-eyed, for example, while one whose
-Dwarf bloodline is strong will be skilled with blade and bow.
+Mental wounds indicate damaged resolve, willpower, or self-control as a result of intimidation, provocation, or coercion. Defeat by mental wounds causes mental incapacitation. Depending on the situation (as judged by the GM) this may mean that the PC concedes an argument, breaks composure in a delicate social situation, or becomes so flustered that they can no longer form a coherent thought.
 
-During play, these scores give the number of dice that players use to make
-rolls. A higher score indicates that a PC manifests that bloodline more
-strongly, and as a result will be more adept at actions related to that
-bloodline.
+Physical and mental wounds are marked identically, using the same four boxes. It's rare that a single confrontation will cause both mental and physical stress. However, should a PC enter a physical confrontation before recovering from mental wounds, or vice versa, they will find that their exhaustion carries over. 
 
-Each bloodline score begins at a value of 6, which is average, giving the PC a
-good chance of accomplishing an Ordinary task of any sort. In order to
-demonstrate strengths and weaknesses, the player may then decrease a score by
-one in order to increase another score by one. This may be done up to four
-times.
+Wounds are recovered in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to uncheck a single wound. All wounds are unchecked after a long rest, such as a hot meal or a night of sleep somewhere safe.
 
-The bloodlines themselves are described on the next page.
+---
+
+The bloodlines themselves are described as follows.
+
+(Updated to here. -Charles)
 
 -   **The Dwarf bloodline grants skill with weapons and tactics.** A high
     score  will improve a PC's rolls to attack with blades, bows, and any
