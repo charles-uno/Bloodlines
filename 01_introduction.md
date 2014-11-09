@@ -75,4 +75,10 @@ incorporates dice in a satisfying but unobtrusive way.
 
 ## Game Materials
 
-(working on it...)
+Bloodlines is played with papers, pens, and dice. 
+
+Four kinds of dice are used: four-, six-, eight-, and ten-sided. It's best to have about a dozen of each. Each kind of die should be kept in its own bowl or tray, in order to make it easy for players to pick up a handful of a single kind: four six-sided dice, five four-sided dice, seven ten-sided dice, etc. 
+
+Four-sided dice merit particular attention. Traditional (pyramid-shaped) four-sided dice are difficult to pick up off a flat table, particularly a handful at a time. Barrel-shaped four-sided dice are recommended instead. 
+
+Other than dice, the table needs only pens and paper. The GM should have a notebook (or some scratch paper, or a pile of notecards) to keep their notes. Each player needs a character sheet for their PC. The last page of this book contains a blank one; additionally, they can be downloaded and printed from **#####**. For added convenience, character sheets can even be laminated, so that wet-erase markers can be used to easily mark and unmark wounds.
