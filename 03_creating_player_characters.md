@@ -18,9 +18,9 @@ Physical wounds indicate bodily injury due to brawls, poisons, weapons, and so o
 
 Mental wounds indicate damaged resolve, willpower, or self-control as a result of intimidation, provocation, or coercion. Defeat by mental wounds causes mental incapacitation. Depending on the situation (as judged by the GM) this may mean that the PC concedes an argument, breaks composure in a delicate social situation, or becomes so flustered that they can no longer form a coherent thought.
 
-Physical and mental wounds are marked identically, using the same four boxes. It's rare that a single confrontation will cause both mental and physical stress. However, should a PC enter a physical confrontation before recovering from mental wounds, or vice versa, they will find that their exhaustion carries over. 
+Physical and mental wounds are marked identically, using the same four boxes. It's rare that a single confrontation will cause both mental and physical stress. However, should a PC enter a physical confrontation before recovering from mental wounds, or vice versa, they will find that their fatigue carries over. 
 
-Wounds are recovered in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to uncheck a single wound. All wounds are unchecked after a long rest, such as a hot meal or a night of sleep somewhere safe.
+Wounds are recovered in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single wound. All wounds are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.
 
 ---
 
