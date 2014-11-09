@@ -29,7 +29,6 @@ Alan Wu, and Jan Zirnstein.
     -   About Bloodlines
     -   Game Materials
 2.  The World and its Peoples
-    -   Map of the World
     -   Dwarves
     -   Elves
     -   Goblins
