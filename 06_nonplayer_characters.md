@@ -8,25 +8,29 @@ While PC character sheets are visible to everyone, only the GM knows the
 details of NPCs. Player knowledge of an NPC is limited to what their PCs
 know.
 
-Like rolls, NPCs come in four difficulties: **Ordinary**, **Remarkable**,
+---
+
+Like rolls, NPCs come in four levels: **Minor**, **Significant**,
 **Incredible**, and **Legendary**, corresponding to **1**, **3**, **5**, and
-**7** wounds respectively. An NPC is unconscious when all of their wounds are
-marked, and killed if they would suffer one more.
+**7** wounds respectively. An NPC is defeated if all of their wounds are
+marked.
 
 The NPC's number of wounds is chosen by the GM to reflect the NPC's size and
 durability, as well as how interesting the NPC would be during a fight.  An
 adversary who expects to simply trade a few blows back and forth with the PCs
 should have few wounds, even if it is large, to prevent encounters from
 becoming repetitive. Conversely, an NPC which is likely to provide a dynamic
-and engaging combat (or one meant to make the PCs question their choice to
+and engaging confrontation (or one meant to make the PCs question their choice to
 fight it) may be given a large number of wounds, even if it's small.
 
 An NPC's level also serves as a starting point when establishing the
-difficulty of a roll taken against that NPC – most rolls taken against an
-Ordinary NPC should be made at Ordinary difficulty, for example.  Relatedly,
-most NPCs should have few wounds. The relative scarcity of high-wound monsters
-– and the association of important NPCs with difficult rolls – serves to
+level of a roll taken against that NPC – most rolls taken against a
+Significant NPC should be Significant, for example.  Relatedly,
+most NPCs should have few wounds. The relative scarcity of Legendary monsters
+– and the association of Legendary NPCs with Legendary rolls – serves to
 maintain the tension and excitement that they bring.
+
+---
 
 NPC **descriptions** are analogous to PC descriptions. Both illustrate the
 character's strengths and weaknesses, the circumstances that brought them into
@@ -34,25 +38,23 @@ the story, and the motivations that guide their ongoing actions.
 
 The difference between them is how they apply to die rolls. Whereas a PC's
 description guides the player as they assign their bloodline scores, an NPC's
-description guides the GM as they assign difficulties to rolls. Clever PCs who
+description guides the GM as they assign levels to rolls. Clever PCs who
 take advantage of an NPC's weaknesses may find themselves rolling at
-difficulties lower than the NPC's level would suggest (for example, making an
-Ordinary roll against a Remarkable NPC), while careless NPCs may end up
-rolling at higher difficulties (such as an Incredible roll made against a
-Remarkably NPC).
+levels lower than the NPC's level would suggest (for example, making a Minor roll against a Significant NPC), while careless NPCs may end up
+rolling at higher levels (such as an Incredible roll made against a
+Significant NPC).
 
 Because of the importance of an NPC's description in determining roll
-difficulties, it's crucial that it focus on details that might be important to
+levels, it's crucial that it focus on details that might be important to
 the NPC's interaction with PCs. Is the NPC intelligent, or capable of speech?
 What might motivate it to attack a group of PCs, and how might it go about
 doing so? What would the PCs be able to learn about this NPC, either from
 researching it at a library or from speaking to the locals who have dealt with
 it?
 
-Unlike PC descriptions, NPC descriptions are secret. Players must discover
-details about the NPC for themselves.
-
 ## Example NPC: Brigand
+
+(Updated to here. The example rolls should just need to be reverted to what they were when we had four attributes, I think. -Charles)
 
 Each brigand is an Ordinary NPC – they have a single wound each. Their
 description is as follows:
