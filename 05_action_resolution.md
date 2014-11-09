@@ -37,16 +37,13 @@ degree of ownership over the consequences their PCs suffer.
 ## Rolls
 
 When the GM calls for a roll, the player throws a number of dice equal to
-their PC's most relevant bloodline score. When using a spell, note that the
-appropriate bloodline score may not be the one associated with the spell – for
-example, summoning a fire spirit is a Satyr spell, but nicely asking it to
-obey your commands would be a Merfolk roll. If it's unclear which roll is most
-appropriate for a given action, the decision falls to the GM.
+their PC's most relevant bloodline score – note that, when using a spell, the relevant bloodline score is the one associated with the spell. If it's unclear which roll is most
+appropriate for a given action, the decision falls to the GM. 
 
 Each die that shows "1" is a **success**. If there are no successes (no dice
 show "1") then the roll is a **failure**.
 
-A single success is good for the PC – it means, roughly, that they succeeded
+A single success is good for the PC – it means, more or less, that they succeeded
 in whatever they were attempting. Additional successes mean things went
 unexpectedly well. The details are left to the GM's discretion.
 
@@ -54,49 +51,48 @@ A failed roll means that something went wrong. This could be as simple as the
 PC lacking the strength or skill to succeed. However, the GM is encouraged to
 instead view a failed roll as an invitation to introduce a new and unfortunate
 plot twist. For example, if the PCs are rooting out bandits in the sewers, a
-failed Ranger roll for navigation could mean stumbling into an ambush or
+failed Elf roll for navigation could mean stumbling into an ambush or
 running out of torches (as opposed to having the PCs come back empty-handed).
 In this way, failed rolls should be bad for the PCs, but still good for the
 story.
 
-Rolls can be made at four difficulties – **Ordinary**, **Remarkable**,
-**Incredible**, and **Legendary** – which are made on six-, eight-, ten-, and
-twelve-sided dice (**d6**, **d8**, **d10**, and **d12**) respectively.  That
-is, a more difficult roll is made on larger dice, making successes rarer. It's
-recommended that Incredible and Legendary rolls be prompted rarely – only for
-the truly outrageous – in order to preserve the tension that comes with the
-larger dice.
+Rolls can be made at four levels – **Minor**, **Significant**,
+**Incredible**, and **Legendary** – which are made on four-, six-, eight-, and
+ten-sided dice (**d4**, **d6**, **d8**, and **d10**) respectively.  That
+is, a higher level roll is made on larger dice, making successes more difficult. Significant rolls should be the most common, while Legendary rolls should be reserved for actions that are truly outrageous, in order to preserve the tension that comes with the larger dice.
 
-The difficulty of a roll is judged holistically by the GM based on the
+The level of a roll is judged holistically by the GM based on the
 challenge in front of the PC as well as their approach to it. Sometimes it's
 easier to pick the lock, while other times it's easier to kick down the door.
 
-A player can exert some control over how the difficulty is judged through a
+A player can exert some control over how the level is judged through a
 mindful narration of their PC's actions. A reckless attack is more likely to
 wound an NPC, for example, so the GM may choose to have it rolled at a lower
-difficulty. Similarly, picking a lock could be done at lower difficulty if the
+level. Similarly, picking a lock could be done at lower level if the
 PC takes the time to do it carefully. There may be negative consequences as
 well, of course; if a PC attacks recklessly, they'll have a more difficult
 time defending themselves when the NPC hits back, and picking a lock slowly
-gives any NPCs on the other side of the door plenty of time to respond.
+gives any NPCs on the other side of the door plenty of time to prepare an ambush.
 
 This goes the other way, too. A careful attack is less likely to injure an NPC
-(and hence would be rolled at a higher difficulty), but leaves the PC in a
+(and hence would be rolled at a higher level), but leaves the PC in a
 more defensible position; the roll to defend against the NPC's next attack
-could (at the GM's discretion) be made at a lower difficulty. Picking a lock
+could (at the GM's discretion) be made at a lower level. Picking a lock
 quickly and quietly is very difficult, but if successful the PCs may be able
 to catch the NPCs on the other side of the door unprepared!
 
-Before a attempting any action, a player may ask the GM what the difficulty of
-the roll would be. This helps bridge the gap between player and PC – for
+Before a attempting any action, a player may ask the GM what the level of
+the roll would be. This helps bridge the gap between player and PC. For
 example, a GM's narration may not convey clearly whether a chasm could
 realistically be jumped, but a PC standing at its edge would have a pretty
 good idea! In cases where the PC would not know the difficulty of an action
 (for example an attack on a heretofore unknown sort of monster) the GM may
-decline to answer, only revealing the difficulty when the PC is committed and
+decline to answer, only revealing the roll's level when the PC is committed and
 the roll is at hand.
 
-## Combat
+## Confrontations
+
+(Updated to here. -Charles)
 
 During physical confrontations, Bloodlines becomes somewhat more structured.
 Play proceeds in rounds, the table is divided into **zones**, and PCs and NPCs
