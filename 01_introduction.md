@@ -28,7 +28,7 @@ barter with while the dice show whether a sword strikes home or a lie rings
 true. This dichotomy gives each PC quantitative strengths and weaknesses while
 still allowing players the freedom to play their PCs however they like.
 
-The pages that follow explain how and when to use dice and miniatures, but
+The pages that follow explain how and when to roll the dice, but
 above all Bloodlines is a social game. As such, the most important element is
 communication. The players and the GM are not opponents (even though the PCs
 and NPCs may well be enemies). Everyone has the same goals: telling a good
