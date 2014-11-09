@@ -107,10 +107,3 @@ Rolls during a confrontation work in the same way as any other roll, with one qu
 Rolls can have other effects besides inflicting wounds, of course. PCs and NPCs may want to restrain or disarm their opponents, flip over a table to create a barricade, yell distractingly to shift a character's attention, or use soft words to de-escalate the confrontation. Such actions can affect the behaviors of NPCs, even removing them from the confrontation, and affect the difficulties of future rolls. 
 
 Note that there is no formal tracking of time or distance in Bloodlines, even during a confrontation. The actions of PCs and NPCs should be governed primarily by what is exciting and interesting, with realism being a secondary concern. Each turn within a round happens (more or less) simultaneously, even if some actions would realistically take longer than others. The relative positions of PCs and NPCs are only set to the degree that the players and GM narrate them. 
-
-
-
-Both are handled holistically. Players may assess their relative positions, and the positions of the NPCs, by asking the GM for details and narrating their own movement. Each round within a turn happens (more or less) simultaneously, even if some actions would realistically take much longer than others. Players should not 
-
-
-
