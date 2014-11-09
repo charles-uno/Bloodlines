@@ -26,7 +26,7 @@ Wounds are recovered in dramatically appropriate time. A short rest immediately 
 
 The bloodlines themselves are described as follows.
 
-(Updated to here. -Charles)
+(Bloodline descriptions are not yet updated, obviously. -Charles)
 
 -   **The Dwarf bloodline grants skill with weapons and tactics.** A high
     score  will improve a PC's rolls to attack with blades, bows, and any
@@ -69,6 +69,8 @@ The bloodlines themselves are described as follows.
     deception – the GM  may request a Satyr roll for a PC to judge an NPC's
     trustworthiness.
 
+---
+
 In addition to bloodline scores, a PC's ancestry also provides them with
 **spells**. A spell is a whisper of the magical powers of the ancient peoples,
 which can bubble up through a PC's hereditary memory. PCs do not begin with
@@ -88,18 +90,12 @@ Father Liam is described as follows:
 > and ability to deceive. When entering a new community, he often creates a
 > new persona and a disguise to go with it, using them to con people out of
 > their possessions until he is – inevitably – discovered and run out of town
-> again. He is currently traveling disguised as a priest and apothecary, and
-> as such carries a thurible which he uses like a flail when the need arises.
+> again. He is currently traveling disguised as a priest and apothecary, ready to dispense his particular brand of aid to those in need.
 
-Father Liam takes +2 to his Satyr bloodline to account for his deceptive
-nature and his penchant for false identities. He also takes +1 to his Halfling
-bloodline and +1 to his Elf bloodline – he was once a street-wise scoundrel,
-after all.
+Father Liam takes +2 to his Halfling bloodline to account for his deceptive nature and his penchant for false identities. He also takes +1 to his Goblin bloodline – he was once a street-wise scoundrel,
+after all. In exchange, he takes -3 to his Dwarf bloodline. Father Liam has never done an honest day of work in his life!
 
-In exchange, he takes -2 to his Orc bloodline, -1 to his Dwarf bloodline, and
--1 to his Goblin bloodline. He's never done an honest day of labor or training
-in his life, and it's been a long time since he had to flee down a narrow
-alleyway!
+(Do PCs start with a spell? -Charles)
 
 ## Example PC: Galadhel
 
@@ -115,13 +111,13 @@ Galadhel is described as follows:
 > as in Dragbor the authoritarian council prescribed the path of everyone's
 > life from birth to death.
 
-When they told her she must settle down to be a seamstress like her mother,
+> When they told her she must settle down to be a seamstress like her mother,
 Galadhel instead fled from the village. With her new found freedom, she
 decided to track down her absent father and join him in whatever adventures he
-must be having.
+must be having. 
 
 Galadhel takes +2 to her Elf bloodline to demonstrate her natural affinity for
-the woods and woodland creatures. She also takes +2 to her Dwarf bloodline to
+the woods and woodland creatures. She also takes +2 to her Goblin bloodline to
 explain her skill with a bow.
 
 In exchange, she takes -2 each to her Merfolk and Satyr bloodlines. She is
