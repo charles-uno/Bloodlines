@@ -92,76 +92,25 @@ the roll is at hand.
 
 ## Confrontations
 
-(Updated to here. -Charles)
+During confrontations play in Bloodlines becomes somewhat more structured. Rather than having each player participate conversationally, play is divided into rounds. During each round play proceeds clockwise around the table, with the GM's turn being last. 
 
-During physical confrontations, Bloodlines becomes somewhat more structured.
-Play proceeds in rounds, the table is divided into **zones**, and PCs and NPCs
-are represented within those zones by miniatures.
+A PC or NPC can only act if they were aware of the confrontation at the beginning of the round. For example, if the PCs are caught unaware by an ambush, only the GM would take a turn in the first round. Players would take their first turns in the second round, because they were not aware of the confrontation until after the first round started. 
 
-As combat begins, the GM will sketch out the area surrounding the PCs and
-divide it into zones. In general, a zone's width should be the distance a PC
-can move in a few moments – about five armspans on flat ground, and less in
-the presence of obstacles and difficult terrain. Miniatures are used to
-illustrate which PCs and NPCs are in each zone.
+This structure applies to physical confrontations (such as combat) as well as social ones (such as arguments or negotiations). However, it should be noted that social confrontations are often best modeled as a back-and-forth between one PC and one NPC, rather than an ensemble affair. If four PCs surround an NPC and all yell arguments simultaneously, the NPC is likely to flee or call in some guards rather than participate!
 
-Any two characters in the same zone are close. They can speak to one another,
-attack one another with melee weapons, and so on. Characters can shout into
-adjacent zones and attack with ranged and thrown weapons. Characters in
-non-adjacent zones may be aware of one another, but cannot otherwise interact.
+On each **player's turn**, that player narrates a few moments of their PC's actions. The turn culminates when the GM prompts the player for a roll. The level of the roll, and the bloodline score used for it, should holistically represent the entirety of the player's turn. For example, if a PC wants to stealthily approach an NPC from behind, then brain them with a hammer, the GM must choose whether to have the player roll Goblin (for sneaking) or Dwarf (for a melee attack). 
 
-Each round, the players and the GM each take a turn, with the GM's turn being
-last. The turns may be taken in any order, though clockwise around the table
-is recommended.
+On the **GM's turn**, the GM may prompt each player for a single roll in response to NPC actions taken against them. The level of this roll depends not only on the level of the NPCs acting against the PCs, but also how many there are – a PC who allows themselves to be surrounded by Minor NPCs may be forced to defend themselves with a Significant or even Incredible roll! Note also that multiple PCs may be forced to defend themselves against the same NPC; a dragon surrounded by PCs may lash out with its claws, tail, teeth, etc. 
 
-Note that a character does not get a turn unless they were aware of the
-confrontation at the beginning of the round. For example, if the PCs are
-caught unaware in an ambush, only the GM would take a turn in the first round
-– PCs would not be allowed to act until the second round, because they were
-not aware of the confrontation until after the first round started.
+Rolls during a confrontation work in the same way as any other roll, with one quick caveat. For each failed roll on the GM's turn, the PC may suffer only a single wound; similarly, for each success on a player's turn, only a single wound may be inflicted on an NPC. If there are multiple successes, they may be distributed however the player chooses. Two successes can inflict two wounds on a single NPC or a single wound to each of two NPCs, for example. 
 
-On each **player's turn**, that player plays out a few moments of their PC's
-actions. They may move their PC to an adjacent zone, and may be prompted by
-the GM for a single roll. The roll must make narrative sense – a player
-engaged in a grapple cannot move freely, of course. Furthermore, the GM should
-take the PC's move into account when gauging the difficulty of the player's
-roll for the turn. Beheading a zombie may be Ordinary when the characters are
-situated on level ground, Remarkable as the character charges through the
-undergrowth, Incredible as the PC climbs their way up a steep cliff, and
-Legendary if the PC is diving sword-first across a chasm.
+Rolls can have other effects besides inflicting wounds, of course. PCs and NPCs may want to restrain or disarm their opponents, flip over a table to create a barricade, yell distractingly to shift a character's attention, or use soft words to de-escalate the confrontation. Such actions can affect the behaviors of NPCs, even removing them from the confrontation, and affect the difficulties of future rolls. 
 
-On the **GM's turn**, the GM moves NPCs and prompts the players for rolls in
-response to NPC actions taken against them. Each NPC generally prompts a
-single roll, though this need not strictly be the case. A cerberus may bite
-with all three of its heads, for example, so the GM would prompt a player to
-roll three times. Similarly, a dragon surrounded by PCs may lash out with its
-claws, tail, etc, prompting rolls from multiple players.
+Note that there is no formal tracking of time or distance in Bloodlines, even during a confrontation. The actions of PCs and NPCs should be governed primarily by what is exciting and interesting, with realism being a secondary concern. Each turn within a round happens (more or less) simultaneously, even if some actions would realistically take longer than others. The relative positions of PCs and NPCs are only set to the degree that the players and GM narrate them. 
 
-Rolls during combat work the same way as rolls outside of combat, with one
-quick caveat: for each success on a player's turn, or for each failed roll on
-the GM's turn, the only allowed effects on a PC or an NPC are to inflict a
-single wound or to make that character unready. That is, a failed roll to
-defend could result in a wound being inflicted on a PC, or that PC being made
-unready; a single success on a PC's roll to attack could inflict a wound on an
-NPC or make them unready; two successes can inflict two wounds on NPCs, wound
-an NPC and make an NPC unready, or make two NPCs unready; etc.
 
-**Unreadiness** is a catchall term to indicate that a PC or NPC is at a
-momentary disadvantage. Just as inflicting a wound is how the rules show that
-a character has been hit by a sword or weakened by a poison, unreadiness is
-how they show that they have been distracted, disarmed, etc. Unreadiness is
-indicated by turning the unready character's miniature on its side – note that
-the miniatures of unconscious or dead characters should be removed from the
-table entirely to avoid ambiguity.
 
-While unready, a PC or NPC suffers a one-difficulty-step penalty to all rolls.
-That is, if a PC is knocked prone, Ordinary parries would instead be rolled at
-Remarkable difficulty (until the PC stands up). Similarly, if a taunt catches
-an NPC's attention, an attack against them that would normally have required a
-Incredible roll would be made at Remarkable difficulty instead (until the NPC
-takes a moment to clear their head).
+Both are handled holistically. Players may assess their relative positions, and the positions of the NPCs, by asking the GM for details and narrating their own movement. Each round within a turn happens (more or less) simultaneously, even if some actions would realistically take much longer than others. Players should not 
 
-A PC or NPC recovers from unreadiness by skipping their turn. That means if an
-NPC is made unready by a PC, each other PC has a moment to take advantage of
-the situation before the NPC can recover. NPCs can take advantage of the same
-opportunity when a PC is made unready, of course; for this reason, being
-surrounded by multiple enemies is very dangerous!
+
+
