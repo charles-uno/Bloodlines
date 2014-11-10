@@ -1,6 +1,6 @@
 # The World and its Peoples
 
-At the dawn of the **First Age**, four peoples awakened: the Dwarves in the northern mountains, the Elves in the western forests, the Goblins in the southern swamps, and the Halflings in the western grasslands. For centuries, each lived isolated, oblivious to the existences of the others.
+At the dawn of the **First Age**, four peoples awakened: the Dwarves in the northern mountains, the Elves in the eastern forests, the Goblins in the southern swamps, and the Halflings in the western grasslands. For centuries, each lived isolated, oblivious to the existences of the others.
 
 The **Second Age** was a time of exploration, then colonization, then
 conflict. Cultures clashed with words and weaponry. Entire generations were
