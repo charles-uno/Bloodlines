@@ -30,7 +30,7 @@ withdraw. The majestic Elvish cities shut their gates; their populations
 dwindle. Goblins take pilgrimages to the edges of the world, never to return.
 All the while, Humanity's population swells.
 
-Humanity is not the only thing that grows, however. As magic recedes, the
+Humanity is not the only thing that grows. As magic recedes, the
 wilderness reasserts itself, becoming more savage and feral than any time in
 living memory. Danger encroaches on Humanity from all sides.
 
