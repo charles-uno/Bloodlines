@@ -47,7 +47,7 @@ Dwarves are at least a head shorter than Humans, but weight just as much (if not
 
 Dwarven society is orderly and traditional. Each city is made up of clans, and each clan within the city has its own role to fill, whether that be mining, smithing, or defending the city against the creatures of the deep earth. 
 
-The Dwarves worship Valka, the Forgemother, who tends the world's molten core. It's said that she created the Dwarves with the first blow of her massive hammer, then breathed life into them with her bellows. Valka watches over parents, miners, smiths, and warriors, and has dominion over the elements of stone, fire, and metal.
+The Dwarves worship Valka, the Forgemother, who tends the world's molten core. It's said that she created the Dwarves with the first blow of her massive hammer, then breathed life into them with her bellows. Valka watches over miners, smiths, and warriors, and has dominion over the elements of stone, fire, and metal.
 
 ## Elves
 
@@ -75,13 +75,10 @@ the ground or in the trees.
 
 ## Halflings
 
-Between the forests of the Elves and the swamps of the Goblins lay the rolling
-grasslands of the Halflings. Their small towns are surrounded by swaths of
-tilled fields.
+The west of the world is a massive grassland interspersed with hills, streams, and well-worn roads. These plains are home to the Halflings. They live in small, agrarian communities, each surrounded by vineyards, pastures, and fields of grain.
 
-Halflings are a short folk with smooth, round cheeks. They sport curly hair on
-their heads, as well as on the tops of their almost-always-bare feet.
+Halflings are short – far more so than the Dwarves – with round bellies and faces. They are smooth-cheeked but sport dark, curly hair on their heads and on top of their almost-always-bare feet. Halflings have a penchant for theatricality; they tend to dress in bright colors, even when working the fields, and can often be heard sharing songs and poetry.
 
-Halflings are quiet artisans. Disinterested in danger and adventure, they are
-content to farm their grains, brew their ales, and whittle their trinkets.
+Halfling society is familial. Children defer to their parents, who in turn defer to the local elders. Halflings traditionally greet one another as brother or sister, aunt or uncle, niece or nephew, even in the absence of blood relation. While there is no formal relationship between Halfling communities, trade between them is common; they also intermingle regularly due to the Halflings' penchant for festivals.
 
+Halfling magic stems from Dina, the goddess of wine and revelry. She watches over all of her children, but most of all favors parents, lovers, and mischief-makers. Dina holds dominion over charms and illusions.
