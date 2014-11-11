@@ -41,75 +41,8 @@ spells add the ability to attempt things which are emphatically superhuman.
 
 ## Dwarf Spells
 
--   **Sharna**. The caster of this spell will find themselves able to reshape
-    a  held piece of solid stone as if it were clay. As soon as they let go of
-    it,  the stone reassumes its ordinary consistency.
--   **Yeutet**. This spell transforms a held piece of metal into a powerful
-    magnet, or returns a magnet to inert metal. The magnet pulls, and is
-    equally  pulled by, nearby iron and steel.
-
 ## Elf Spells
-
--   **Caibidil**. Upon speaking this word, the caster will find that the
-    languages of people seem unintelligible, but the languages of animals are
-    clear – note that this does not affect the intelligence of the animals, if
-    any. The same word again reverses the effect.
--   **Eiadan**. This word must be held in the mind as the caster carves their
-    face into the bark of a living tree. From then on, they may see through
-    its  eyes at will. Upon casting this spell on a new tree, the caster loses
-    their  bond to all former trees, though the carvings remain.
 
 ## Goblin spells
 
--   **Bong-tuy**. Holding this spell in the front of the mind allows the
-    caster  to see normally in even complete darkness.
--   **Nyap-nyay**. Upon stepping into any shadow large enough to contain them,
-    the caster may speak this spell to vanish, then reappear moments later in
-    another nearby shadow (which must also be large enough to contain them).
-
 ## Halfling spells
-
--   **Anadl**. This spell enlists the wind to complete a small task for the
-    caster – to lift, push, or otherwise manipulate an object. Note that the
-    wind has the strength and dexterity of a child.
--   **Caru**. With this spell, the caster asks the wind to carry their words.
-    A  short message can be carried swiftly across even great distances in
-    this  way.
-
-## Merfolk spells
-
--   **Aizhla**. Holding this word in the front of the mind allows the
-    spellcaster to breathe under water just as easily as in air.
--   **Calamarsa**. This spell allows the caster to call down a rainstorm. The
-    severity of the storm will depend on the climate – near the sea it may be
-    torrential, while in the desert it may produce nothing more than a foggy
-    mist.
-
-## Naga spells
-
--   **Shenhua**. This terrible spell requires the sacrifice of four innocent
-    lives to complete. Its effect is to return one dead person to life, in
-    perfect health.
--   **Ssiwang**. This word allows the caster to ask a single yes-or-no
-    question  of any recently-slain corpse. The corpse will answer truthfully
-    to the best  of its knowledge, then crumble into ash.
-
-## Orc spells
-
--   **Noama**. Casting this spell removes the caster's need for sleep, though
-    they may still sleep if they choose to.
--   **Thelhoshar**. This spell transforms the caster into an indestructible
-    quartz statue, and can be used again to transform back. Each
-    transformation  takes several minutes. While in statue form, the caster
-    maintains a vague  sense of their surroundings.
-
-## Satyr spells
-
--   **Futya**. Sparks can be made to jump from any open flame with this word.
-    The caster may direct them as much as an armspan in any direction.  The
-    sparks are not large enough to wound a person, though they make excellent
-    distractions and can ignite flammable objects.
--   **Nevma**. This word is used to summon or dismiss a tiny spirit made of
-    fire, which hovers near the caster's shoulder like a torch. It can take
-    simple instructions, though it becomes less obedient as it gets further
-    from  the caster.
