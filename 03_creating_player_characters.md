@@ -26,48 +26,10 @@ Wounds are recovered in dramatically appropriate time. A short rest immediately 
 
 The bloodlines themselves are described as follows.
 
-(Bloodline descriptions are not yet updated, obviously. -Charles)
-
--   **The Dwarf bloodline grants skill with weapons and tactics.** A high
-    score  will improve a PC's rolls to attack with blades, bows, and any
-    other sort of  weapon, as well as disarm, disable, and outmaneuver
-    opponents. It also  defends against armed attackers – the GM may request a
-    Dwarf roll for a PC  to deflect an incoming axe or sword.
--   **The Elf bloodline grants perceptiveness and an affinity with nature.** A
-    high score will improve a PC's rolls to navigate without a map, track an
-    NPC  through the wilds, handle animals, predict the weather, and forage
-    for food  and water. It also defends against hidden dangers – the GM may
-    request an  Elf roll for a PC to detect a trap or an impending ambush.
--   **The Goblin bloodline grants agility and reflexes.** A high score will
-    improve a PC's rolls to run, jump, and otherwise move rapidly. It also
-    defends against projectiles – the GM may request a Goblin roll for a PC to
-    quickly duck out of the way of an arrow or falling rock.
--   **The Halfling bloodline grants stealth and dexterity.** A high score will
-    improve a PC's rolls to pick locks, pick pockets, move silently through
-    the  shadows, and travel without leaving a trail. It also defends against
-    detection – the GM may request a Halfling roll for a PC to avoid being
-    found  by NPCs.
--   **The Merfolk bloodline grants persuasiveness and willpower.** A high
-    score  will improve a PC's rolls to barter, build rapport, and solicit
-    aid, as well  as taunt and intimidate. It also defends against provocation
-    – the GM may  request a Merfolk roll for a PC to maintain their composure
-    when confronted  with a tense or coercive social situation.
--   **The Naga bloodline grants knowledge and experience.** A high score will
-    improve a PC's rolls to know history, nobility, monster descriptions, etc.
-    It also defends against ignorance – the GM may request a Naga roll for for
-    the PC to understand a language being spoken nearby, or to recall
-    pertinent  lore about a specific monster or artifact.
--   **The Orc bloodline grants strength and endurance.** A high score will
-    improve a PC's rolls to kick down doors, lift heavy things, run long
-    distances, and engage in grapples. It also defends against exposure – the
-    GM  may request an Orc roll for a PC to resist the effects of poison, or
-    to  persevere for days without food, water, or shelter.
--   **The Satyr bloodline grants skill at entertainment and deception.** A
-    high  score will improve a PC's rolls to sing, dance, act, and play
-    musical  instruments, as well as to lie, create disguises (for themselves
-    or others),  and maintain false identities. It also defends against
-    deception – the GM  may request a Satyr roll for a PC to judge an NPC's
-    trustworthiness.
+-   **The Dwarf bloodline imparts strength, endurance, and skill-at-arms.** A high score will improve a PC's rolls to grapple, brawl, kick down doors, run long distances, and use swords, axes, spears, and other hand-to-hand weapons. It also defends against melee attackers and exposure to the elements – the GM may request a Dwarf roll for a PC to deflect a grapple, parry an incoming sword, or stomach a poison.
+-   **The Elf bloodline imparts knowledge, perceptiveness, and natural affinity.** A high score will improve a PC's rolls to forage, track, handle animals, make educated guesses, and recall facts about history, monsters, and geography. It also defends against ignorance and hidden dangers – the GM may request an Elf roll for a PC to notice an impending ambush, to recall a pertinent detail about an NPC, or to understand a new language being spoken nearby.
+-   **The Goblin bloodline imparts reflexes, coordination, and stealthiness.** A high score will improve a PC's rolls to pick locks, pick pockets, move silently, and attack with ranged and thrown weapons. It also defends against detection and against projectiles – the GM may request a Goblin roll for a PC to remain hidden despite pursuers, or to duck out of the way of an incoming arrow or falling rock. 
+-   **The Halfling bloodline imparts social savvy, charisma, and willpower.** A high score will improve a PC's rolls to provoke, intimidate, barter, build rapport, entertain, create disguises, and lie. It also defends against deception and coercion – the GM may call for a Halfling roll for a PC to judge an NPC's trustworthiness, or maintain composure when faced with a tense or confrontational social situation.
 
 ---
 
@@ -92,10 +54,8 @@ Father Liam is described as follows:
 > their possessions until he is – inevitably – discovered and run out of town
 > again. He is currently traveling disguised as a priest and apothecary, ready to dispense his particular brand of aid to those in need.
 
-Father Liam takes +2 to his Halfling bloodline to account for his deceptive nature and his penchant for false identities. He also takes +1 to his Goblin bloodline – he was once a street-wise scoundrel,
-after all. In exchange, he takes -3 to his Dwarf bloodline. Father Liam has never done an honest day of work in his life!
-
-(Do PCs start with a spell? -Charles)
+Father Liam takes +3 to his Halfling bloodline to account for his deceptive nature and his penchant for false identities. He also takes +1 to his Goblin bloodline – he was once a street-wise scoundrel,
+after all. In exchange, he takes -1 to his Elf bloodline and -3 to his Dwarf bloodline. His intelligence is more social than academic, and he has never done an honest day of work in his life!
 
 ## Example PC: Galadhel
 
@@ -118,11 +78,7 @@ must be having.
 
 Galadhel takes +2 to her Elf bloodline to demonstrate her natural affinity for
 the woods and woodland creatures. She also takes +2 to her Goblin bloodline to
-explain her skill with a bow.
-
-In exchange, she takes -2 each to her Merfolk and Satyr bloodlines. She is
-hot-tempered and impatient, with nothing but contempt for those in positions
-of authority.
+explain her skill with a bow. In exchange, she takes -2 each to her Dwarf and Halfling bloodlines. Despite her hot temper and contempt for authority, she prefers to avoid hand-to-hand confrontations. 
 
 ## Example PC: Oxyehenhuain
 
@@ -141,13 +97,7 @@ Oxyehenhuain is described as follows:
 > texts, Oxye crammed as many scrolls as would fit in her bag and headed out
 > into the great wide world.
 
-Oxyehenhuain takes +2 to her Merfolk bloodline to reflect her immaculate
-manners and patient demeanor. She also takes +2 to her Naga bloodline – her
-knowledge, particularly of the history and languages of the world, is
-impressive.
-
-In exchange, she takes -1 each to her Dwarf, Elf, Goblin, and Orc bloodlines.
-Her studious life has done little to prepare her for the dangers found outside
+Oxyehenhuain takes +3 to her Elf bloodline and +1 to her Halfling bloodline. She is well-mannered and patient, with an extensive knowledge of the history and languages of the world. In exchange, she takes -2 to her Dwarf and Goblin bloodlines. Her studious life has done little to prepare her for the dangers found outside
 of court.
 
 ## Example PC: Tor Byorn Yorgensen
@@ -167,9 +117,4 @@ Tor Byorn Yorgensen is described as follows:
 > in to fights that do not concern him to defend those he views as in need of
 > help (whether they agree or not)!
 
-Tor Byorn takes +2 to his Orc bloodline. He is built powerfully, and his time
-wandering the wilderness has left him toughened. He also takes +2 to his Dwarf
-bloodline, to show his proficiency with his hammer.
-
-In exchange, he takes -2 each to his Satyr and Naga bloodlines – he's not one
-for subtlety, or for books.
+Tor Byorn takes +4 to his Dwarf bloodline. He's an excellent problem solver... but only when it comes to problems that can be solved by smashing something. In exchange, he takes -1 to his Elf and Goblin bloodlines and -2 to his Halfling bloodline. He's not one for subtlety, diplomacy, or books.
