@@ -61,17 +61,13 @@ Elves follow the twins Aso and Osa, the god and goddess of the sun and moon resp
 
 ## Goblins
 
-The eastern edge of the world is wrapped in a lush mangrove swamp. The Goblins
-live here, their tiny huts clustered together wherever solid ground is to be
-had.
+The southern edge of the world is wrapped in a lush mangrove swamp, where highland streams crisscross in silty deltas before flowing into the sea. The treetops and waterways teem with birds, snakes, and frogs. Goblins are the apex predators of the swamp's vibrant food chain.
 
-Goblins are short and wiry, with large, bald heads and exaggerated features –
-their eyes, ears, and teeth seem far too large compared to the rest of their
-bodies.
+Goblins are comparable in height to Humans, though the two would never be mistaken for one another. Goblins have wiry builds, bald skin, and exaggerated features: oversized eyes, ears, and teeth. Their tropical home leaves them little need for clothing, but they tattoo themselves heavily.
 
-Goblins are devilishly fast. They are vicious hunters not because of tactics
-or weapons, but because there is no creature that can outrun them, whether on
-the ground or in the trees.
+Goblins are tribal nomads. They erect their huts wherever solid ground is to be had, knowing that they will soon move to a new hunting ground, or flee an incoming storm.
+
+Goblins pray to Opochi, the god of wind, water, and storms. While others might believe Opochi to be fickle and dangerous, the Goblins believe that he sends storms and floods to test the cleverness of his children... and that he rewards those who impress him.
 
 ## Halflings
 
