@@ -22,18 +22,18 @@ CHAPTERS := $(wildcard [0-9][0-9]*.md)
 all: html pdf
 
 # Clean up all output files
-clean: | clean-html clean-pdf
+clean: clean-html clean-pdf
 
 # Make an HTML Page
 html: $(CHAPTERS)
 	$(BASE_COMMAND) $(CHAPTERS) --to=html5 -o $(HTML_FILE)
 
 clean-html:
-	rm $(HTML_FILE)
+	rm -f $(HTML_FILE)
 
 # Make a PDF via LaTeX
 pdf: $(CHAPTERS)
 	$(BASE_COMMAND) $(CHAPTERS) --smart -o $(PDF_FILE)
 
 clean-pdf:
-	rm $(PDF_FILE)
+	rm -f $(PDF_FILE)
