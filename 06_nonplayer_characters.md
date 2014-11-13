@@ -75,7 +75,6 @@ As a Minor NPC, rolls against a brigand are made at the lowest level by default.
 
 - A Significant Dwarf roll would be necessary to fend off several brigands at once in hand-to-hand combat. They are unremarkable fighters, but extremely willing to take advantage of their superior numbers.
 - An Incredible Elf roll could be made to deduce the motivation behind the attack. This could be done in a variety of ways, from recognizing the Sisterhood's insignia to hearing one brigand yell to another about the chest.
-- A signficant Goblin roll would be necessary to sneak away from the ambush, while outnumbered by brigands hungry for hostages.
 - A Legendary Halfling roll would be necessary to switch places with a brigand during the scuffle, perhaps grabbing some clothing from a fallen body, in order to infiltrate their ranks.
 
 ## Example NPC: Cerberus
@@ -99,7 +98,6 @@ follows:
 As a Significant NPC, a Cerberus has levels both above and below it. The following are examples of how savvy PCs might find themselves making Minor rolls, and how careless PCs might instead be called to roll at Incredible or even Legendary.
 
 - An Incredible Dwarf roll would be necessary to forcefully restrain a cerberus. There are few safe places to grab a beast with so many teeth!
-- A Minor Elf roll would be necessary to identify a cerberus. They are rare beasts, but famous. Scholars can often speculate at the treasure contained in a vault based only on the fur color of the cerberus that guards it.
 - A Legendary Goblin roll would be necessary to, by keeping to the shadows and taking soft steps, make one's way past an alert cerberus.  
 - A Minor Halfling roll would be necessary to lull a cerberus to sleep, whether by singing or through the use of a musical instrument... if for some reason a PC felt it wise to carry a lute deep into the wilderness!
 
@@ -108,7 +106,7 @@ As a Significant NPC, a Cerberus has levels both above and below it. The followi
 Each stegosaurus is an Incredible NPC – they have five wounds each.  Their
 description is as follows:
 
-> Stegosauruses are armored lizards with rows of bony plates on their backs
+> Stegosauruses are massive lizards with rows of bony plates on their backs
 > and sharp spikes at the end of their tails. Fully grown they stand two
 > armspans tall and five armspans long, though their tiny heads are held just
 > off the ground.
@@ -124,10 +122,9 @@ description is as follows:
 
 The stegosaurus is an Incredible NPC. PCs who take advantage of its weaknesses may be able to make rolls at Significant or even Minor level, while those who play against the beast's strengths may find themselves making Legendary rolls.
 
-- A Significant Dwarf roll would be necessary to wrestle a stegosaurus to the ground... provided the PC could get close enough. The stegosaurus' tail cannot reach to strike so far forward, and its neck muscles are too weak to throw off an attacker. 
-- A Minor Elf roll would be necessary to identify a stegosaurus as an herbivore. This would allow the PC to warn the rest of the party, and avoid a dangerous confrontation.
-- A Legendary Elf roll would be necessary to 
-- A Legendary Goblin roll would be necessary to fell a stegosaurus with a bow and arrow. The beast presents a large target, but its vulnerable parts are small. 
+- A Legendary Dwarf roll would be necessary attack a stegosaurus head-on. The stegosaurus' tail gives it more reach than even a spear or polearm. 
+- A Significant Elf roll would be necessary to calm a stegosaurus once agitated. The creatures fight out of fear, not hunger or malice. 
+- A Minor Goblin roll would be necessary to shoot a stegosaurus with an arrow. Its flanks are enormous, and the beast's hide is no match for honed steel. Of course, it takes many arrows to fell a stegosaurus... the first only makes it angry. 
 
 ## Example NPC: Dragon
 
@@ -147,16 +144,7 @@ follows:
 > herself like armor. The entrance to her lair is scattered with the bones of
 > adventurers who sought to reclaim their stolen treasures.
 
--   An Ordinary Elf roll would be made to track the dragon back to its lair.
-    Though the beast flies, leaving no tracks, its home could perhaps be
-    deduced  based on local geography and the behavior of nearby animals.
--   A Remarkable Merfolk roll would be made to convince the dragon (through
-    flattery and reverent language) to listen to the PCs... rather than eating
-    them outright and claiming any treasure they may have been carrying.
--   An Incredible Halfling roll would be made to surreptitiously steal a
-    trinket  during a conversation with the dragon.
--   A Legendary Goblin roll would be made while negotiating back and forth
-    with  Lady Pearlbane to grab a trinket and run! Perhaps her great bulk –
-    and her  surprise at the PC's stupidity – would slow her down enough for
-    the PC to  escaps.
+- A Minor Elf roll would be necessary to find the dragon's lair. Nearby geographic features and the behavior of local wildlife could provide clues.
+- An Incredible Goblin roll...
+- A Significant Halfling roll would be necessary to grant the PCs audience, through a combination of reverent titles and flattery, as opposed to eating them outright and claiming any treasure they may be carrying
 
