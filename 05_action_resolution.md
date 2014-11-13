@@ -92,6 +92,9 @@ the roll is at hand.
 
 ## Confrontations
 
+
+
+
 During confrontations, play in Bloodlines becomes somewhat more structured. Rather than having each player participate conversationally, play is divided into rounds. During each round play proceeds clockwise around the table, with the GM's turn being last. 
 
 A PC or NPC can only act if they were aware of the confrontation at the beginning of the round. For example, if the PCs are caught unaware by an ambush, only the GM would take a turn in the first round. Players would take their first turns in the second round, because they were not aware of the confrontation until after the first round started. 
