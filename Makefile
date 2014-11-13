@@ -13,9 +13,10 @@ BASE_COMMAND := pandoc --from=$(MARKDOWN_TYPE)
 # "markdown"
 CHAPTERS := $(wildcard [0-9][0-9]*.md)
 
-# .PHONY is a special target that tells make to run clean if asked, even if a
-# file named "clean" exists and hasn't been modified recently
-.PHONY: clean
+# .PHONY is a special target that tells make to run certain targets (for
+# example, "clean") if asked, even if a file with that same name already exists
+# and hasn't been modified recently
+.PHONY: clean clean-html clean-pdf
 
 # Make all targets
 all: html pdf
