@@ -1,0 +1,3 @@
+# Ignore files created with make from the markdown
+*.pdf
+*.html
