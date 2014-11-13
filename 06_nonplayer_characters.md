@@ -54,9 +54,7 @@ it?
 
 ## Example NPC: Brigand
 
-(Updated to here. The example rolls should just need to be reverted to what they were when we had four attributes, I think. -Charles)
-
-Each brigand is an Ordinary NPC – they have a single wound each. Their
+Each brigand is a Minor NPC – they have a single wound each. Their
 description is as follows:
 
 > The Rose Canyon is the safest road from Pinecastle to Northmark... or at
@@ -73,17 +71,12 @@ description is as follows:
 > unopened – to her agent in Pinecastle. Gold and captives are the
 > Sisterhood's to keep.
 
--   An Ordinary Dwarf roll would be made to attack the brigand with a sword or
-    axe. They fight with malice, but little skill.
--   A Remarkable Orc roll would be made to resist a brigand's attack with a
-    poisoned blade or arrow. This is made instead of (not in addition to) a
-    Dwarf roll to parry or a Goblin roll to dodge – even the tiniest scratch
-    could be deadly!
--   An Incredible Merfolk roll would be made to barter with the brigands,
-    convincing them to abandon their mission and join your party.
--   A Legendary Satyr roll would be made to switch places with a brigand
-    during  the scuffle, perhaps grabbing a piece of clothing from a fallen
-    body in  order to infiltrate their ranks.
+As a Minor NPC, rolls against a brigand are made at the lowest level by default. However, there are cases where a player might be called to roll at a higher level instead:
+
+- A Significant Dwarf roll would be necessary to fend off several brigands at once in hand-to-hand combat. They are unremarkable fighters, but extremely willing to take advantage of their superior numbers.
+- An Incredible Elf roll could be made to deduce the motivation behind the attack. This could be done in a variety of ways, from recognizing the Sisterhood's insignia to hearing one brigand yell to another about the chest.
+- A signficant Goblin roll would be necessary to sneak away from the ambush, while outnumbered by brigands hungry for hostages.
+- A Legendary Halfling roll would be necessary to switch places with a brigand during the scuffle, perhaps grabbing some clothing from a fallen body, in order to infiltrate their ranks.
 
 ## Example NPC: Cerberus
 
@@ -92,8 +85,8 @@ follows:
 
 > The cerberi are twice as large as even the fiercest dog, with three times as
 > many heads. They are known for their obedience and attentiveness; as a
-> result, they make excellent guards. Many ancient treasures lay buried in far
-> corners of the world, forgotten by all except the cerberus that still stands
+> result, they were once deployed as elite guards. Many ancient treasures lay buried in far
+> corners of the world, forgotten by all except the cerberi that still stand
 > by.
 >
 > Sneaking past an alert cerberus is near-impossible – each of its many eyes,
@@ -103,16 +96,12 @@ follows:
 > This cerebus is named Hammermaw. It has stood vigil at the entry to this
 > cave for centuries, guarding its long-dead master's hoard of gold and gems.
 
--   An Ordinary Satyr roll would be made to lull a cerberus to sleep, provided
-    that the PC was carrying a musical instrument along with them.
--   A Remarkable Naga roll would be made to identify a particular cerberus
-    from  the distinctive markings in its fur, and by extension also deduce
-    the nature  of the treasure it guards.
--   An Incredible Orc roll would be made to forcibly grapple a cerberus to the
-    ground; there are few safe places to grab a beast with so many teeth.
--   A Legendary Halfling roll would be made to sneak past the cerberus –
-    making  it into the cave without being detected by its multitude of eyes,
-    ears, and  nostrils.
+As a Significant NPC, a Cerberus has levels both above and below it. The following are examples of how savvy PCs might find themselves making Minor rolls, and how careless PCs might instead be called to roll at Incredible or even Legendary.
+
+- An Incredible Dwarf roll would be necessary to forcefully restrain a cerberus. There are few safe places to grab a beast with so many teeth!
+- A Minor Elf roll would be necessary to identify a cerberus. They are rare beasts, but famous. Scholars can often speculate at the treasure contained in a vault based only on the fur color of the cerberus that guards it.
+- A Legendary Goblin roll would be necessary to, by keeping to the shadows and taking soft steps, make one's way past an alert cerberus.  
+- A Minor Halfling roll would be necessary to lull a cerberus to sleep, whether by singing or through the use of a musical instrument... if for some reason a PC felt it wise to carry a lute deep into the wilderness!
 
 ## Example NPC: Stegosaurus
 
@@ -133,16 +122,12 @@ description is as follows:
 > frightened. When surprised or threatened, they react violently, swinging
 > their tails with surprising force and speed.
 
--   An Ordinary Naga roll would be made to identify a stegosaurus, either by
-    sight or from another character's description. It would also give the PC
-    enough information to warn other characters not to surprise the beasts.
--   A Remarkable Elf roll would be made to sooth an agitated stegosaurus with
-    a  combination of soft words and slow movements.
--   An Incredible Dwarf roll would be made to wound a stegosaurus with an
-    arrow.  The beasts are large targets, and slow-moving, but their thick
-    hides leave  few areas vulnerable to attack.
--   A Legendary Goblin roll would be made to mount an unsuspecting
-    stegosaurus,  and to remain mounted despite its bucking and thrashing.
+The stegosaurus is an Incredible NPC. PCs who take advantage of its weaknesses may be able to make rolls at Significant or even Minor level, while those who play against the beast's strengths may find themselves making Legendary rolls.
+
+- A Significant Dwarf roll would be necessary to wrestle a stegosaurus to the ground... provided the PC could get close enough. The stegosaurus' tail cannot reach to strike so far forward, and its neck muscles are too weak to throw off an attacker. 
+- A Minor Elf roll would be necessary to identify a stegosaurus as an herbivore. This would allow the PC to warn the rest of the party, and avoid a dangerous confrontation.
+- A Legendary Elf roll would be necessary to 
+- A Legendary Goblin roll would be necessary to fell a stegosaurus with a bow and arrow. The beast presents a large target, but its vulnerable parts are small. 
 
 ## Example NPC: Dragon
 
