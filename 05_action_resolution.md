@@ -1,38 +1,16 @@
+(This chapter is pretty rough. Sorry. If things are unclear, we can address them before we start playing. -Charles)
+
 # Action resolution
 
-During the back-and-forth between players and the GM, a player will often
-indicate that their PC is trying to do something. In most cases, the GM should
-allow the action to succeed uncontested. Rolls need not be made to find the
-tavern in a new town or make small talk with a nameless NPC; the actions are
-not difficult, but more importantly, their failure would not have interesting
-consequences. If failed, the player would just shrug and try again, wasting a
-few moments of game time.
+The success and failure of PC actions are judged by die rolls. The following rules lay out when and how to do so.
 
-On occasion, a player may declare their PC's intention to do something that is
-truly impossible. In such cases, the GM may of course inform them of the
-action's failure; no roll is required. More common, however, is that a player
-(particularly an inexperienced one) will declare an action that is
-inappropriately broad, vague, or otherwise discordant with the flow of play –
-trying to play out an entire important conversation in a single roll, for
-example. In such cases, the GM should ask the player to rephrase their
-intentions instead of having the action fail.
+**The story drives the mechanics, not vice versa.**
 
-In some cases, however, a PC will attempt an action for which success is
-uncertain (or even unlikely), and for which failure is interesting. In those
-cases, the GM will prompt the player to roll in order to judge the outcome.
+**Only players roll dice.** 
 
-Players can be called to roll for actions where the PC takes the active role
-(by swinging a sword or telling a lie) as well as those where the PC is
-reactive (parrying or sensing deception). The GM never rolls dice – if an
-action does not involve the PCs, the GM simply decides its outcome.
+**Rolls are appropriate only when an attempted action could result in multiple interesting outcomes.**
 
-Note that a wound should never be inflicted on a PC without allowing the
-player a roll to avoid it. No matter how far a PC falls, the player should
-always be allowed a roll to land without serious injuries; no matter how long
-the PCs have traveled without food and water, the player should always be
-allowed a roll to push on just a little longer. Even if these rolls are nearly
-certain to fail, allowing – or forcing – the player to roll gives them a
-degree of ownership over the consequences their PCs suffer.
+**The outcomes of rolls should be important, but not too important.** 
 
 ## Rolls
 
@@ -46,3 +24,12 @@ degree of ownership over the consequences their PCs suffer.
 
 ## Confrontations
 
+Action resolution during a confrontation is fundamentally no different from action resolution at any other time. However, the details merit additional discussion.
+
+**The story drives the mechanics, not vice versa.** Time and space are not strictly defined. There is no turn order. Players should just keep playing, even if a confrontation is happening! 
+
+**Only players roll dice.** PCs are expected to act, not react. The responsibility to advance the story falls to them. Furthermore, having players roll gives them some ownership of the ills that befall their PCs, as opposed to feeling that the unfortunate circumstances have been inflicted upon them.
+
+**Rolls are appropriate only when an attempted action could result in multiple interesting outcomes.** Like any other roll, a roll in combat never results in nothing happening. A failed attack with a sword may mean that the PC's opponent ducked under the blade and landed a blow of their own. A failed roll to pick off an NPC from a distance may mean the arrow missed, but still drew attention to the hiding spot. 
+
+**The outcomes of rolls should be important, but not too important.** As a rule, a PC inflicts one wound for each success they roll during a confrontation, and they suffer one wound for a failed roll. This is meant to give an idea for the magnitude of appropriate roll outcomes, not to imply that every roll should cause wounds. Grappling, kicking over a table to create a barriacade, sneaking out of the fray, creating a distraction, and countless other actions can be taken in combat to affect the behaviors of NPCs and the levels of future rolls!
