@@ -18,11 +18,12 @@ DATED_ODT_FILE := $(DATED_NAME).odt
 MARKDOWN_TYPE := markdown
 
 # Pandoc base command
-BASE_COMMAND := pandoc --from=$(MARKDOWN_TYPE)
+BASE_COMMAND := pandoc --from=$(MARKDOWN_TYPE) --standalone --toc
 
 # List of the chapters, which start with two numbers and end with .md for
 # "markdown"
 CHAPTERS := $(wildcard [0-9][0-9]*.md)
+CONTENT := metadata.yaml $(CHAPTERS)
 
 # List for the clean targets
 CLEAN_TARGETS := \
@@ -42,40 +43,40 @@ all: html pdf odt
 clean: $(CLEAN_TARGETS)
 
 # Make an HTML Page
-html: $(CHAPTERS)
-	$(BASE_COMMAND) $(CHAPTERS) --to=html5 -o $(HTML_FILE)
+html: $(CONTENT)
+	$(BASE_COMMAND) $(CONTENT) --to=html5 -o $(HTML_FILE)
 
 clean-html:
 	rm -f $(HTML_FILE)
 
-html-dated: $(CHAPTERS)
-	$(BASE_COMMAND) $(CHAPTERS) --to=html5 -o $(DATED_HTML_FILE)
+html-dated: $(CONTENT)
+	$(BASE_COMMAND) $(CONTENT) --to=html5 -o $(DATED_HTML_FILE)
 
 clean-html-dated:
 	rm -f $(DATED_HTML_FILE)
 
 # Make a PDF via LaTeX
-pdf: $(CHAPTERS)
-	$(BASE_COMMAND) $(CHAPTERS) --smart -o $(PDF_FILE)
+pdf: $(CONTENT)
+	$(BASE_COMMAND) $(CONTENT) --smart --template=templates/latex.tex -o $(PDF_FILE)
 
 clean-pdf:
 	rm -f $(PDF_FILE)
 
-pdf-dated: $(CHAPTERS)
-	$(BASE_COMMAND) $(CHAPTERS) --smart -o $(DATED_PDF_FILE)
+pdf-dated: $(CONTENT)
+	$(BASE_COMMAND) $(CONTENT) --smart --template=templates/latex.tex -o $(DATED_PDF_FILE)
 
 clean-pdf-dated:
 	rm -f $(DATED_PDF_FILE)
 
 # Make an OpenOffice Document
-odt: $(CHAPTERS)
-	$(BASE_COMMAND) $(CHAPTERS) --to=odt -o $(ODT_FILE)
+odt: $(CONTENT)
+	$(BASE_COMMAND) $(CONTENT) --to=odt -o $(ODT_FILE)
 
 clean-odt:
 	rm -f $(ODT_FILE)
 
-odt-dated: $(CHAPTERS)
-	$(BASE_COMMAND) $(CHAPTERS) --to=odt -o $(DATED_ODT_FILE)
+odt-dated: $(CONTENT)
+	$(BASE_COMMAND) $(CONTENT) --to=odt -o $(DATED_ODT_FILE)
 
 clean-odt-dated:
 	rm -f $(DATED_ODT_FILE)
