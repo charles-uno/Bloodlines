@@ -1,28 +1,6 @@
-# Advancing Player Characters
+# Appendix III: Sample Spells
 
-As PCs undergo ever-more heroic trials, their bloodlines in turn manifest more
-and more strongly. In addition, PCs may find themselves developing magical
-abilities as spells bubble up through their hereditary memory.
-
-After each session, a player may **permanently increase any one of their PC's
-boodline scores** by 1. It's most appropriate to increase a score that was
-used more than usual in the most recent session – bartering with NPCs can
-serve to strengthen the Merfolk bloodline, for example, and enduring harsh
-environments can strengthen the Orc bloodline.
-
-Instead of incrementing a bloodline score, a player may have their PC **learn
-a single spell**. Learning a spell represents a small amount of magical
-ability expressing itself through the PC. Spells cannot be taught; they must
-arise naturally.
-
-While all PCs have access to spells, it bears noting that they are otherwise
-rare. Most humans never know a spell; many never even meet someone who does.
-Learning a new spell is always an event of note... though different sects of
-Humanity disagree about which spells are good omens and which are bad.
-
-The next pages list several example spells for each people.  Additionally, GMs
-are encouraged to add their own in order to further illustrate the world the
-PCs live in. 
+(Working on it. -Charles)
 
 ## Dwarf Spells
 

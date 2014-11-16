@@ -1,6 +1,6 @@
-(This chapter is pretty rough. Sorry. If things are unclear, we can address them before we start playing. -Charles)
-
 # Action resolution
+
+(This chapter is a mess. I'm working on it. -Charles)
 
 The success and failure of PC actions are judged by die rolls. The following rules lay out when and how to do so.
 
