@@ -2,33 +2,34 @@
 
 **What is a PC?**
 
-**Who can see the information on a PC's character sheet?**
+**Point to Appendix I, which has sample PCs**
+
+A PC's character sheet is public; it need not be hidden from the GM or from the other players. There is one exception, however. If a PC is specifically withholding a piece of information from the other PCs, that information may be withheld from the other players as well. This is best done in anticipation of a dramatic reveal!
+
 
 ## Description
 
-**This essay could likely use some work. It has been copy-pasted through several reworkings.**
+**Can the description be considered by the GM when assigning roll level? Previously it could not. I like having the level of a roll decoupled from a character sheet.**
 
-**Can the description be considered by the GM when assigning roll level? Previously it could not. I like having the level of a roll decoupled from a character sheet. However, people tend to just ignore their descriptions.**
+The most fundamental aspect of a PC is the description. This is a place for the player to keep track of their PC's background, personality, motivations, and any other details that might be used to guide the PC's actions during play. 
 
-The most fundamental aspect of a PC is the description. This is a place for the player to keep track of their PC's background, personality, motivations, and any other details that might be used to guide the PC's actions during play.
+Players are encouraged to talk to each other to figure out ideas for interesting backstories, relationships between the PCs, and what specifically has brought them together. The GM should be part of this discussion as well, in order to provide relevant details about the in-game world.... as well as to take note of people and places mentioned in the PCs' descriptions which may later be leveraged to create engaging plot hooks. 
 
-Writing a PC's description can be a collaborative effort. Players are encouraged to talk to each other to figure out ideas for interesting backstories, relationships between the PCs, and what specifically has brought them together. The GM should be part of this discussion as well, in order to provide relevant details about the in-game world.... as well as to take note of people and places mentioned in the PCs' descriptions which may later be leveraged to create engaging plot hooks. 
+A PC's description can also be used to eyeball the sorts of equipment a PC carries. There is no formal handling of items or currency in Bloodlines. If the PCs find themselves wanting lockpicks, a spyglass, some rope, or a disguise kit, they'll need to assess whether it would make sense for any of them to be carrying such a thing. 
 
-The descriptions is also used to illustrate the equipment each PC carries. There is no formal handling of items or currency in Bloodlines, so the description is used to judge holistically whether a PC seems like they would carry lockpicks, a spyglass, an extra weapon, rope, and other gear.
-
-Players have complete freedom over their PCs' descriptions. They may update them at any time in order to track important or unusual items, new relationships with NPCs, and so on.
-
-A PC's description – in fact, everything on the PC's character sheet – is public information. It need not be hidden from other players or from the GM. There is one exception, however: if a PC is specifically withholding something from the other PCs, that player may withhold the same information from the other players. This is best done in anticipation of a dramatic reveal!
+Players have complete freedom over their PCs' descriptions. They may update them at any time in order to note important or unusual items, new relationships with NPCs, and so on. 
 
 ## Bloodline Scores
 
-**What are bloodline scores?**
+PCs are Human, and as such their abilities can be expressed in terms of their four bloodline scores. These are numbers which illustrate how well the PC embodies the strengths of the four ancient peoples. A Human whose Elf bloodline manifests strongly will be sharp-eyed, for example, while one whose Dwarf bloodline is strong will be strong and tough. 
 
-**How are bloodline scores initialized?**
+During play, these scores give the number of dice that players use to make rolls. A higher score indicates that a PC manifests that bloodline more strongly, and as a result will be more adept at actions related to that bloodline.
 
-**How do bloodline scores advance?**
+Each bloodline score begins at a value of 5. In order to demonstrate strengths and weaknesses, the player may then decrease a score by one in order to increase another score by one. This may be done up to four times. For example, to create a PC who is tough and charming, but clumsy and dim-witted, a player may increment their Dwarf and Halfling scores to 7 at the cost of decreasing their Elf and Goblin scores to 3. 
 
-The bloodlines themselves are described as follows.
+At the end of each session, each player may permanently increase any one of their PC's bloodline scores by 1. (If they choose not to increase a bloodline score, the PC instead learns a spell, as discussed in a moment.) 
+
+The bloodlines are described as follows:
 
 -   The Dwarf bloodline imparts strength, endurance, and skill-at-arms. A high score will improve a PC's rolls to grapple, brawl, kick down doors, run long distances, and use swords, axes, spears, and other hand-to-hand weapons. It also defends against melee attackers and exposure to the elements – the GM may request a Dwarf roll for a PC to deflect a grapple, parry an incoming sword, or stomach a poison.
 -   The Elf bloodline imparts knowledge, perceptiveness, and natural affinity. A high score will improve a PC's rolls to forage, track, handle animals, make educated guesses, and recall facts about history, monsters, and geography. It also defends against ignorance and hidden dangers – the GM may request an Elf roll for a PC to notice an impending ambush, to recall a pertinent detail about an NPC, or to understand a new language being spoken nearby.
