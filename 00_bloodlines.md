@@ -21,7 +21,7 @@ Art by ???
 This is a playtest draft. Please do not distribute without permission.
 
 Thanks to Josh Borglum, Kara Donnithorne, Bryan Fowler, Aaron
-Heidgerken-Greene, Katie Heidgerken-Greene, Kaiya Hoyer-Leitzel, Alec Jenkins-White, Tim Lewis-Wolf, Joseph
+Heidgerken-Greene, Katie Heidgerken-Greene, Kaiya Hoyer-Leitzel, Alec Jenkins-White, Andy Kreienkamp, Tim Lewis-Wolf, Sam Mickle, Joseph
 Miller, Andy Pokel, Roxanne Radpour, Bob Sponsel, Damon Stone, Allan Straub,
 Alan Wu, and Jan Zirnstein.
 
