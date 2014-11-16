@@ -33,21 +33,33 @@ Alan Wu, and Jan Zirnstein.
     -   Elves
     -   Goblins
     -   Halflings
-3.  Creating Player Characters
-    -   Sample PC: Father Liam
-    -   Sample PC: Galadhel
-    -   Sample PC: Oxyehenhuain
-    -   Sample PC: Tor Byorn Yorgensen
-4.  Advancing Player Characters
+3.  Player Characters
+    -   Description
+    -   Bloodline Scores
+    -   Spells
+    -   Wounds
+4.  Action Resolution
+    -   Rolls
+    -   Confrontations
+5.  Nonplayer Characters
+    -   Description
+    -   Wounds
+6.  Game Mastering
+    -   ?
+    -   ?
+    -   ?
+7. Appendix I: Sample PCs
+    -   Father Liam
+    -   Galadhel
+    -   Oxyehenhuain
+    -   Tor Byorn Yorgensen
+8.  Appendix II: Sample NPCs
+    -   Brigand
+    -   Cerberus
+    -   Stegosaurus
+    -   Dragon
+9.  Appendix III: Sample Spells
     -   Dwarf Spells
     -   Elf Spells
     -   Goblin Spells
     -   Halfling Spells
-5.  Action Resolution
-    -   Rolls
-    -   Combat
-6.  Nonplayer Characters
-    -   Sample NPC: Brigand
-    -   Sample NPC: Cerberus
-    -   Sample NPC: Stegosaurus
-    -   Sample NPC: Dragon
