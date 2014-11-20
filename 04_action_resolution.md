@@ -4,13 +4,24 @@
 
 The success and failure of PC actions are judged by die rolls. The following rules lay out when and how to do so.
 
-**The story drives the mechanics, not vice versa.**
+**The PCs are expected to be the driving force behind the story. They should be active, not reactive. That's why only players roll.**
 
-**Only players roll dice.** 
+**Only roll when there are two interesting options. Examples of interesting failures:**
+- **cultists in the sewer. who sees who first?**
+- **disarming a trap. do you trip it?**
+- **trying to talk past a guard. he might yell for backup**
 
-**Rolls are appropriate only when an attempted action could result in multiple interesting outcomes.**
+**Failure is bad for the PCs but still good for the story.**
 
-**The outcomes of rolls should be important, but not too important.** 
+**auto-success is great, should be common**
+
+**auto-fail is not great, is allowed, but should be rare.**
+
+**Story trumps realism**
+
+**let it ride**
+
+**negative consequences happen right away. they never hang over you and give you and give you a chance to metagame**
 
 ## Rolls
 
@@ -27,6 +38,29 @@ A player can also influence roll level through mindful narration of their PC's a
 ## Confrontations
 
 Action resolution during a confrontation is fundamentally no different from action resolution at any other time. However, the details merit additional discussion.
+
+**one success means one wound on an NPC**
+
+**one failure means one wound on a PC**
+
+**There are other effects, of course: disarm, grapple, distract, cast spell, interact with environment**
+
+**play is conversational. no set order. GM does not take turns per se, but may prompt underparticipating players: "so-and-so is coming at you -- what do you do?" GM can interject, exposit, even call for rolls.**
+
+**Rolls follow fiction. If you have 4 PCs yelling at an NPC, it's not a social confrontation. That NPC is going to bail or call the guards!**
+
+**PCs are expected to be the driving force. Take impetus. Set the pace. **
+
+**Examples of failures:**
+- **try to climb on the troll? it slams you into the wall.**
+- **try to take pot shots into combat? maybe you miss and hit your friend**
+- **in a social confrontation, you misspeak, insult someone important, get flustered**
+
+**time and space are nebulous. "you're a little bit too far" is a lame reason to disallow something cool**
+
+
+
+
 
 **The story drives the mechanics, not vice versa.** Time and space are not strictly defined. There is no turn order. Players should just keep playing, even if a confrontation is happening! 
 
