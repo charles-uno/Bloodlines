@@ -9,13 +9,15 @@ A PC's character sheet is public; it need not be hidden from the GM or from the 
 
 ## Description
 
-**Can the description be considered by the GM when assigning roll level? Previously it could not. I like having the level of a roll decoupled from a character sheet.**
-
 The most fundamental aspect of a PC is the description. This is a place for the player to keep track of their PC's background, personality, motivations, and any other details that might be used to guide the PC's actions during play. 
 
 Players are encouraged to talk to each other to figure out ideas for interesting backstories, relationships between the PCs, and what specifically has brought them together. The GM should be part of this discussion as well, in order to provide relevant details about the in-game world.... as well as to take note of people and places mentioned in the PCs' descriptions which may later be leveraged to create engaging plot hooks. 
 
-A PC's description can also be used to eyeball the sorts of equipment a PC carries. There is no formal handling of items or currency in Bloodlines. If the PCs find themselves wanting lockpicks, a spyglass, some rope, or a disguise kit, they'll need to assess whether it would make sense for any of them to be carrying such a thing. 
+A PC's description is used to eyeball the sorts of equipment a PC carries. There is no formal handling of items or currency in Bloodlines. If the PCs find themselves wanting lockpicks, a spyglass, some rope, or a disguise kit, they'll need to assess whether it would make sense for any of them to be carrying such a thing. 
+
+**Additionally, the GM the description into account when determining how difficult an action would be for the PC. A PC with experience **doing X** might be called to make a Significant roll to **Y** instead of an Incredible one.**
+
+(I don't like this. -Charles)
 
 Players have complete freedom over their PCs' descriptions. They may update them at any time in order to note important or unusual items, new relationships with NPCs, and so on. 
 
@@ -52,6 +54,8 @@ Humanity disagree about which spells are good omens and which are bad.
 **How do you use spells?**
 
 **Point to Appendix III, which is a list of sample spells.**
+
+**Either here or in the appendix, note that spells are in-world abilities that don't explicitly deal with dice, though you can be called to roll while using them.**
 
 ## Wounds
 
