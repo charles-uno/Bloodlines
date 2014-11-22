@@ -1,28 +1,22 @@
 # Action resolution
 
-(This chapter is a mess. I'm working on it. -Charles)
+Bloodlines is, for the most part, played by talking. The GM describes the situation that the PCs find themselves in. Players ask the GM for details, speak as their PCs, and narrate their actions. The GM explains what happens in response. This pattern continues on, back and forth. 
 
-The success and failure of PC actions are judged by die rolls. The following rules lay out when and how to do so.
+There is no turn order per se. Players participate when they have something to add. That said, the GM should moderate play to ensure that everyone participates. For example, an underparticipating players can be called to action with, "The troll bellows menacingly. Galadhel, what's your plan?" or "Tor Byorn, what are you up to while the others are in the meeting with Ambassador Xictli?" or "You've finally arrived at Threebridges. Oxye, where do you go first?"
 
-**The PCs are expected to be the driving force behind the story. They should be active, not reactive. That's why only players roll.**
+The GM should allow most PC actions to succeed without pausing for a roll. There's no need to check if the PC can saddle their horse, or find the tavern in a new town. These actions are not difficult, and, more importantly, their failure wouldn't have interesting consequences. **Should I mention "let it ride" here?**
 
-**Only roll when there are two interesting options. Examples of interesting failures:**
-- **cultists in the sewer. who sees who first?**
-- **disarming a trap. do you trip it?**
-- **trying to talk past a guard. he might yell for backup**
+Similarly, the GM may decide that some actions fail, and decline to allow the a roll. For example, PCs might find it impossible to shatter a magical sword with a mundane hammer, or interrogate nonsentient monster. This should happen rarely; if at all possible, the GM should figure out a way to let the PCs roll for what they are trying to do.
 
-**Failure is bad for the PCs but still good for the story.**
+The GM can interject at any time to call for a roll. They should do so when a PC attempts an action with two outcomes, both of which are plausible and interesting. A successful roll means that the PC gets more or less the effect they intended. A failed roll, on the other hand, should be viewed by the GM as an invitation to introduce a new and unfortunate plot twist. The failure should have an immediate effect, making it impossible for the PC to reattempt the same action, or at least raising the stakes. 
 
-**auto-success is great, should be common**
+A roll's outcome should never be that nothing happens. This ensures that, one way or another, each roll moves the story along. A few examples follow:
+- **TBY dwarf roll example**
+- While weeding out an infestation of cultists in the sewers, the GM asks Galadhel (who walks ahead of the party as a scout) for an Elf roll. If it's successful, the GM tells her that she hears voices up ahead. If she fails the roll, on the other hand, the party is ambushed.
+- Before opening a door, Father Liam notices that the hinge is set to trigger a switch as it opens. He attempts to disarm it, prompting a Goblin roll. If he succeeds, he's able to disarm the trap and open the door safely. If he fails, the trap triggers, and the room begins to fill with icy water. 
+- Oxyehenhuain is caught out after curfew by two members of the city watch. She attempts to dispel their suspicions with a carefully concocted cover story. The GM calls for a Halfling roll. If Oxye succeeds, they politely escort her to her destination and continue their rounds. If she fails, they bind her hands, confiscate her scrolls, and lock her in a cell beneath the courthouse.
 
-**auto-fail is not great, is allowed, but should be rare.**
-
-**Story trumps realism**
-
-**let it ride**
-
-**negative consequences happen right away. they never hang over you and give you and give you a chance to metagame**
-
+Note that only players roll dice in Bloodlines. When two NPCs interact, the GM simply decides on the outcome. This serves as a reminder that the PCs are the story's driving force; they are expected to act, not merely react. Rolling also gives the players a sense of ownership over the ills that befall their PCs as a result of rolls that go badly.
 ## Rolls
 
 When the GM calls for a roll, the player rolls a number of dice equal to their PC's most relevant bloodline score. If it's ambiguous which score is most relevant, the determination falls to the GM. Note that when casting a spell, the bloodline used for the roll is always the one that corresponds to the spell.
