@@ -4,6 +4,8 @@
 
 **Point to Appendix I, which has sample PCs**
 
+**Note that you get to flavor your rolls. Just because a PC has a high Halfling score (and is therefore good at lying) doesn't mean they have to be shady. You can always choose to NOT have them lie, even in cases where lying would be convenient, if that's in line with how you envision them.**
+
 A PC's character sheet is public; it need not be hidden from the GM or from the other players. There is one exception, however. If a PC is specifically withholding a piece of information from the other PCs, that information may be withheld from the other players as well. This is best done in anticipation of a dramatic reveal!
 
 
