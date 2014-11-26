@@ -17,10 +17,6 @@ Players are encouraged to talk to each other to figure out ideas for interesting
 
 A PC's description is used to eyeball the sorts of equipment a PC carries. There is no formal handling of items or currency in Bloodlines. If the PCs find themselves wanting lockpicks, a spyglass, some rope, or a disguise kit, they'll need to assess whether it would make sense for any of them to be carrying such a thing. 
 
-**Additionally, the GM the description into account when determining how difficult an action would be for the PC. A PC with experience **doing X** might be called to make a Significant roll to **Y** instead of an Incredible one.**
-
-(I don't like this. -Charles)
-
 Players have complete freedom over their PCs' descriptions. They may update them at any time in order to note important or unusual items, new relationships with NPCs, and so on. 
 
 ## Bloodline Scores
