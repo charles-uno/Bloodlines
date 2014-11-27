@@ -17,6 +17,9 @@ A roll's outcome should never be that nothing happens. This ensures that, one wa
 - Oxyehenhuain is caught out after curfew by two members of the city watch. She attempts to dispel their suspicions with a carefully concocted cover story. The GM calls for a Halfling roll. If Oxye succeeds, they politely escort her to her destination and continue their rounds. If she fails, they bind her hands, confiscate her scrolls, and lock her in a cell beneath the courthouse.
 
 Note that only players roll dice in Bloodlines. When two NPCs interact, the GM simply decides on the outcome. This serves as a reminder that the PCs are the story's driving force; they are expected to act, not merely react. Rolling also gives the players a sense of ownership over the ills that befall their PCs as a result of rolls that go badly.
+
+**Explain that rolls can only be made against other PCs with the player's consent.**
+
 ## Rolls
 
 When the GM calls for a roll, the player rolls a number of dice equal to their PC's most relevant bloodline score. If it's ambiguous which score is most relevant, the determination falls to the GM. Note that when casting a spell, the bloodline used for the roll is always the one that corresponds to the spell.
