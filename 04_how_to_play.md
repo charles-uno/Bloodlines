@@ -32,35 +32,25 @@ The level of a roll depends on the challenge in front of a PC as well as how the
 
 ## Confrontations
 
-Action resolution during a confrontation is fundamentally no different from action resolution at any other time. However, the details merit additional discussion.
+During the course of their adventures, PCs inevitably become engaged in physical and social confrontations with NPCs. Broadly, play works the same during confrontations as it does during any other time. Players still participate in whatever order feels natural. The GM interjects on behalf of NPCs, and prompts the PCs for rolls. No roll ever results in nothing happening. The specifics of how these rules are applied during a confrontation bears additional discussion, however.
 
-**one success means one wound on an NPC**
+Players play in whatever order they like. There are no turns per se. 
+If one player is participating less, that can be taken to mean that the action is moving slower there, while things are moving faster where a higher density of turns are being taken. 
+GM can prompt underparticipating players. The examples hold up pretty well from before, so we probably don't need another round of them here. 
 
-**one failure means one wound on a PC**
+The GM can interject with bits of exposition, to introduce new NPCs to the scene, and to call for rolls, at any time.
+Some rolls will be difficult to judge because the player will indicate several actions before the GM decides it's time for a roll. Sneaking up on someone and stabbing them. Do you roll Goblin to sneak or Dwarf to stab?
 
-**There are other effects, of course: disarm, grapple, distract, cast spell, interact with environment**
+Rolls follow the fiction, not vice versa. If four PCs surround an NPC and start yelling, that's not a social confrontation. The NPC will probably call in the guards!
 
-**play is conversational. no set order. GM does not take turns per se, but may prompt underparticipating players: "so-and-so is coming at you -- what do you do?" GM can interject, exposit, even call for rolls.**
+As before, failure is bad, success is good, and multiple successes are even better. 
+Note that the consequence of a failure need not line up with what the player was rolling for. If rolling to shoot an NPC, a failed roll doesn't necessarily mean that they shoot you instead. 
+Here are some examples of outcomes you might get from rolls:
+- Try to pick off baddies in a melee. Success, you do it. Failure, you shoot your friend instead.
+- While negotiating in an unfamiliar language, the GM may call for an Elf roll. If you succeed, you inflict a wound (as you wear away at your opponent's willpower). If you fail, you become flustered and embarassed, and take a wound yourself.
+- Try to climb onto a troll's back. It lurches backwards, slamming you into the cave wall. 
 
-**Rolls follow fiction. If you have 4 PCs yelling at an NPC, it's not a social confrontation. That NPC is going to bail or call the guards!**
-
-**PCs are expected to be the driving force. Take impetus. Set the pace. **
-
-**Examples of failures:**
-- **try to climb on the troll? it slams you into the wall.**
-- **try to take pot shots into combat? maybe you miss and hit your friend**
-- **in a social confrontation, you misspeak, insult someone important, get flustered**
-
-**time and space are nebulous. "you're a little bit too far" is a lame reason to disallow something cool**
-
-
-
-
-
-**The story drives the mechanics, not vice versa.** Time and space are not strictly defined. There is no turn order. Players should just keep playing, even if a confrontation is happening! 
-
-**Only players roll dice.** PCs are expected to act, not react. The responsibility to advance the story falls to them. Furthermore, having players roll gives them some ownership of the ills that befall their PCs, as opposed to feeling that the unfortunate circumstances have been inflicted upon them.
-
-**Rolls are appropriate only when an attempted action could result in multiple interesting outcomes.** Like any other roll, a roll in combat never results in nothing happening. A failed attack with a sword may mean that the PC's opponent ducked under the blade and landed a blow of their own. A failed roll to pick off an NPC from a distance may mean the arrow missed, but still drew attention to the hiding spot. 
-
-**The outcomes of rolls should be important, but not too important.** As a rule, a PC inflicts one wound for each success they roll during a confrontation, and they suffer one wound for a failed roll. This is meant to give an idea for the magnitude of appropriate roll outcomes, not to imply that every roll should cause wounds. Grappling, kicking over a table to create a barriacade, sneaking out of the fray, creating a distraction, and countless other actions can be taken in combat to affect the behaviors of NPCs and the levels of future rolls!
+During a confrontation, roll magnitudes are consistent. 
+A failed roll is worth one wound on a PC.
+Each success is worth a wound on an NPC. 
+Other effects are allowed, of course. Grab, tackle, disarm, taunt, distract, or reason with NPCs. Interact with environment. These actions can affect the behavior of NPCs as well as the levels of future rolls. However, the GM should do their best to narrate these outcomes so that they seem about equivalent in effect to one wound per success. 
