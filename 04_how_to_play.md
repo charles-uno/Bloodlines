@@ -32,25 +32,18 @@ The level of a roll depends on the challenge in front of a PC as well as how the
 
 ## Confrontations
 
-During the course of their adventures, PCs inevitably become engaged in physical and social confrontations with NPCs. Broadly, play works the same during confrontations as it does during any other time. Players still participate in whatever order feels natural. The GM interjects on behalf of NPCs, and prompts the PCs for rolls. No roll ever results in nothing happening. The specifics of how these rules are applied during a confrontation bears additional discussion, however.
+During their adventures, PCs inevitably become engaged in physical and social confrontations with NPCs. Broadly, the rules work the same during confrontations that they do at any other time. Players still participate in whatever order feels natural. The GM interjects on behalf of NPCs, and prompts the PCs for rolls. No roll ever results in nothing happening. The specifics of how these rules are applied during a confrontation bears additional discussion, however.
 
-Players play in whatever order they like. There are no turns per se. 
-If one player is participating less, that can be taken to mean that the action is moving slower there, while things are moving faster where a higher density of turns are being taken. 
-GM can prompt underparticipating players. The examples hold up pretty well from before, so we probably don't need another round of them here. 
+As at any other time, rolls follow the story, not vice versa. Players should not think that a confrontation means that dice supersede roleplaying. For example, players should not presume to treat a social confrontation like they would a physical one. If four PCs surround an NPC and start yelling, it's not a social confrontation at all. The NPC is likely to flee or call in the guards, rather than engage the PCs in an argument. 
 
-The GM can interject with bits of exposition, to introduce new NPCs to the scene, and to call for rolls, at any time.
-Some rolls will be difficult to judge because the player will indicate several actions before the GM decides it's time for a roll. Sneaking up on someone and stabbing them. Do you roll Goblin to sneak or Dwarf to stab?
+Each player should contribute as they like, within reason, even if not everyone else has gone since their last turn. If some players contribute more than others, it can be presumed that the action is simply moving faster around those PCs! Of course, if the GM deems some players to be participating too little, they may specifically prompt them: "The duchess considers your behavior to be a breach of your agreement; Tor Byorn, she looks to you for an explanation" or "Liam, a few of the skeletons turn suddenly turn away from the group and charge at you. What do you do?"
 
-Rolls follow the fiction, not vice versa. If four PCs surround an NPC and start yelling, that's not a social confrontation. The NPC will probably call in the guards!
+The GM calls for rolls at their discretion. This means that a player may sometimes narrate several actions before being called to roll. When this happens, it is the GM that determines which bloodline score should be rolled. For example, suppose that Father Liam wants to sneak up behind an NPC and knock them out. The GM may choose to call for a Goblin roll (for the sneaking) or for a Dwarf roll (for the attack), depending on which seems more appropriate at the time. 
 
-As before, failure is bad, success is good, and multiple successes are even better. 
-Note that the consequence of a failure need not line up with what the player was rolling for. If rolling to shoot an NPC, a failed roll doesn't necessarily mean that they shoot you instead. 
-Here are some examples of outcomes you might get from rolls:
-- Try to pick off baddies in a melee. Success, you do it. Failure, you shoot your friend instead.
-- While negotiating in an unfamiliar language, the GM may call for an Elf roll. If you succeed, you inflict a wound (as you wear away at your opponent's willpower). If you fail, you become flustered and embarassed, and take a wound yourself.
-- Try to climb onto a troll's back. It lurches backwards, slamming you into the cave wall. 
+During confrontations, the effects of rolls are fairly consistent in magnitude. A failed roll is worth one wound on a PC. Each success is worth a wound on an NPC (that is, two or three successes on a roll has twice or triple the effect of a single success). Other effects are allowed, of course, and even encouraged. PCs can grab, tackle, disarm, taunt, distract, or reason with NPCs. They can interact with the environment, perhaps hiding or improvising a barricade. They can cast spells. These actions can affect the levels of future rolls as well as the behaviors of NPCs. However, the scale above should serve as a guide to the GM when narrating the size of each effect. 
 
-During a confrontation, roll magnitudes are consistent. 
-A failed roll is worth one wound on a PC.
-Each success is worth a wound on an NPC. 
-Other effects are allowed, of course. Grab, tackle, disarm, taunt, distract, or reason with NPCs. Interact with environment. These actions can affect the behavior of NPCs as well as the levels of future rolls. However, the GM should do their best to narrate these outcomes so that they seem about equivalent in effect to one wound per success. 
+As at any other time, it can be difficult to think of consequences for a failed roll. A few examples follow. It also bears noting that the consequence of a roll need not be the same sort of effect that a PC was trying to create; the failed roll allows the GM to introduce whatever sort of effect they deem appropriate.
+- While exploring a cave system, the party is ambushed by a troll. Tor Byorn attempts to climb up the troll's back to attack its head, prompting a Dwarf roll. If successful, he is able to mount it, distracting it and setting himself up for an easy attack next round. If he fails his roll, the troll lurches backwards, slamming Tor Byorn into the wall and inflicting a wound on him. 
+- Oxyehenhuain is engaged in a negotiation with a foreign dignitary. The GM calls for an Elf roll due to Oxye's inexperience with the language being used. If she succeeds, she makes a strong argument, and erodes her opponent's willpower, inflicting a wound. If she fails, she mixes up a word and mistakenly utters an offensive slur. She realizes her error and becomes flustered, suffering a wound herself. 
+- Brigands ambush the party, but luckily Galadhel escapes their notice. She draws an arrow and fires into the melee, prompting a Goblin roll. If successful, she drops a brigand in its tracks. If she fails, she instead misses and hits a member of the party instead. 
+- **Liam Halfling social confrontation example. For a greater diversity of examples, make sure that neither consequence inflicts a wound. Maybe lying.**
