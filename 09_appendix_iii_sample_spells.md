@@ -1,23 +1,25 @@
 # Appendix III: Sample Spells
 
-(Working on it. -Charles)
+**Explain here how people can come up with their own spells? These are immersive, in-world abilities each with a variety of uses. Or does this go in the PC section, where we explain what spells are? I think it goes here.**
+
+**Note that rolls for a spell always use the bloodline associated with that spell. Even at-will spells can prompt rolls, depending on the effect. For example, if you want to cannonball onto a bunch of enemies using Stoneform, the roll would measure your coordination and aim. If you want to call in some fog for cover using Stormcall, the roll would test how thick of a fog Opochi felt fit to bless you with.**
 
 ## Dwarf Spells
 
-- **Stoneform**: You can petrify yourself. At will, you may take the form of an indestructible granite statue. The transformation takes only a moment. Your clothing and posessions change with you. While in statue form, you remain aware of your surroundings, and can change back at will. If the GM calls you to roll as part of casting this spell -- for example, to gauge your aim when you jump from a ledge, petrify in midair, and come crashing down at a particular target, roll Dwarf.
-- **Stonestrike**: You can attach the weight of stone to your attacks, making them devastating, if unwieldy. Whenever you roll Dwarf to attack with a melee weapon, you may increase the difficulty of your roll by one level. If you do, and the roll is successful, each success you roll counts double.
+- **Immobilize**: You can, by touching a nonliving object, render it absolutely immobile, even resisting the effects of gravity. This ability can be used to hold a door shut. It can restrain an NPC by locking their armor in place. It can even be used to climb hand-over-hand straight up into the air, by holding a pair of ladder rungs and alternating which is immobile. 
+- **Stoneform**: You can turn yourself (as well as your clothing and posessions) into an indestructible stone statue. The transformation takes only a moment. While in statue form, you remain aware of your surroundings, and can change back at will. This ability can be used to lock an NPC into a grapple by becoming rigid around them. It can be use to create cover for other PCs. A PC could even jump from a ledge and petrify in midair to come crashing down into a group of enemies. 
 
 ## Elf Spells
 
-- **Deathspeak**: You can speak to the dead. Upon encountering a corpse, you may ask it any number of questions. The corpse is bound to answer honestly to the best of its knowledge, even revealing information it would never have shared while alive. 
-- **Treesight**: You can extend your senses through any living tree. As long as you are touching a tree, you may see, hear, and smell as if you were standing in the location of another living tree of your choice. You may name a specific tree, or name a location and see through the tree closest to it.
+- **Chronokinesis**: You can shunt objects forward in time. You can cause any nonliving object that you can hold in your hands to vanish, then reappear at the exact same location at a later point in time. This ability is useful for hiding objects. It can similarly be used to smuggle things into an area that is only guarded at select times. It can even, if the PC's foresight is good enough, set up traps and ambushes. 
+- **Clairvoyance**: Details TBD. Perhaps use plants or animals? This can be used to spy, to navigate, and to communicate over long distances.
 
 ## Goblin spells
 
-- **Stormcall**: You can control the weather around yourself. You can summon clouds, rain, fog, and so on. If the GM calls for a roll, roll Goblin; lightning strikes and hurricanes are not favors that Opochi dispenses lightly!
-- **Wind blade**: You can call on the wind to add its daggers and arrows to your own, laying low many foes at once. Whenever you roll Goblin to attack with a ranged weapon, you may decrease the difficulty of your roll by one level. If you do, and you roll two or more successes, each success must affect a different NPC. 
+- **Stormcall**: You can control the weather around yourself, calling down all sorts of weather patterns or precipitation. This ability can be used to call in a concealing fog. It can assault enemies (and possibly friends) with hail and lightning. It can also summon gusts of wind to push things around. 
+- **Water Affinity**: Breathe underwater, walk on water, create water? control water?
 
 ## Halfling spells
 
-- **Charm**: You can manipulate the feelings of NPCs, making them suddenly feel friendly towards you. You may roll Halfling to charm an NPC. While charmed, the NPC treats you as a close friend; they happily answer your questions and do as you request. The charm is immediately broken if the NPC feels threatened or suffers a wound.
-- **Mirage**: You can create a silent illusion, as much as an armspan in each direction. The mirage may be overlaid on an existing object -- even a character -- in which case it will move with them. The mirage can persist outside of your presence, but it cannot act autonomously. If the mirage comes under particular scrutiny from NPCs, you may be called to roll Halfling to determine whether or not the NPCs detect your falsehood. You may maintain only a single mirage at a time. 
+- **Charm**: You can cast a charm on an NPC. Only one NPC can be charmed at a time. Charmed NPCs treat the charmer (and any companions) as close friends, and happily comply with any requests the PCs make. The charm is immediately broken if the NPC feels threatened or suffers a wound. This spell can be used to gain information from an NPC that might otherwise be unhelpful. Charmed NPCs can also carry out favors for the PCs, which often amounts to nothing more than creating a distraction.
+- **Illusion**: You can cause others to perceive false (but convincing) sights, sounds, and smells. Illusions can be no larger in scale than an armspan in every direction, though the GM may relax this rule to allow very simple illusions (perhaps a wall with no accompanying sound or smell) to be larger. The sound and smell created can never be of such a scale that it causes an NPC harm. If any NPCs are present when the illusion is created the GM will likely call for a roll, and additional rolls may be necessary as NPCs interact with the illusion or subject it to particular scrutiny. This spell can be used to create disguises, by layering a false image over a PC's face or clothing. It can be used to intimidate aggressors by presenting a fearsome monster. It is also useful for creating distractions, for example the sound of battle or screaming which appears to come from a particular direction. 
