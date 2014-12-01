@@ -25,6 +25,8 @@ Heidgerken-Greene, Katie Heidgerken-Greene, Kaiya Hoyer-Leitzel, Alec Jenkins-Wh
 Miller, Andy Pokel, Roxanne Radpour, Bob Sponsel, Damon Stone, Allan Straub,
 Alan Wu, and Jan Zirnstein.
 
+**TOC is out of date. Just figure it out when the layout is settled.**
+
 1.  Introduction
     -   About Bloodlines
     -   Game Materials
