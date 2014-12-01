@@ -4,7 +4,27 @@
 
 ## Brigand
 
-**Where did the brigand go? Did this get misplaced in a copy-paste somewhere?**
+A brigand is a Minor NPC – they have a single wound each. Their
+description is as follows:
+
+> The Rose Canyon is the safest road from Pinecastle to Northmark... or at
+> least it was, until the Steel Hand Sisterhood began raiding caravans just
+> days ago. 
+>
+> The Sisterhood is a diverse but tight-knit band of outlaws and mercenaries.
+> They are known for driving hard bargains, but have never been known to break
+> a contract once payment has been accepted.
+>
+> They are currently in the employ of the fearsome Lady Pearlbane. She has
+> hired them to acquire a certain silver-inlaid chest, and send it back –
+> unopened – to her agent in Pinecastle. Gold and captives are the
+> Sisterhood's to keep.
+
+As a Minor NPC, rolls against a brigand are made at the lowest level by default. However, there are cases where a player might be called to roll at a higher level instead:
+
+- A Significant Dwarf roll would be necessary to fend off several brigands at once in hand-to-hand combat. They are unremarkable fighters, but extremely willing to take advantage of their superior numbers.
+- An Incredible Elf roll could be made to deduce the motivation behind the attack. This could be done in a variety of ways, from recognizing the Sisterhood's insignia to hearing one brigand yell to another about the chest.
+- A Legendary Halfling roll would be necessary to switch places with a brigand during the scuffle, perhaps grabbing some clothing from a fallen body, in order to infiltrate their ranks.
 
 ## Cerberus
 
