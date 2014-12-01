@@ -1,8 +1,12 @@
-# Appendix II: Sample NPCs
+# Sample NPCs
 
-(Working on it. -Charles)
+**It probably makes sense to mimic how we handle PCs, with putting the samples right after the chapter where we explain them. The examples are short, so it shouldn't really disrupt the flow of the rules.**
 
-## Example NPC: Cerberus
+## Brigand
+
+**Where did the brigand go? Did this get misplaced in a copy-paste somewhere?**
+
+## Cerberus
 
 A cerberus is a Remarkable NPC – it has three wounds. Its description is as
 follows:
@@ -26,7 +30,7 @@ As a Significant NPC, a Cerberus has levels both above and below it. The followi
 - A Legendary Goblin roll would be necessary to, by keeping to the shadows and taking soft steps, make one's way past an alert cerberus. 
 - A Minor Halfling roll would be necessary to lull a cerberus to sleep, whether by singing or through the use of a musical instrument... if for some reason a PC felt it wise to carry a lute deep into the wilderness!
 
-## Example NPC: Stegosaurus
+## Stegosaurus
 
 Each stegosaurus is an Incredible NPC – they have five wounds each.  Their
 description is as follows:
@@ -51,7 +55,7 @@ The stegosaurus is an Incredible NPC. PCs who take advantage of its weaknesses m
 - A Significant Elf roll would be necessary to calm a stegosaurus once agitated. The creatures fight out of fear, not hunger or malice. 
 - A Minor Goblin roll would be necessary to shoot a stegosaurus with an arrow. Its flanks are enormous, and the beast's hide is no match for honed steel. Of course, it takes many arrows to fell a stegosaurus... the first only makes it angry. 
 
-## Example NPC: Dragon
+## Dragon
 
 A dragon is a Legendary NPC – it has seven wounds. Its description is as
 follows:
