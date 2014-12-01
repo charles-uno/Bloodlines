@@ -4,7 +4,7 @@
 
 **Point to Appendix I, which has sample PCs**
 
-**Note that you get to flavor your rolls. Just because a PC has a high Halfling score (and is therefore good at lying) doesn't mean they have to be shady. You can always choose to NOT have them lie, even in cases where lying would be convenient, if that's in line with how you envision them.**
+**It's awkward to have sample PCs not introduced until the appendix... we want to be able to use them to explain things now!**
 
 A PC's character sheet is public; it need not be hidden from the GM or from the other players. There is one exception, however. If a PC is specifically withholding a piece of information from the other PCs, that information may be withheld from the other players as well. This is best done in anticipation of a dramatic reveal!
 
@@ -21,9 +21,11 @@ Players have complete freedom over their PCs' descriptions. They may update them
 
 ## Bloodline Scores
 
-PCs are Human, and as such their abilities can be expressed in terms of their four bloodline scores. These are numbers which illustrate how well the PC embodies the strengths of the four ancient peoples. A Human whose Elf bloodline manifests strongly will be sharp-eyed, for example, while one whose Dwarf bloodline is strong will be strong and tough. 
+PCs are Human, and as such their abilities can be expressed in terms of their four bloodline scores. These are numbers which illustrate how well the PC embodies the strengths of the four ancient peoples. A Human whose Elf bloodline manifests strongly will be innately perceptive, for example, while one whose Goblin bloodline is strong will be agile and coordinated. 
 
-During play, these scores give the number of dice that players use to make rolls. A higher score indicates that a PC manifests that bloodline more strongly, and as a result will be more adept at actions related to that bloodline.
+During play, these scores give the number of dice that players use to make rolls. A higher score indicates that a PC manifests that bloodline more strongly, and as a result will be more adept at actions related to that bloodline. 
+
+It bears noting that just because a PC would be good at rolling for something, doesn't mean that they should feel obligated to do that thing. For example, the Halfling bloodline is used for both persuasion and deceit. If a player envisions their PC as persuasive, but not as a natural liar, they should simply not have their PC lie! The same would be true of a sneaky PC with no talent for shooting; that PC probably doesn't carry a bow, and would generally have no reason to be shooting at all, despite the fact that their strong Goblin bloodline would (in principle) make them good at it. Such weaknesses are not strictly necessary, but many players find that they add depth to a PC's character. 
 
 Each bloodline score begins at a value of 5. In order to demonstrate strengths and weaknesses, the player may then decrease a score by one in order to increase another score by one. This may be done up to four times. For example, to create a PC who is tough and charming, but clumsy and dim-witted, a player may increment their Dwarf and Halfling scores to 7 at the cost of decreasing their Elf and Goblin scores to 3. 
 
