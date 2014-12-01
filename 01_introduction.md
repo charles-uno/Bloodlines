@@ -47,7 +47,7 @@ motivations and the will to survive, rather than from irredeemable evil.
 In Bloodlines, Humanity finds itself inheriting a dangerous world. The ancient
 peoples are in decline. The savage wilderness, once brought to heel by their
 magic, rears its head. While the past age has been peaceful, these changes
-promise to bring ancient enmities to the surface; PCs may find themselves
+promise to bring ancient enmities to the surface. PCs may find themselves
 called to choose sides among multiple sympathetic factions.
 
 The mechanics of Bloodlines exist solely to help the GM take the reins of this
@@ -58,7 +58,7 @@ how the rules work, there are no tables to reference later, nor any obscure
 exceptions or corner cases built into the system.
 
 Bloodlines uses just as many numbers as it needs – no fewer, and certainly no
-more. Player character abilities are are rated on a fine scale, allowing room
+more. PC abilities are are rated on a fine scale, allowing room
 for personalization and advancement. On the other hand, NPCs and roll
 difficulties fall on a coarse scale, making it easy for the GM to make quick,
 intuitive judgments.
@@ -70,8 +70,7 @@ can be made with just a word from the GM and a glance at the character sheet –
 no arithmetic required.
 
 That is, Bloodlines is a roleplaying game boiled down to its essence: a
-setting ripe for exploration and adventure, and a rules framework that
-incorporates dice in a satisfying but unobtrusive way.
+setting ripe for exploration and adventure, a satisfying dice mechanic, and a lightweight rules architecture to bring them together.
 
 ## Game Materials
 
