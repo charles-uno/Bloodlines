@@ -1,8 +1,8 @@
-# Appendix I: Sample PCs
+# Sample PCs
 
-(Working on it. -Charles)
+**These belong early so we can use them to illustrate the rules. They might even belong earlier than this.**
 
-## Example PC: Father Liam
+## Father Liam
 
 Father Liam is described as follows:
 
@@ -20,7 +20,7 @@ Father Liam is described as follows:
 Father Liam takes +3 to his Halfling bloodline to account for his deceptive nature and his penchant for false identities. He also takes +1 to his Goblin bloodline – he was once a street-wise scoundrel,
 after all. In exchange, he takes -1 to his Elf bloodline and -3 to his Dwarf bloodline. His intelligence is more social than academic, and he has never done an honest day of work in his life!
 
-## Example PC: Galadhel
+## Galadhel
 
 Galadhel is described as follows:
 
@@ -43,7 +43,7 @@ Galadhel takes +2 to her Elf bloodline to demonstrate her natural affinity for
 the woods and woodland creatures. She also takes +2 to her Goblin bloodline to
 explain her skill with a bow. In exchange, she takes -2 each to her Dwarf and Halfling bloodlines. Despite her hot temper and contempt for authority, she prefers to avoid hand-to-hand confrontations. 
 
-## Example PC: Oxyehenhuain
+## Oxyehenhuain
 
 Oxyehenhuain is described as follows:
 
@@ -63,7 +63,7 @@ Oxyehenhuain is described as follows:
 Oxyehenhuain takes +3 to her Elf bloodline and +1 to her Halfling bloodline. She is well-mannered and patient, with an extensive knowledge of the history and languages of the world. In exchange, she takes -2 to her Dwarf and Goblin bloodlines. Her studious life has done little to prepare her for the dangers found outside
 of court.
 
-## Example PC: Tor Byorn Yorgensen
+## Tor Byorn Yorgensen
 
 Tor Byorn Yorgensen is described as follows:
 
