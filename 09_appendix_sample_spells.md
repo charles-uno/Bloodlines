@@ -8,7 +8,7 @@
 
 - **Immobolize Metal**: You can, by touching a piece of metal, render it absolutely immobile, even resisting the effects of gravity. This ability can be used to hold a door shut. It can restrain an NPC by locking their armor in place. It can even be used to climb hand-over-hand straight up into the air, by holding a pair of ladder rungs and alternating which is immobile. 
 - **Stoneform**: You can turn yourself (as well as your clothing and posessions) into an indestructible stone statue. The transformation takes only a moment. While in statue form, you remain aware of your surroundings, and can change back at will. This ability can be used to lock an NPC into a grapple by becoming rigid around them. It can be use to create cover for other PCs. A PC could even jump from a ledge and petrify in midair to come crashing down into a group of enemies. 
-- **Something about fire! Dwarves are supposed to have the fire-aligned goddess.**
+- **Summon Fire**: **You can, at will, summon and dismiss a fist-sized orb of fire. It hovers near you like a torch and you can direct its motion within a few armspans of you. It cannot act autonomously, and is not intelligent. You can use it to illuminate dark areas, create distractions, start fires, trigger traps.** 
 
 ## Elf Spells
 
