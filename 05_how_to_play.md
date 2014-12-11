@@ -4,7 +4,7 @@ Bloodlines is, for the most part, played by talking. The GM describes the situat
 
 There is no turn order per se. Players participate when they have something to add. That said, the GM should moderate play to ensure that everyone participates. For example, an underparticipating players can be called to action with, "The troll bellows menacingly. Galadhel, what's your plan?" or "Tor Byorn, what are you up to while the others are in the meeting with Ambassador Xictli?" or "You've finally arrived at Threebridges. Oxye, where do you go first?"
 
-The GM should allow most PC actions to succeed without pausing for a roll. There's no need to check if the PC can saddle their horse, or find the tavern in a new town. These actions are not difficult, and, more importantly, their failure wouldn't have interesting consequences. **Should I mention "let it ride" here?**
+The GM should allow most PC actions to succeed without pausing for a roll. There's no need to check if the PC can saddle their horse, or find the tavern in a new town. These actions are not difficult, and, more importantly, their failure wouldn't have interesting consequences. 
 
 Similarly, the GM may decide that some actions fail, and decline to allow the a roll. For example, PCs might find it impossible to shatter a magical sword with a mundane hammer, or interrogate nonsentient monster. This should happen rarely; if at all possible, the GM should figure out a way to let the PCs roll for what they are trying to do.
 
