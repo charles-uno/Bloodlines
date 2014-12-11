@@ -4,10 +4,7 @@
 
 **Point to Appendix I, which has sample PCs**
 
-**It's awkward to have sample PCs not introduced until the appendix... we want to be able to use them to explain things now!**
-
 A PC's character sheet is public; it need not be hidden from the GM or from the other players. There is one exception, however. If a PC is specifically withholding a piece of information from the other PCs, that information may be withheld from the other players as well. This is best done in anticipation of a dramatic reveal!
-
 
 ## Description
 
@@ -29,14 +26,14 @@ It bears noting that just because a PC would be good at rolling for something, d
 
 Each bloodline score begins at a value of 5. In order to demonstrate strengths and weaknesses, the player may then decrease a score by one in order to increase another score by one. This may be done up to four times. For example, to create a PC who is tough and charming, but clumsy and dim-witted, a player may increment their Dwarf and Halfling scores to 7 at the cost of decreasing their Elf and Goblin scores to 3. 
 
-At the end of each session, each player may permanently increase any one of their PC's bloodline scores by 1. (If they choose not to increase a bloodline score, the PC instead learns a spell, as discussed in a moment.) 
+At the beginning of each session, each player may permanently increase any one of their PC's bloodline scores by 1. (If they choose not to increase a bloodline score, the PC instead learns a spell, as discussed in a moment.) This includes the first session – the first increase usually happens just after creating the PC.
 
 The bloodlines are described as follows:
 
--   The Dwarf bloodline imparts strength, endurance, and skill-at-arms. A high score will improve a PC's rolls to grapple, brawl, kick down doors, run long distances, and use swords, axes, spears, and other hand-to-hand weapons. It also defends against melee attackers and exposure to the elements – the GM may request a Dwarf roll for a PC to deflect a grapple, parry an incoming sword, or stomach a poison.
--   The Elf bloodline imparts knowledge, perceptiveness, and natural affinity. A high score will improve a PC's rolls to forage, track, handle animals, make educated guesses, and recall facts about history, monsters, and geography. It also defends against ignorance and hidden dangers – the GM may request an Elf roll for a PC to notice an impending ambush, to recall a pertinent detail about an NPC, or to understand a new language being spoken nearby.
--   The Goblin bloodline imparts reflexes, coordination, and stealthiness. A high score will improve a PC's rolls to pick locks, pick pockets, move silently, and attack with ranged and thrown weapons. It also defends against detection and against projectiles – the GM may request a Goblin roll for a PC to remain hidden despite pursuers, or to duck out of the way of an incoming arrow or falling rock. 
--   The Halfling bloodline imparts social savvy, charisma, and willpower. A high score will improve a PC's rolls to provoke, intimidate, barter, build rapport, entertain, create disguises, and lie. It also defends against deception and coercion – the GM may call for a Halfling roll for a PC to judge an NPC's trustworthiness, or maintain composure when faced with a tense or confrontational social situation.
+-   **The Dwarf bloodline imparts strength, endurance, and skill-at-arms.** A high score will improve a PC's rolls to grapple, brawl, kick down doors, run long distances, and use swords, axes, spears, and other hand-to-hand weapons. It also defends against melee attackers and exposure to the elements – the GM may request a Dwarf roll for a PC to deflect a grapple, parry an incoming sword, or stomach a poison.
+-   **The Elf bloodline imparts knowledge, perceptiveness, and natural affinity.** A high score will improve a PC's rolls to forage, track, handle animals, make educated guesses, and recall facts about history, monsters, and geography. It also defends against ignorance and hidden dangers – the GM may request an Elf roll for a PC to notice an impending ambush, to recall a pertinent detail about an NPC, or to understand a new language being spoken nearby.
+-   **The Goblin bloodline imparts reflexes, coordination, and stealthiness.** A high score will improve a PC's rolls to pick locks, pick pockets, move silently, and attack with ranged and thrown weapons. It also defends against detection and against projectiles – the GM may request a Goblin roll for a PC to remain hidden despite pursuers, or to duck out of the way of an incoming arrow or falling rock. 
+-   **The Halfling bloodline imparts social savvy, charisma, and willpower.** A high score will improve a PC's rolls to provoke, intimidate, barter, build rapport, entertain, create disguises, and lie. It also defends against deception and coercion – the GM may call for a Halfling roll for a PC to judge an NPC's trustworthiness, or maintain composure when faced with a tense or confrontational social situation.
 
 ## Spells
 
@@ -49,13 +46,11 @@ rare. Most humans never know a spell; many never even meet someone who does.
 Learning a new spell is always an event of note... though different sects of
 Humanity disagree about which spells are good omens and which are bad.
 
-**How do you gain spells?**
+At the beginning of each play session, if a player chooses not in increase one of their PC's bloodline scores, that PC instead learns a spell. Any PC is able to learn any spell, regardless of what spells they already know, and regardless of what their corresponding bloodline scores are. 
 
-**How do you use spells?**
+It bears noting that a PC will be most effective in using a spell if their corresponding bloodline score is high. Should the GM call for a roll as part of using a Dwarf spell, for example, that roll will always be made with the Dwarf bloodline score. This is discussed more fully in the next chapter.
 
-**Point to Appendix III, which is a list of sample spells.**
-
-**Either here or in the appendix, note that spells are in-world abilities that don't explicitly deal with dice, though you can be called to roll while using them.**
+Players can choose spells from the spell list in the Appendix. In addition, GMs are encouraged to write their own spells; the Appendix also includes advive to help in this endeavor. 
 
 ## Wounds
 
