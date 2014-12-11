@@ -49,5 +49,3 @@ As at any other time, it can be difficult to think of consequences for a failed 
 - Oxyehenhuain is engaged in a negotiation with a foreign dignitary. The GM calls for an Elf roll due to Oxye's inexperience with the language being used. If she succeeds, she makes a strong argument, and erodes her opponent's willpower, inflicting a wound. If she fails, she mixes up a word and mistakenly utters an offensive slur. She realizes her error and becomes flustered, suffering a wound herself. 
 - Brigands ambush the party, but luckily Galadhel escapes their notice. She draws an arrow and fires into the melee, prompting a Goblin roll. If successful, she drops a brigand in its tracks. If she fails, she instead misses and hits a member of the party instead. 
 - **Liam Halfling social confrontation example. For a greater diversity of examples, make sure that neither consequence inflicts a wound. Maybe lying.**
-
-**Talk about minis? They are not required, but they can be used to lay out a confrontation holistically, if a group is into that.**
