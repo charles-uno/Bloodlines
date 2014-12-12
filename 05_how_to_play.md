@@ -11,6 +11,7 @@ Similarly, the GM may decide that some actions fail, and decline to allow the a 
 The GM can interject at any time to call for a roll. They should do so when a PC attempts an action with two outcomes, both of which are plausible and interesting. A successful roll means that the PC gets more or less the effect they intended. A failed roll, on the other hand, should be viewed by the GM as an invitation to introduce a new and unfortunate plot twist. The failure should have an immediate effect, making it impossible for the PC to reattempt the same action, or at least raising the stakes. 
 
 A roll's outcome should never be that nothing happens. This ensures that, one way or another, each roll moves the story along. A few examples follow:
+
 - **TBY dwarf roll example**
 - While weeding out an infestation of cultists in the sewers, the GM asks Galadhel (who walks ahead of the party as a scout) for an Elf roll. If it's successful, the GM tells her that she hears voices up ahead. If she fails the roll, on the other hand, the party is ambushed.
 - Before opening a door, Father Liam notices that the hinge is set to trigger a switch as it opens. He attempts to disarm it, prompting a Goblin roll. If he succeeds, he's able to disarm the trap and open the door safely. If he fails, the trap triggers, and the room begins to fill with icy water. 
