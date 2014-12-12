@@ -18,7 +18,7 @@ Players have complete freedom over their PCs' descriptions. They may update them
 
 ## Bloodline Scores
 
-PCs are Human, and as such their abilities can be expressed in terms of their four bloodline scores. These are numbers which illustrate how well the PC embodies the strengths of the four ancient peoples. A Human whose Elf bloodline manifests strongly will be innately perceptive, for example, while one whose Goblin bloodline is strong will be agile and coordinated. 
+PCs are Human, and as such their abilities can be expressed in terms of their four bloodline scores. These are numbers which illustrate how well the PC embodies the strengths of the four ancient peoples. A Human whose Elf bloodline manifests strongly will be innately insightful, for example, while one whose Goblin bloodline is strong will be agile and coordinated. 
 
 During play, these scores give the number of dice that players use to make rolls. A higher score indicates that a PC manifests that bloodline more strongly, and as a result will be more adept at actions related to that bloodline. 
 
