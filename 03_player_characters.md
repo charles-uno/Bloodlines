@@ -2,7 +2,7 @@
 
 **What is a PC?**
 
-**Point to Appendix I, which has sample PCs**
+**Point to the next chapter, which has sample PCs**
 
 A PC's character sheet is public; it need not be hidden from the GM or from the other players. There is one exception, however. If a PC is specifically withholding a piece of information from the other PCs, that information may be withheld from the other players as well. This is best done in anticipation of a dramatic reveal!
 
