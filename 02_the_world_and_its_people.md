@@ -55,7 +55,7 @@ The world's eastern highlands are blanketed by a dense redwood forest, the home 
 
 Compared to Humans, Elves are tall and willowy. Their arms and legs are slender, and their ears and chins are pointed. In place of hair, Elves grow luxurious manes of moss, ivy, and pine needles; they give off the smell of flowers and are often attended by bees and butterflies.  
 
-Much like the giant redwoods, Elves are ancient. Births and deaths are rare. As a result, Elvish society is egalitarian, even to the erosion of individual identity. There is no heirarchy or leadership; Elves do not even claim professions. Every Elf is a ranger, an astronomer, a healer, and an architect, able to fill whatever role falls to them on a given day. 
+Much like the giant redwoods, Elves are ancient. Births and deaths are rare. As a result, Elvish society is egalitarian, even to the erosion of individual identity. There is no heirarchy or leadership; Elves do not even claim professions or property. Every Elf is a ranger, an astronomer, a healer, and an architect, able to fill whatever role falls to them on a given day. 
 
 Elves follow the twins Aso and Osa, the god and goddess of the sun and moon respectively. They watch over the world, day and night, and preside over nature, the seasons, the passage of time, and the cycle of life and death.
 
