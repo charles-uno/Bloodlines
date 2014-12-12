@@ -43,7 +43,7 @@ unknown.
 
 The world's northmost reaches are crowned by mountains. Within these mountains live the Dwarves. Their cities, mines, and forges are carved into the living stone, and connected to one another by an expansive series of subterranean highways.
 
-Dwarves are at least a head shorter than Humans, but weight just as much (if not more) due to their sturdy builds. Their coloration is earthy, anywhere from sandy to clay-red to obsidian. Dwarven women braid their long, thick hair into elaborate patterns, woven with beads of and precious metals and stones, while the men do the same with their beards. 
+Dwarves are at least a head shorter than Humans, but weight just as much (if not more) due to their sturdy builds. Their coloration is earthy, anywhere from sandy to clay-red to obsidian. Dwarven women braid their long, thick hair into elaborate patterns, woven with beads of precious metal and stone, while the men do the same with their beards. 
 
 Dwarven society is orderly and traditional. Each city is made up of clans, and each clan within the city has its own role to fill, whether that be mining, smithing, or defending the city against the creatures of the deep earth. 
 
