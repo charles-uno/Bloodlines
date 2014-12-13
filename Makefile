@@ -37,7 +37,7 @@ CLEAN_TARGETS := \
 .PHONY: clean $(CLEAN_TARGETS)
 
 # Make all targets
-all: html pdf odt
+all: pdf
 
 # Clean up all output files
 clean: $(CLEAN_TARGETS)
