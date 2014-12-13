@@ -33,4 +33,9 @@ playtest: |
     This is a playtest draft. Please do not distribute without permission.
 
     Feedback is greatly appriciated! Please send it to: mceachern.charles@gmail.com
+geometry: [
+    'margin=1in',
+    'paperwidth=6in',
+    'paperheight=9in',
+]
 ---
