@@ -2,42 +2,21 @@
 
 At the dawn of the **First Age**, four peoples awakened: the Dwarves in the northern mountains, the Elves in the eastern forests, the Goblins in the southern swamps, and the Halflings in the western grasslands. For centuries, each lived isolated, oblivious to the existences of the others.
 
-The **Second Age** was a time of exploration, then colonization, then
-conflict. Cultures clashed with words and weaponry. Entire generations were
-lost to perennial warfare.
+The **Second Age** was a time of exploration, then colonization, then conflict. Cultures clashed with words and weaponry. Entire generations were lost to perennial warfare.
 
-Finally, there came the **Third Age**. Historical enmities were set aside, for
-the most part, giving way to a time of coexistence, commerce, and prosperity.
-This age saw the creation of titanic monuments, powerful artifacts, and
-fantastical creatures. Its fruits impregnate every corner of the world.
+Finally, there came the **Third Age**. Historical enmities were set aside, for the most part, giving way to a time of coexistence, commerce, and prosperity. This age saw the creation of titanic monuments, powerful artifacts, and fantastical creatures. Its fruits impregnate every corner of the world.
 
-It was not just culture and magic that were exchanged during this time,
-however. Through a hundred generations of political marriages and forbidden
-loves, bloodlines intermingled, creating to an entirely new people: Humans,
-whose rise heralded the opening of the **Fourth Age**.
+It was not just culture and magic that were exchanged during this time, however. Through a hundred generations of political marriages and forbidden loves, bloodlines intermingled, creating to an entirely new people: Humans, whose rise heralded the opening of the **Fourth Age**.
 
-Humanity has inherited the strongest qualities of its parents – the strength of the Dwarves and the charisma of the Halflings – but not their magical gifts.  Few
-Humans exhibit any magical ability at all, and the powers that do appear are
-modest.
+Humanity has inherited the strongest qualities of its parents – the strength of the Dwarves and the charisma of the Halflings – but not their magical gifts. The vast majority of Humans exhibit no magical ability at all, and the few powers that do appear are modest in comparison to those of the old peoples.
 
-As if in sympathy to Humanity's rise, the world's magic diminishes.  Artifacts
-crumble. Creatures turn on their creators. What magic remains – for now at
-least – is chaotic and dangerous.
+As if in sympathy to Humanity's rise, the world's magic diminishes. Artifacts crumble. Creatures turn on their creators. What magic remains – for now at least – is chaotic and dangerous.
 
-This change has not gone unnoticed. Many among the ancient peoples view it as
-an omen that their stewardship over the world has ended. They gradually
-withdraw. The majestic Elvish cities shut their gates; their populations
-dwindle. Goblins take pilgrimages to the edges of the world, never to return.
-All the while, Humanity's population swells.
+This change has not gone unnoticed. Many among the ancient peoples view it as an omen that their stewardship over the world has ended. They gradually withdraw. The majestic Elvish cities shut their gates; their populations dwindle. Goblins take pilgrimages to the edges of the world, never to return. All the while, Humanity's population swells. Small towns and trading posts spread across the world.
 
-Humanity is not the only thing that grows. As magic recedes, the
-wilderness reasserts itself, becoming more savage and feral than any time in
-living memory. Danger encroaches on Humanity from all sides.
+Humanity is not the only thing that grows. As ancient magic recedes, the wilderness reasserts itself, becoming more savage and feral than any time in living memory. Dark and perilous places are no longer relegated to the far corners of the world; they surround and isolate every road and encampment. Even the largest Human city is no more than a stone's throw from the untamed wilds.
 
-None can say whether Humanity is ready for the trials that lie ahead of it. If
-it does survive, it will be by the bravery and bloodshed of the heroes who
-strike out into the wilderness, beating back the darkness and exploring the
-unknown.
+None can say whether Humanity will survive its coming of age, or if it will be overcome by the dangers that surround it. If it does survive, it will be by the bravery and bloodshed of adventurers – the precious few Humans who manifest whispers of ancient magic – who beat back the darkness and explore the unknown. 
 
 ## Dwarves
 
@@ -78,3 +57,7 @@ Halflings are short – far more so than the Dwarves – with round bellies and 
 Halfling society is familial. Children defer to their parents, who in turn defer to the local elders. Halflings traditionally greet one another as brother or sister, aunt or uncle, niece or nephew, even in the absence of blood relation. While there is no formal relationship between Halfling communities, trade between them is common; they also intermingle regularly due to the Halflings' penchant for festivals.
 
 Halfling magic stems from Dina, the goddess of wine and revelry. She watches over all of her children, but most of all favors parents, lovers, and mischief-makers. Dina holds dominion over charms and illusions.
+
+## Humans
+
+**essay pending**
