@@ -2,7 +2,13 @@
 
 **What is a PC?**
 
-**Point to the next chapter, which has sample PCs**
+**TODO: add a mention of the magical domains that go with each bloodline, since they now explicitly include a coupling to the gods.**
+
+**Point to the next chapter, which has sample PCs...?**
+
+**TODO: intermingle example PC creation into this chapter? how many sample PCs do we need?**
+
+**TODO: rather than generic wounds, have them correspond to the scores. also they no longer cover social stress.**
 
 A PC's character sheet is public; it need not be hidden from the GM or from the other players. There is one exception, however. If a PC is specifically withholding a piece of information from the other PCs, that information may be withheld from the other players as well. This is best done in anticipation of a dramatic reveal!
 
@@ -18,23 +24,22 @@ Players have complete freedom over their PCs' descriptions. They may update them
 
 ## Bloodline Scores
 
-PCs are Human, and as such their abilities can be expressed in terms of their four bloodline scores. These are numbers which illustrate how well the PC embodies the strengths of the four ancient peoples. A Human whose Elf bloodline manifests strongly will be innately insightful, for example, while one whose Goblin bloodline is strong will be agile and coordinated. 
+The strengths and weaknesses of a PC are expressed through their four bloodline scores. These scores are numbers which illustrate how well the PC (as a Human) embodies the abilities of the four ancient peoples, and also show how favorably they are seen by the ancient peoples' gods. A Human whose Elf bloodline manifests strongly will be innately sharp-eyed, for example, and will take naturally to the magical domains of Aso and Osa. A strong Goblin bloodline, on the other hand, indicates a PC who is innately agile and looked upon favorably by Opochi. 
 
-During play, these scores give the number of dice that players use to make rolls. A higher score indicates that a PC manifests that bloodline more strongly, and as a result will be more adept at actions related to that bloodline. 
+During play, bloodline scores indicate the number of dice that players use to make rolls. A higher bloodline score causes a player to roll more dice, which in turn improves the PC's odds of success in actions related to that score. 
 
-It bears noting that just because a PC would be good at rolling for something, doesn't mean that they should feel obligated to do that thing. For example, the Halfling bloodline is used for both persuasion and deceit. If a player envisions their PC as persuasive, but not as a natural liar, they should simply not have their PC lie! The same would be true of a sneaky PC with no talent for shooting; that PC probably doesn't carry a bow, and would generally have no reason to be shooting at all, despite the fact that their strong Goblin bloodline would (in principle) make them good at it. Such weaknesses are not strictly necessary, but many players find that they add depth to a PC's character. 
+Over the course of their adventures, a PC's bloodline scores gradually increase. This indicates the PC becoming stronger and more clever as a result of their experiences, as well as earning divine favor by amusing the gods. The gods are capricious, however, so these score increases manifest unpredictably. 
 
-Each bloodline score begins at a value of 5. In order to demonstrate strengths and weaknesses, the player may then decrease a score by one in order to increase another score by one. This may be done up to four times. For example, to create a PC who is tough and charming, but clumsy and dim-witted, a player may increment their Dwarf and Halfling scores to 7 at the cost of decreasing their Elf and Goblin scores to 3. 
+Bloodline scores are set at the beginning of each session. To do so, each player rolls twenty four-sided dice, plus an additional one for each session that's been played. That is, twenty-one dice are rolled at the beginning of the second session, twenty-two at the beginning of the third session, and so on. If any numbers do not show up (no dice show "1", for example), the roll must be tried again. 
 
-At the beginning of each session, each player may permanently increase any one of their PC's bloodline scores by 1. (If they choose not to increase a bloodline score, the PC instead learns a spell, as discussed in a moment.) This includes the first session – the first increase usually happens just after creating the PC.
+The die are divided into four piles by value. The sizes of the four piles are then assigned to the PC's bloodline scores. The relative order of the scores should remain unchanged from session to session – Tor Byorn Yorgensen always assigns his highest score to his Dwarf bloodline and his lowest score to his Halfling bloodline, for example. 
 
-The bloodlines are described as follows:
+The meaning of each bloodline score is explained in detail below: 
 
--   **The Dwarf bloodline imparts strength, endurance, and skill-at-arms.** A high score will improve a PC's rolls to grapple, brawl, kick down doors, physically intimidate adversaries, run long distances, and use swords, axes, spears, and other hand-to-hand weapons. It also defends against melee attackers and exposure to the elements – the GM may request a Dwarf roll for a PC to deflect a grapple, parry an incoming sword, or stomach a poison.
--   **The Elf bloodline imparts knowledge, perceptiveness, and natural affinity.** A high score will improve a PC's rolls to forage, track, handle animals, make educated guesses, and recall facts about history, monsters, and geography. It also defends against ignorance and hidden dangers – the GM may request an Elf roll for a PC to notice an impending ambush, to recall a pertinent detail about an NPC, or to understand a new language being spoken nearby.
--   **The Goblin bloodline imparts reflexes, coordination, and stealthiness.** A high score will improve a PC's rolls to pick locks, pick pockets, move silently, and attack with ranged and thrown weapons. It also defends against detection and against projectiles – the GM may request a Goblin roll for a PC to remain hidden despite pursuers, or to duck out of the way of an incoming arrow or falling rock. 
--   **The Halfling bloodline imparts social savvy, charisma, and willpower.** A high score will improve a PC's rolls to provoke, intimidate, barter, build rapport, entertain, create disguises, and lie. It also defends against deception and coercion – the GM may call for a Halfling roll for a PC to judge an NPC's trustworthiness, or maintain composure when faced with a tense or confrontational social situation.
-
++ **The Dwarf bloodline imparts strength, endurance, and skill-at-arms.** A high score will improve a PC's rolls to grapple, brawl, kick down doors, physically intimidate adversaries, run long distances, and use swords, axes, spears, and other hand-to-hand weapons. It also defends against melee attackers and exposure to the elements – the GM may request a Dwarf roll for a PC to deflect a grapple, parry an incoming sword, or stomach a poison.
++ **The Elf bloodline imparts knowledge, perceptiveness, and natural affinity.** A high score will improve a PC's rolls to forage, track, handle animals, make educated guesses, and recall facts about history, monsters, and geography. It also defends against ignorance and hidden dangers – the GM may request an Elf roll for a PC to notice an impending ambush, to recall a pertinent detail about an NPC, or to understand a new language being spoken nearby.
++ **The Goblin bloodline imparts reflexes, coordination, and stealthiness.** A high score will improve a PC's rolls to pick locks, pick pockets, move silently, and attack with ranged and thrown weapons. It also defends against detection and against projectiles – the GM may request a Goblin roll for a PC to remain hidden despite pursuers, or to duck out of the way of an incoming arrow or falling rock.
++ **The Halfling bloodline imparts social savvy, charisma, and willpower.** A high score will improve a PC's rolls to provoke, intimidate, barter, build rapport, entertain, create disguises, and lie. It also defends against deception and coercion – the GM may call for a Halfling roll for a PC to judge an NPC's trustworthiness, or maintain composure when faced with a tense or confrontational social situation.
 ## Spells
 
 In addition to bloodline scores, a PC's ancestry also provides them with
