@@ -4,6 +4,8 @@
 
 **The section breakdown in this chapter is highly tentative.**
 
+**how to guide your players -- especially new ones -- as they figure out their characters**
+
 **Conservation of Details.** Only use as many NPCs and locations as you need. Players can only keep track of so much.
 
 **The GM is not the author.** Don't expect the players to follow a script. You can't predict their plays. Come up with a world where there are problems, and drop hints about them. Let the PCs choose which problems to address, and by what means. Problems that get ignored can cause complications down the road. 
