@@ -10,6 +10,14 @@
 
 **TODO: rather than generic wounds, have them correspond to the scores. also they no longer cover social stress.**
 
+**sketch of the sample PCs:**
+
+**Oxye was a scholar/archaeologist (there are probably ruins EVERYWHERE). She can shape wood. Her job is to go get the Heart of the Mountain, a powerful artifact she believes was left in Tordenkul when the Dwarves abandoned the city. Maybe it provides power or repels monsters or something. She believes (perhaps correctly) that such power is dangerous, and that she should study it carefully before entrusting it to anyone else.**
+
+**TBY was a caravan guard. He's as good as any at safely navigating the unkempt roads. He can do stoneform. His job is to get Oxye to the mountain, let her find the Heart, and get it back home. He believes that the Heart will protect his increasingly-endangered home, and values it far more than he does his companion.**
+
+**wolfram alpha rolls up stats here: www.wolframalpha.com/input/?i=roll+20d4**
+
 A PC's character sheet is public; it need not be hidden from the GM or from the other players. There is one exception, however. If a PC is specifically withholding a piece of information from the other PCs, that information may be withheld from the other players as well. This is best done in anticipation of a dramatic reveal!
 
 ## Notes
