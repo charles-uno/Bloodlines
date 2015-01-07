@@ -1,6 +1,6 @@
 # Sample PCs
 
-**Probably a little intro here.**
+**note: these guys are going to be a subset of the PCs chapter. this file will be deleted as soon as the relevant information is harvested from it.**
 
 ## Father Liam
 
