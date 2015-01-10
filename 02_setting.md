@@ -14,7 +14,7 @@ As if in sympathy to Humanity's rise, the world's magic diminishes. Artifacts cr
 
 This change has not gone unnoticed. Many among the ancient peoples view it as an omen that their stewardship over the world has ended. They gradually withdraw. The majestic Elvish cities shut their gates; their populations dwindle. Goblins take pilgrimages to the edges of the world, never to return. All the while, Humanity's population swells. Small towns and trading posts spread across the world.
 
-Humanity is not the only thing that grows. As ancient magic recedes, the wilderness reasserts itself, becoming more savage and feral than any time in living memory. Dark and perilous places are no longer relegated to the far corners of the world; they surround and isolate every road and encampment. Even the largest Human city is no more than a stone's throw from the untamed wilds.
+Humanity is not the only thing that grows, however. As ancient magic recedes, the wilderness reasserts itself, becoming more savage and feral than any time in living memory. Dark and perilous places are no longer relegated to the far corners of the world; they surround and isolate every road and encampment. Even the largest Human city is no more than a stone's throw from the untamed wilds.
 
 None can say whether Humanity will survive its coming of age, or if it will be overcome by the dangers that surround it. If it does survive, it will be by the bravery and bloodshed of adventurers – the precious few Humans who manifest whispers of ancient magic, pressed into service for the sake of all Humanity. 
 
