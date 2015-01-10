@@ -6,7 +6,7 @@ The **Second Age** was a time of exploration, then colonization, then conflict. 
 
 Finally, there came the **Third Age**. Historical enmities were set aside, for the most part, giving way to a time of coexistence, commerce, and prosperity. This age saw the creation of titanic monuments, powerful artifacts, and fantastical creatures. Its fruits impregnate every corner of the world.
 
-It was not just culture and magic that were exchanged during this time, however. Through a hundred generations of political marriages and forbidden loves, bloodlines intermingled, creating to an entirely new people: Humans, whose rise heralded the opening of the **Fourth Age**.
+It was not just culture and magic that were exchanged during this time, of course. Through a hundred generations of political marriages and forbidden loves, bloodlines intermingled, creating to an entirely new people: Humans, whose rise heralded the opening of the **Fourth Age**.
 
 Humanity has inherited the strongest qualities of its parents – the strength of the Dwarves and the charisma of the Halflings – but not their magical gifts. The vast majority of Humans exhibit no magical ability at all, and the few powers that do appear are modest in comparison to those of the old peoples.
 
