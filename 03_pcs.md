@@ -12,6 +12,8 @@
 
 **sketch of the sample PCs:**
 
+**TODO: notes can also cover physical appearance and quirks. whatever. it's all about adding color to the character and keeping track of details that are important to you.**
+
 **Oxye was a scholar/archaeologist (there are probably ruins EVERYWHERE). She can shape wood. Her job is to go get the Heart of the Mountain, a powerful artifact she believes was left in Tordenkul when the Dwarves abandoned the city. Maybe it provides power or repels monsters or something. She believes (perhaps correctly) that such power is dangerous, and that she should study it carefully before entrusting it to anyone else.**
 
 **TBY was a caravan guard. He's as good as any at safely navigating the unkempt roads. He can do stoneform. His job is to get Oxye to the mountain, let her find the Heart, and get it back home. He believes that the Heart will protect his increasingly-endangered home, and values it far more than he does his companion.**
