@@ -28,12 +28,12 @@ PCs' surroundings.
 Play is punctuated by die rolls, which mediate the divide between player and
 PC; PC choices are made by the players while the success of PC actions is
 judged by dice. That is, the player decides which NPCs to attack and which to
-barter with while the dice show whether a sword strikes home or a lie rings
+barter with, while the dice show whether a sword strikes home or a lie rings
 true. This dichotomy gives each PC quantitative strengths and weaknesses while
 still allowing players the freedom to play their PCs however they like.
 
 The pages that follow explain how and when to roll the dice, but
-above all Bloodlines is a social game. As such, the most important element is
+above all, Bloodlines is a social game. As such, the most important element is
 communication. The players and the GM are not opponents (even though the PCs
 and NPCs may well be enemies). Everyone has the same goals: telling a good
 story and having a good time. If anyone is unsatisfied in either respect, play
@@ -62,7 +62,7 @@ how the rules work, there are no tables to reference later, nor any obscure
 exceptions or corner cases built into the system.
 
 Bloodlines uses just as many numbers as it needs – no fewer, and certainly no
-more. PC abilities are are rated on a fine scale, allowing room
+more. PC abilities are rated on a fine scale, allowing room
 for personalization and advancement. On the other hand, NPCs and roll
 difficulties fall on a coarse scale, making it easy for the GM to make quick,
 intuitive judgments.
