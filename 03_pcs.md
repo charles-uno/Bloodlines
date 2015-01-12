@@ -2,6 +2,8 @@
 
 **What is a PC?**
 
+**test update**
+
 **TODO: add a mention of the magical domains that go with each bloodline, since they now explicitly include a coupling to the gods.**
 
 **Point to the next chapter, which has sample PCs...?**
