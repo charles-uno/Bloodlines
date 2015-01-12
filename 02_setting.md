@@ -4,9 +4,9 @@ At the dawn of the **First Age**, four peoples awakened: the Dwarves in the nort
 
 The **Second Age** was a time of exploration, then colonization, then conflict. Cultures clashed with words and weaponry. Entire generations were lost to perennial warfare.
 
-Finally, there came the **Third Age**. Historical enmities were set aside, for the most part, giving way to a time of coexistence, commerce, and prosperity. This age saw the creation of titanic monuments, powerful artifacts, and fantastical creatures. Its fruits impregnate every corner of the world.
+Finally, there came the **Third Age**. Historical enmities were set aside, for the most part, giving way to a time of coexistence, commerce, and prosperity. This age saw the creation of titanic monuments, powerful artifacts, and fantastical creatures. Its fruits impregnated every corner of the world.
 
-It was not just culture and magic that were exchanged during this time, of course. Through a hundred generations of political marriages and forbidden loves, bloodlines intermingled, creating to an entirely new people: Humans, whose rise heralded the opening of the **Fourth Age**.
+It was not just culture and magic that were exchanged during this time, of course. Through a hundred generations of political marriages and forbidden loves, bloodlines intermingled, creating an entirely new people: Humans, whose rise heralded the opening of the **Fourth Age**.
 
 Humanity has inherited the strongest qualities of its parents – the strength of the Dwarves and the charisma of the Halflings – but not their magical gifts. The vast majority of Humans exhibit no magical ability at all, and the few powers that do appear are modest in comparison to those of the old peoples.
 
@@ -22,7 +22,7 @@ None can say whether Humanity will survive its coming of age, or if it will be o
 
 The world's northmost reaches are crowned by mountains. Within these mountains live the Dwarves. Their cities, mines, and forges are carved into the living stone, and connected to one another by an expansive series of subterranean highways.
 
-Dwarves are at least a head shorter than Humans, but weight just as much (if not more) due to their sturdy builds. Their coloration comes in as many hues as the stone around them, from white marble to red clay to obsidian. Dwarven women braid their long, thick hair into elaborate patterns, woven with beads of precious metal and stone, while the men do the same with their beards. 
+Dwarves are at least a head shorter than Humans, but weigh just as much (if not more) due to their sturdy builds. Their coloration comes in as many hues as the stone around them, from white marble to red clay to obsidian. Dwarven women braid their long, thick hair into elaborate patterns, woven with beads of precious metal and stone, while the men do the same with their beards. 
 
 Dwarven society is orderly and traditional. Each city is made up of clans, and each clan within the city has its own role to fill, whether that be mining, smithing, or defending the city against the creatures of the deep earth. 
 
