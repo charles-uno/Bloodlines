@@ -1,4 +1,4 @@
-# The World and its Peoples
+# Setting
 
 At the dawn of the **First Age**, four peoples awakened: the Dwarves in the northern mountains, the Elves in the eastern forests, the Goblins in the southern swamps, and the Halflings in the western grasslands. For centuries, each lived isolated, oblivious to the existences of the others.
 
