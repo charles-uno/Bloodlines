@@ -1,9 +1,5 @@
 # Introduction
 
-**test change**
-
-**test change 2**
-
 Bloodlines is played with one game master (**GM**) and one or more
 **players**. Each player plays the role of a player character (**PC**) which
 they create as the game begins. The GM designs and plays the role of the world
