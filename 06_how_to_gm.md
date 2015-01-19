@@ -14,6 +14,16 @@
 
 **Length of a campaign.** Bloodlines is probably best for campaigns of not much more than a dozen sessions? Eventually scores get really high. 
 
+## stuff copy-pasted from the how to play chapter that actually belongs here:
+
+**TODO: a failed roll to cast a spell CAN cause the spell to backfire. remember how magic is unpredictable and dadngerous?**
+
+**TODO: during combat, dropping your weapon or having it get stuck in something is an interesting problem.**
+
+
+
+
+
 ## Creating a Setting
 
 ## Adding In Players
