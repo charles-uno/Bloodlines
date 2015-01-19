@@ -1,5 +1,9 @@
 # Nonplayer Characters
 
+**TODO: basically rewrite this chapter. description is no longer analogous to the PCs. do we need a way of formalizing GM notes about an NPC? it would sure be nice. what about a character sheet for an NPC? gross.**
+
+**since they no longer match up with PCs, I think that NPCs are probably referred to by level now, rather than wounds.**
+
 The focus in Bloodlines is on the PCs. As a result, mechanically, NPCs are
 truly minimal. They are defined entirely by their description and their number
 of wounds, both of which are set at the discretion of the GM.

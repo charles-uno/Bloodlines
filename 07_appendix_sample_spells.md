@@ -1,8 +1,10 @@
-# Appendix III: Sample Spells
+# Appendix: Sample Spells
 
 **Explain here how people can come up with their own spells? These are immersive, in-world abilities each with a variety of uses. Or does this go in the PC section, where we explain what spells are? I think it goes here.**
 
 **Note that rolls for a spell always use the bloodline associated with that spell. Even at-will spells can prompt rolls, depending on the effect. For example, if you want to cannonball onto a bunch of enemies using Stoneform, the roll would measure your coordination and aim. If you want to call in some fog for cover using Stormcall, the roll would test how thick of a fog Opochi felt fit to bless you with.**
+
+**note: these are SAMPLES, not an exhaustive list. we even tell people in character creation to come up with their own. that means we need a discussion of what a spell is (no rolls, explained in fluff text, etc) and also what domains they are tied to. when you come up with a spell, how do you know what to roll for it?**
 
 ## Dwarf Spells
 

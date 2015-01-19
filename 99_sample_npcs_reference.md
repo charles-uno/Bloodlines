@@ -1,5 +1,7 @@
 # Sample NPCs
 
+**similarly to PCs, the sample NPCs are going to get worked in to the NPCs chapter. this will be deleted once we've taken the relevant information from it.**
+
 **It probably makes sense to mimic how we handle PCs, with putting the samples right after the chapter where we explain them. The examples are short, so it shouldn't really disrupt the flow of the rules.**
 
 ## Brigand
