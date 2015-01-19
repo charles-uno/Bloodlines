@@ -1,9 +1,5 @@
 # How to Play
 
-**TODO: a failed roll to cast a spell CAN cause the spell to backfire. remember how magic is unpredictable and dadngerous?**
-
-**TODO: during combat, dropping your weapon or having it get stuck in something is an interesting problem.**
-
 Bloodlines is, for the most part, played by talking. The GM describes the situation that the PCs find themselves in. Players ask the GM for details, speak as their PCs, and narrate their actions. The GM explains what happens in response. This pattern continues on, back and forth. 
 
 There is no turn order per se. Players participate when they have something to add. That said, the GM should moderate play to ensure that everyone participates. For example, an underparticipating players can be called to action with, "The troll bellows menacingly. Galadhel, what's your plan?" or "Tor Byorn, what are you up to while the others are in the meeting with Ambassador Xictli?" or "You've finally arrived at Threebridges. Oxye, where do you go first?"
