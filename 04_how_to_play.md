@@ -1,53 +1,47 @@
 # How to Play
 
-Bloodlines is, for the most part, played by talking. The GM describes the situation that the PCs find themselves in. Players ask the GM for details, speak as their PCs, and narrate their actions. The GM explains what happens in response. This pattern continues on, back and forth. 
+**question: should quotes be used for non-inlined examples? I did so below to try it out.**
 
-There is no turn order per se. Players participate when they have something to add. That said, the GM should moderate play to ensure that everyone participates. For example, an underparticipating players can be called to action with, "The troll bellows menacingly. Galadhel, what's your plan?" or "Tor Byorn, what are you up to while the others are in the meeting with Ambassador Xictli?" or "You've finally arrived at Threebridges. Oxye, where do you go first?"
+Bloodlines is, for the most part, played by talking. The GM describes the situation that the PCs find themselves in. Players ask the GM for details, speak as their PCs, and narrate their actions. The GM explains what happens in response. This pattern continues on, back and forth, scene after scene.
 
-The GM should allow most PC actions to succeed without pausing for a roll. There's no need to check if the PC can saddle their horse, or find the tavern in a new town. These actions are not difficult, and, more importantly, their failure wouldn't have interesting consequences. 
+There is no turn order per se. Players participate when they have something to add. That said, the GM should moderate play to ensure that everyone participates. For example, an underparticipating players can be called to action with, "The troll bellows menacingly. Oxyehenhuain, what's your plan?" or "Tor Byorn, what are you up to while she is in the meeting with Ambassador Xictli?"
 
-Similarly, the GM may decide that some actions fail, and decline to allow the a roll. For example, PCs might find it impossible to shatter a magical sword with a mundane hammer, or interrogate nonsentient monster. This should happen rarely; if at all possible, the GM should figure out a way to let the PCs roll for what they are trying to do.
-
-The GM can interject at any time to call for a roll. They should do so when a PC attempts an action with two outcomes, both of which are plausible and interesting. A successful roll means that the PC gets more or less the effect they intended. A failed roll, on the other hand, should be viewed by the GM as an invitation to introduce a new and unfortunate plot twist. The failure should have an immediate effect, making it impossible for the PC to reattempt the same action, or at least raising the stakes. 
-
-A roll's outcome should never be that nothing happens. This ensures that, one way or another, each roll moves the story along. A few examples follow:
-
-- **TBY dwarf roll example**
-- While weeding out an infestation of cultists in the sewers, the GM asks Galadhel (who walks ahead of the party as a scout) for an Elf roll. If it's successful, the GM tells her that she hears voices up ahead. If she fails the roll, on the other hand, the party is ambushed.
-- Before opening a door, Father Liam notices that the hinge is set to trigger a switch as it opens. He attempts to disarm it, prompting a Goblin roll. If he succeeds, he's able to disarm the trap and open the door safely. If he fails, the trap triggers, and the room begins to fill with icy water. 
-- Oxyehenhuain is caught out after curfew by two members of the city watch. She attempts to dispel their suspicions with a carefully concocted cover story. The GM calls for a Halfling roll. If Oxye succeeds, they politely escort her to her destination and continue their rounds. If she fails, they bind her hands, confiscate her scrolls, and lock her in a cell beneath the courthouse.
-
-Note that only players roll dice in Bloodlines. When two NPCs interact, the GM simply decides on the outcome. This serves as a reminder that the PCs are the story's driving force; they are expected to act, not merely react. Rolling also gives the players a sense of ownership over the ills that befall their PCs as a result of rolls that go badly.
-
-**Explain that rolls can only be made against other PCs with the player's consent.**
+The GM can interject at any time to call for a roll, in order to judge the outcome of a given action. This chapter addresses how rolls work from the players' perspective, while a more thorough discussion of the GM's role can be found in Chapter 6.
 
 ## Rolls
 
-When the GM calls for a roll, the player rolls a number of dice equal to their PC's most relevant bloodline score. If it's ambiguous which score is most relevant, the determination falls to the GM. Note that when casting a spell, the bloodline used for the roll is always the one that corresponds to the spell.
+Only players roll dice in Bloodlines. This serves as a constant reminder that the PCs are the story's driving force. They are expected to be proactive, not merely reactive. When dealing with an interaction between multiple NPCs, the GM simply narrates what happens; no rolls are made.
 
-Each die that shows "1" is a **success**. If no successes are rolled (no dice show "1") then the roll is a **failure**. When a player rolls a single success, it means that their PC's action had more or less the result they intended. Additional successes indicate that the action went unexpectedly well, the details of which are left to the GM's imagination. On the other hand, a failed roll is always bad for the PCs, though of course it should still be good for the story; the previous section discussed this idea in some detail, and the upcoming section addresses how it pertains specifically to confrontations.
+When the GM asks a player for a roll, the player rolls a number of dice equal to their PC's most relevant bloodline score. If it's ambiguous which score is most relevant, the choice falls to the GM.
 
-Each roll has a level, which is set by the GM. A roll's level dictates the size of dice used, and, correspondingly, the roll's likeliness of success. **Minor** rolls use four-sided dice; **Significant** rolls use six-sided dice; **Incredible** rolls use eight-sided dice; **Legendary** rolls use ten-sided dice. It's recommended that Significant rolls be the most common, and that Legendary rolls be reserved for the truly outrageous, in order to maintain the tension and excitement that come with the ten-sided dice.
+Each die that shows "1" is a **success**. If no successes are rolled (no dice show "1") then the roll is a **failure**. A failed roll is bad. A single success is good. Additional successes indicate that the action went unexpectedly well, the details of which fall to the GM's discretion.
 
-The level of a roll depends on the challenge in front of a PC as well as how they approach it. Sometimes it's easier to pick the lock, while other times it's easier to kick down the door. A player can also influence roll level through mindful narration of their PC's actions. For example, if a PC wants to pick a lock quickly, they may be called to roll at a higher level (since the action is more difficult). The tradeoff is that any NPCs on the other side of the door will likely be caught by surprise if the PC is successful. Conversely, a player may be allowed to roll an attack at a lower difficulty if they describe their PC's berserk fervor, as the attack is more likely to inflict wounds on NPCs. However, such an onslaught might also convince the NPCs that they'd be better off ganging up on a more vulnerable PC.
+The size of dice used for the roll is determined by the roll's level. **Minor** rolls use four-sided dice; **Significant** rolls use six-sided dice; **Incredible** rolls use eight-sided dice; **Legendary** rolls use ten-sided dice. Successes are rarer on larger dice, of course; a Significant roll made with six dice will succeed two times out of three, while a Legendary roll made with six dice will succeed less than half the time.
+
+Roll levels are set by the GM, based both on the challenge in front of the PC and their approach to it. Sometimes it's easier to pick the lock, while other times it's easier to kick down the door. Level can also be affected by the player's mindful narration of the PC's actions. Suppose Oxyehenhuain is attempting to pick a lock, which the GM considers a Significant roll. If Oxyehenhuain wants to pick the lock quickly, she may be called to make an Incredible roll instead. If she succeeds, she may be able to catch any NPCs on the other side of the door by surprise. On the other hand, if she wants to take her time, the roll could be Minor. In exchange, the consequences of failure may be more severe: perhaps the door opens into an ambush.
+
+## Failing Forward
+
+**flesh these paragraphs out, obviously.**
+
+No roll should ever result in nothing happening, whether it be a failure or a success.
+
+A failed roll is always bad for the PCs, but should still move the story forward. It should be viewed by the GM an as invitation to introduce some new and unfortunate plot twist.
+
+> Suppose Oxye and Tor Byorn are pursuing some cultists through a cave system. The GM calls for Tor Byorn, who is walking ahead as a scout, for an Elf roll. If it's successful, he hears voices up ahead; if she fails, the two of them are ambushed.
+
+Roll outcomes are immediate.
+
+> Before opening a door, Oxyehenhuain notices that the hinge is connected to a trigger. She attempts to disarm it, prompting a Goblin roll. If she succeeds, she's able to disarm the trap and open the door safely. If she fails, the trap triggers, and the room begins to fill with icy water.
 
 ## Confrontations
 
-During their adventures, PCs inevitably become engaged in physical and social confrontations with NPCs. Broadly, the rules work the same during confrontations that they do at any other time. Players still participate in whatever order feels natural. The GM interjects on behalf of NPCs, and prompts the PCs for rolls. No roll ever results in nothing happening. The specifics of how these rules are applied during a confrontation bears additional discussion, however.
+Broadly, the rules work the same during a fight that they do at any other time. Players participate in whatever order feels natural. The GM interjects on behalf of NPCs, and prompts the PCs for rolls. No roll ever results in nothing happening. The specifics of how these rules are applied during a confrontation bears additional discussion, however.
 
-As at any other time, rolls follow the story, not vice versa. Players should not think that a confrontation means that dice supersede roleplaying. For example, players should not presume to treat a social confrontation like they would a physical one. If four PCs surround an NPC and start yelling, it's not a social confrontation at all. The NPC is likely to flee or call in the guards, rather than engage the PCs in an argument. 
+During a confrontation, players should contribute as they like, within reason, even if not everyone else has gone since their last turn. If some players contribute more than others, it can be presumed that the action is simply moving faster around those PCs! Of course, if the GM deems some players to be participating too little, they may specifically prompt them: "Oxye, a few of the skeletons turn suddenly turn away from the group and charge at you. What do you do?"
 
-Each player should contribute as they like, within reason, even if not everyone else has gone since their last turn. If some players contribute more than others, it can be presumed that the action is simply moving faster around those PCs! Of course, if the GM deems some players to be participating too little, they may specifically prompt them: "The duchess considers your behavior to be a breach of your agreement; Tor Byorn, she looks to you for an explanation" or "Liam, a few of the skeletons turn suddenly turn away from the group and charge at you. What do you do?"
+The GM calls for rolls at their discretion. This means that a player may sometimes narrate several actions before being called to roll. When this happens, it is the GM that determines which bloodline score should be rolled. For example, suppose that Oxyehenhuain wants to sneak up behind an NPC and knock them out. The GM may choose to call for a Goblin roll (for the sneaking) or for a Dwarf roll (for the attack), depending on which seems more appropriate at the time.
 
-It is the instinct of some players to react defensively: "I look at the floor and mumble an apology" or "I hide behind a rock". This isn't against the rules per se, but the GM should feel encouraged to push the players to act proactively: **what would the GM say to get TBY to engage with the duchess?** or **what would the GM say to get Liam to engage with the skeletons?**. **quick explanation of why you would do this -- it makes sure that, assuming you succeed on your roll -- some positive (rather than neutral) outcome makes sense.**
+**some polish is missing here**
 
-The GM calls for rolls at their discretion. This means that a player may sometimes narrate several actions before being called to roll. When this happens, it is the GM that determines which bloodline score should be rolled. For example, suppose that Father Liam wants to sneak up behind an NPC and knock them out. The GM may choose to call for a Goblin roll (for the sneaking) or for a Dwarf roll (for the attack), depending on which seems more appropriate at the time. 
-
-During confrontations, the effects of rolls are fairly consistent in magnitude. A failed roll is worth one wound on a PC. Each success is worth a wound on an NPC (that is, two or three successes on a roll has twice or triple the effect of a single success). Other effects are allowed, of course, and even encouraged. PCs can grab, tackle, disarm, taunt, distract, or reason with NPCs. They can interact with the environment, perhaps hiding or improvising a barricade. They can cast spells. These actions can affect the levels of future rolls as well as the behaviors of NPCs. However, the scale above should serve as a guide to the GM when narrating the size of each effect. 
-
-As at any other time, it can be difficult to think of consequences for a failed roll. A few examples follow. It also bears noting that the consequence of a roll need not be the same sort of effect that a PC was trying to create; the failed roll allows the GM to introduce whatever sort of effect they deem appropriate.
-
-- While exploring a cave system, the party is ambushed by a troll. Tor Byorn attempts to climb up the troll's back to attack its head, prompting a Dwarf roll. If successful, he is able to mount it, distracting it and setting himself up for an easy attack next round. If he fails his roll, the troll lurches backwards, slamming Tor Byorn into the wall and inflicting a wound on him. 
-- Oxyehenhuain is engaged in a negotiation with a foreign dignitary. The GM calls for an Elf roll due to Oxye's inexperience with the language being used. If she succeeds, she makes a strong argument, and erodes her opponent's willpower, inflicting a wound. If she fails, she mixes up a word and mistakenly utters an offensive slur. She realizes her error and becomes flustered, suffering a wound herself. 
-- Brigands ambush the party, but luckily Galadhel escapes their notice. She draws an arrow and fires into the melee, prompting a Goblin roll. If successful, she drops a brigand in its tracks. If she fails, she instead misses and hits a member of the party instead. 
-- **Liam Halfling social confrontation example. For a greater diversity of examples, make sure that neither consequence inflicts a wound. Maybe lying.**
+Each success is worth one wound on an NPC, or an effect of about that size. Each failed roll is worth one wound on a PC, or an effect of about that size. This can be literally anything. Grapples, affecting NPC behavior by taunting/distracting/whatever, etc. A big list can be found in chapter 6. 
