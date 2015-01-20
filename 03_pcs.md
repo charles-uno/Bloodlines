@@ -22,12 +22,6 @@ The strengths and weaknesses of a PC are expressed through their four bloodline 
 
 During play, bloodline scores indicate the number of dice that players use to make rolls. A higher bloodline score causes a player to roll more dice, which in turn improves the PC's odds of success in actions related to that score. 
 
-Over the course of their adventures, a PC's bloodline scores gradually increase. This indicates the PC becoming stronger and more clever as a result of their experiences, as well as earning divine favor by amusing the gods. The gods are capricious, however, so these score increases manifest unpredictably. 
-
-Bloodline scores are set at the beginning of each session. To do so, each player rolls twenty four-sided dice, plus an additional one for each session that's been played. That is, twenty-one dice are rolled at the beginning of the second session, twenty-two at the beginning of the third session, and so on. If any numbers do not show up (no dice show "1", for example), the roll must be tried again. 
-
-The die are divided into four piles by value. The sizes of the four piles are then assigned to the PC's bloodline scores. The relative order of the scores should remain unchanged from session to session – Tor Byorn Yorgensen always assigns his highest score to his Dwarf bloodline and his lowest score to his Elf bloodline, for example. 
-
 The meaning of each bloodline score is explained in detail below: 
 
 **NOTE: also mention spell domains here.**
@@ -37,6 +31,11 @@ The meaning of each bloodline score is explained in detail below:
 + **The Goblin bloodline imparts reflexes, coordination, and stealthiness.** A high score will improve a PC's rolls to pick locks, pick pockets, move silently, and attack with ranged and thrown weapons. It also defends against detection and against projectiles – the GM may request a Goblin roll for a PC to remain hidden despite pursuers, or to duck out of the way of an incoming arrow or falling rock.
 + **The Halfling bloodline imparts social savvy, charisma, and willpower.** A high score will improve a PC's rolls to provoke, intimidate, barter, build rapport, entertain, create disguises, and lie. It also defends against deception and coercion – the GM may call for a Halfling roll for a PC to judge an NPC's trustworthiness, or maintain composure when faced with a tense or confrontational social situation.
 
+Over the course of their adventures, a PC's bloodline scores gradually increase. This indicates the PC becoming stronger and more clever as a result of their experiences, as well as earning divine favor by amusing the gods. The gods are capricious, however, so these score increases manifest unpredictably. 
+
+Bloodline scores are set at the beginning of each session. To do so, each player rolls twenty four-sided dice, plus an additional one for each session that's been played. That is, twenty-one dice are rolled at the beginning of the second session, twenty-two at the beginning of the third session, and so on. If any numbers do not show up (no dice show "1", for example), the roll must be tried again. 
+
+The die are divided into four piles by value. The sizes of the four piles are then assigned to the PC's bloodline scores. The relative order of the scores should remain unchanged from session to session – Tor Byorn Yorgensen always assigns his highest score to his Dwarf bloodline and his lowest score to his Elf bloodline, for example. 
 
 ## Injury & Death
 
