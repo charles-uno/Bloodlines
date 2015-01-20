@@ -45,3 +45,9 @@ The GM calls for rolls at their discretion. This means that a player may sometim
 **some polish is missing here**
 
 Each success is worth one wound on an NPC, or an effect of about that size. Each failed roll is worth one wound on a PC, or an effect of about that size. This can be literally anything. Grapples, affecting NPC behavior by taunting/distracting/whatever, etc. A big list can be found in chapter 6. 
+
+## Injury & Death
+
+**Note: this is where we should actually explain how the checkboxes work.**
+
+
