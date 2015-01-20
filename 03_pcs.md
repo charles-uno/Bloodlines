@@ -46,13 +46,13 @@ Corresponding to each bloodline score is a checkbox.
 + Goblin -> Injured (this one I really don't like)
 + Halfling -> Shaken
 
-Whenever a PC gets hit, they check a box. The GM will tell them which one, either by deciding or by choosing randomly. 
+Whenever a PC gets hit, they check a box. The GM will tell them which one, either by deciding or by choosing randomly.
 
 Wounds are recovered in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single wound. All wounds are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.
 
 Whenever a player is called to make a roll, if their corresponding box is checked, they instead make that roll one level higher. For example, if Tor Byorn is Broken and the GM calls for a Significant Dwarf roll, an Incredible roll must be made instead. 
 
-Two of teh boxes indicate mental detriments due to physical damage. Why? Well, pain is distracting. Concussions impair mental and social ability. Battles are disorienting and panic-inducing, particularly for the inexperienced. 
+Two of the boxes indicate mental detriments due to physical damage. Why? Well, pain is distracting. Concussions impair mental and social ability. Battles are disorienting and panic-inducing, particularly for the inexperienced. 
 
 If a player would check a box but all four are already checked, they are killed. This means you are on your feet, though at an ever-diminishing capacity, until the deathblow is struck. You never lay on the ground waiting to die. 
 
@@ -90,8 +90,4 @@ Humanity disagree about which spells are good omens and which are bad.
 At the beginning of each play session, if a player chooses not in increase one of their PC's bloodline scores, that PC instead learns a spell. Any PC is able to learn any spell, regardless of what spells they already know, and regardless of what their corresponding bloodline scores are. 
 
 It bears noting that a PC will be most effective in using a spell if their corresponding bloodline score is high. Should the GM call for a roll as part of using a Dwarf spell, for example, that roll will always be made with the Dwarf bloodline score. This is discussed more fully in the next chapter.
-
-Players can choose spells from the spell list in the Appendix. In addition, GMs are encouraged to write their own spells; the Appendix also includes advive to help in this endeavor. 
-
-Physical wounds indicate bodily injury due to brawls, poisons, weapons, and so on. Defeat by physical wounds causes physical incapacitation. The PC may (per the GM's discretion) be conscious and able to speak, but they cannot move or defend themselves. Given the chance, any NPC can easily kill them. 
 
