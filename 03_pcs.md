@@ -63,33 +63,3 @@ If a player would check a box but all four are already checked, they are killed.
 This is a large blank space at the bottom of the character sheet. It's meant for anything that the player wants to note as they play. It will likely start out empty, then accumulate little bits over time. 
 
 This is a place to mark unusual items carried, relationships with NPCs, memorable exploits, rumors gathered from NPCs, thoughts to be referenced later, etc. This section doesn't have a mechanical effect – it exists to help add color. 
-
-**Note: everything below the horizontal line is the previous version, kept here for reference for the moment. I will be reworking the chapter above this break, and grabbing stuff from below as appropriate.**
-
-***
-
-**Oxye was a scholar/archaeologist (there are probably ruins EVERYWHERE). She can shape wood. Her job is to go get the Heart of the Mountain, a powerful artifact she believes was left in Tordenkul when the Dwarves abandoned the city. Maybe it provides power or repels monsters or something. She believes (perhaps correctly) that such power is dangerous, and that she should study it carefully before entrusting it to anyone else.**
-
-**TBY was a caravan guard. He's as good as any at safely navigating the unkempt roads. He can do stoneform. His job is to get Oxye to the mountain, let her find the Heart, and get it back home. He believes that the Heart will protect his increasingly-endangered home, and values it far more than he does his companion.**
-
-## Notes
-
-Players are encouraged to talk to each other to figure out ideas for interesting backstories, relationships between the PCs, and what specifically has brought them together. The GM should be part of this discussion as well, in order to provide relevant details about the in-game world.... as well as to take note of people and places mentioned in the PCs' descriptions which may later be leveraged to create engaging plot hooks. 
-
-A PC's description is used to eyeball the sorts of equipment a PC carries. There is no formal handling of items or currency in Bloodlines. If the PCs find themselves wanting lockpicks, a spyglass, some rope, or a disguise kit, they'll need to assess whether it would make sense for any of them to be carrying such a thing. 
-
-## Spells
-
-In addition to bloodline scores, a PC's ancestry also provides them with
-spells. A spell is a whisper of the magical powers of the ancient peoples,
-which can bubble up through a PC's hereditary memory. 
-
-All PCs have access to spells, but it bears noting that they are otherwise
-rare. Most humans never know a spell; many never even meet someone who does.
-Learning a new spell is always an event of note... though different sects of
-Humanity disagree about which spells are good omens and which are bad.
-
-At the beginning of each play session, if a player chooses not in increase one of their PC's bloodline scores, that PC instead learns a spell. Any PC is able to learn any spell, regardless of what spells they already know, and regardless of what their corresponding bloodline scores are. 
-
-It bears noting that a PC will be most effective in using a spell if their corresponding bloodline score is high. Should the GM call for a roll as part of using a Dwarf spell, for example, that roll will always be made with the Dwarf bloodline score. This is discussed more fully in the next chapter.
-
