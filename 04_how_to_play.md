@@ -8,7 +8,7 @@ There is no turn order per se. Players participate when they have something to a
 
 The GM can interject at any time to call for a roll, in order to judge the outcome of a given action. This chapter addresses how rolls work from the players' perspective, while a more thorough discussion of the GM's role can be found in Chapter 6.
 
-## Rolls
+## Rolling Dice
 
 Only players roll dice in Bloodlines. This serves as a constant reminder that the PCs are the story's driving force. They are expected to be proactive, not merely reactive. When dealing with an interaction between multiple NPCs, the GM simply narrates what happens; no rolls are made.
 
