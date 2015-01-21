@@ -39,7 +39,7 @@ Note that, rather than rolling physical dice, Wolfram Alpha can be used to insta
 
 The die are divided into four piles by value. The sizes of the four piles are then assigned to the PC's bloodline scores. The relative order of the scores should remain unchanged from session to session – Tor Byorn Yorgensen always assigns his highest score to his Dwarf bloodline and his lowest score to his Elf bloodline, for example. 
 
-## Injury & Death
+## Conditions
 
 Corresponding to each bloodline score is a checkbox.
 
