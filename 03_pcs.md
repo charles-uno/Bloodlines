@@ -31,7 +31,7 @@ Over the course of their adventures, a PC's bloodline scores gradually increase.
 
 Bloodline scores are set at the beginning of each session. To do so, each player rolls twenty four-sided dice, plus an additional one for each session that's been played. That is, twenty-one dice are rolled at the beginning of the second session, twenty-two at the beginning of the third session, and so on. If any numbers do not show up (no dice show "3", for example), the roll must be tried again.
 
-The die are divided into four piles by value. The sizes of the four piles are then assigned to the PC's bloodline scores. Note that the relative order of the scores should remain unchanged from session to session.
+The dice are divided into four piles by value. The sizes of the four piles are then assigned to the PC's bloodline scores. Note that the relative order of the scores should remain unchanged from session to session.
 
 > At the beginning of the first session, twenty four-sided dice are rolled for Tor Byorn's bloodline scores. The result is 4 dice showing "1," 7 dice showing "2," 3 dice showing "3," and 6 dice showing "4." That means that his four bloodline scores are 4, 7, 3, and 6. He assigns his highest score (7) to Dwarf, his second-highest (6) to Halfling, his third-highest (4) to Goblin, and his lowest (3) to Elf.
 
