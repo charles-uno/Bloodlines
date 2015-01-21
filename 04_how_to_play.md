@@ -59,7 +59,7 @@ Corresponding to each bloodline score is a checkbox.
 
 Whenever a PC gets hit, they check a box. The GM will tell them which one, either by deciding or by choosing randomly.
 
-Wounds are recovered in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single wound. All wounds are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.
+Wounds are recovered in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single wound (of the player's choice). All wounds are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.
 
 Whenever a player is called to make a roll, if their corresponding box is checked, they instead make that roll one level higher. For example, if Tor Byorn is Broken and the GM calls for a Significant Dwarf roll, an Incredible roll must be made instead. 
 
