@@ -1,6 +1,6 @@
 # Introduction
 
-Bloodlines is played with one game master (**GM**) and one or more
+Bloodlines is a game of collaborative, structured storytelling. It is played with one game master (**GM**) and one or more
 **players**. Each player plays the role of a player character (**PC**) which
 they create as the game begins. The GM designs and plays the role of the world
 around the PCs, including its cast of nonplayer characters (**NPCs**),
