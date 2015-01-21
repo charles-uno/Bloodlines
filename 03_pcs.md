@@ -35,6 +35,8 @@ Over the course of their adventures, a PC's bloodline scores gradually increase.
 
 Bloodline scores are set at the beginning of each session. To do so, each player rolls twenty four-sided dice, plus an additional one for each session that's been played. That is, twenty-one dice are rolled at the beginning of the second session, twenty-two at the beginning of the third session, and so on. If any numbers do not show up (no dice show "1", for example), the roll must be tried again. 
 
+Note that, rather than rolling physical dice, Wolfram Alpha can be used to instantly mock up such a distribution: http://www.wolframalpha.com/input/?i=roll+20d4
+
 The die are divided into four piles by value. The sizes of the four piles are then assigned to the PC's bloodline scores. The relative order of the scores should remain unchanged from session to session – Tor Byorn Yorgensen always assigns his highest score to his Dwarf bloodline and his lowest score to his Elf bloodline, for example. 
 
 ## Injury & Death
