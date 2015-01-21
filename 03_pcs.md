@@ -42,10 +42,9 @@ The dice are divided into four piles by value. The sizes of the four piles are t
 Each PC has four checkboxes which are marked as they suffer injury. Each box corresponds to one of the four bloodline scores. As long as a given box is checked, rolls of the corresponding score will be more difficult: 
 
 + While the **Broken** condition is checked, a PC's Dwarf rolls will be more difficult. 
-+ + While the **Broken** condition is checked, a PC's Dwarf rolls will be more difficult. 
-+ The **Dazed** condition corresponds to the Elf bloodline. 
-+ The **Unsteady** condition corresponds to the Goblin bloodline. 
-+ The **Shaken** condition corresponds to the Halfling bloodline. 
++ While the **Dazed** condition is checked, a PC's Elf rolls will be more difficult. 
++ While the **Unsteady** condition is checked, a PC's Goblin rolls will be more difficult. 
++ While the **Shaken** condition is checked, a PC's Halfling rolls will be more difficult. 
 
 The next chapter illustrates in detail how these boxes become checked, how they become unchecked, and what happens when a PC runs out of checkboxes. 
 
