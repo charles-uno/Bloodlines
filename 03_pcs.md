@@ -33,7 +33,7 @@ Bloodline scores are set at the beginning of each session. To do so, each player
 
 The dice are divided into four piles by value. The sizes of the four piles are then assigned to the PC's bloodline scores. Note that the relative order of the scores should remain unchanged from session to session.
 
-> At the beginning of the first session, twenty four-sided dice are rolled for Tor Byorn's bloodline scores. The result is 4 dice showing "1," 7 dice showing "2," 3 dice showing "3," and 6 dice showing "4." That means that his four bloodline scores are 4, 7, 3, and 6. He assigns his highest score (7) to Dwarf, his second-highest (6) to Halfling, his third-highest (4) to Goblin, and his lowest (3) to Elf.
+> At the beginning of the first session, twenty four-sided dice are rolled to determine Tor Byorn's bloodline scores. The result is 4 dice showing "1," 7 dice showing "2," 3 dice showing "3," and 6 dice showing "4." That means that his four bloodline scores are 4, 7, 3, and 6. He assigns his highest score (7) to Dwarf, his second-highest (6) to Halfling, his third-highest (4) to Goblin, and his lowest (3) to Elf.
 
 > At the beginning of the second session, twenty-one dice are rolled, resulting in 3 dice showing "1," 5 dice showing "2," 5 dice showing "3," and 8 dice showing "4." That means that his four bloodline scores are 3, 5, 5, and 8. He assigns them in the same order as before: Dwarf 8, Halfling 5, Goblin 5, and Elf 3.
 
