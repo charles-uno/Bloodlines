@@ -48,6 +48,22 @@ Each success is worth one wound on an NPC, or an effect of about that size. Each
 
 ## Injury, Recovery, and Death
 
-**Note: this is where we should actually explain how the checkboxes work.**
+**these boxes were introduced in the previous chapter, but we need to explain here how they actually work with the rules.** 
 
+Corresponding to each bloodline score is a checkbox.
+
++ Dwarf -> Broken
++ Elf -> Dazed (this word may later be replaced)
++ Goblin -> Injured (this one I really don't like)
++ Halfling -> Shaken
+
+Whenever a PC gets hit, they check a box. The GM will tell them which one, either by deciding or by choosing randomly.
+
+Wounds are recovered in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single wound. All wounds are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.
+
+Whenever a player is called to make a roll, if their corresponding box is checked, they instead make that roll one level higher. For example, if Tor Byorn is Broken and the GM calls for a Significant Dwarf roll, an Incredible roll must be made instead. 
+
+Two of the boxes indicate mental detriments due to physical damage. Why? Well, pain is distracting. Concussions impair mental and social ability. Battles are disorienting and panic-inducing, particularly for the inexperienced. 
+
+If a player would check a box but all four are already checked, they are killed. This means you are on your feet, though at an ever-diminishing capacity, until the deathblow is struck. You never lay on the ground waiting to die. 
 
