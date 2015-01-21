@@ -41,22 +41,14 @@ The die are divided into four piles by value. The sizes of the four piles are th
 
 ## Conditions
 
-Corresponding to each bloodline score is a checkbox.
+Each PC has four checkboxes which are marked as they suffer injury. Each box corresponds to one of the four bloodline scores. As long as a given box is checked, rolls of the corresponding score will be more difficult: 
 
-+ Dwarf -> Broken
-+ Elf -> Dazed (this word may later be replaced)
-+ Goblin -> Injured (this one I really don't like)
-+ Halfling -> Shaken
++ The **Broken** condition corresponds to the Dwarf bloodline. 
++ The **Dazed** condition corresponds to the Elf bloodline. 
++ The **Unsteady** condition corresponds to the Goblin bloodline. 
++ The **Shaken** condition corresponds to the Halfling bloodline. 
 
-Whenever a PC gets hit, they check a box. The GM will tell them which one, either by deciding or by choosing randomly.
-
-Wounds are recovered in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single wound. All wounds are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.
-
-Whenever a player is called to make a roll, if their corresponding box is checked, they instead make that roll one level higher. For example, if Tor Byorn is Broken and the GM calls for a Significant Dwarf roll, an Incredible roll must be made instead. 
-
-Two of the boxes indicate mental detriments due to physical damage. Why? Well, pain is distracting. Concussions impair mental and social ability. Battles are disorienting and panic-inducing, particularly for the inexperienced. 
-
-If a player would check a box but all four are already checked, they are killed. This means you are on your feet, though at an ever-diminishing capacity, until the deathblow is struck. You never lay on the ground waiting to die. 
+The next chapter illustrates in detail how these boxes become checked, how they become unchecked, and what happens when a PC runs out of checkboxes. 
 
 ## Notes
 
