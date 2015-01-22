@@ -4,17 +4,21 @@ PCs are characters played by players. In contrast, NPCs are played by the GM. Th
 
 ## Title
 
-It shouldn't just be a name. Keep in mind that your PC has just been teamed up with strangers from half a world away. What makes you memorable? Perhaps a long family name? a distinguishing physical characteristic? your attitude? Where you are from?
+*It shouldn't just be a name. Keep in mind that your PC has just been teamed up with strangers from half a world away. What makes you memorable? Perhaps a long family name? a distinguishing physical characteristic? your attitude? Where you are from?*
 
 ## Foundation
 
-Trade. Life is hard on the frontier. For the most part, you were probably defined by your job before your power manifested itself. What did you do? Were you a builder? baker? farmer? soldier? lumberjack? How advanced is human civilization -- do jobs like pickpocket and scholar exist? Probably? Subsistence farming isn't very exciting. This is something you can come up with yourself if you like -- the input of others isn't super important here. 
+A PC's foundation is a set of four glimpses into the PC's life. They are not meant to be a full back story... just a handful of snippets to ground where the PC comes from, and who they are. Keep in mind that a PC's most exciting adventures lie ahead of them! 
 
-Power. Very rarely -- perhaps just a handful of times per generation -- a hint of ancient power manifests inself in an unwitting human. You are one such human. What is your power? Check out the appendix for examples or work with your GM to come up with one of your own. It's ideal that you have a power when the game starts, since people without powers are not adventurers.
+Prior to being conscripted as an adventurer, each PC had a **trade**: building, baking, logging, and so on. In fact, they likely had little else; the hard frontier life doesn't leave much time for hobby pursuits. A PC's trade hints at the sorts of tools they might carry, what NPCs they might naturally relate to, what problem-solving approaches come naturally to them, and so on. 
 
-Service. When your power manifested, you were drafted as an adventurer. On behalf of all of humanity, you explore the unknown and confront the dangers that live there. What onus, specifically, had been placed upon you? You should work with your group to figure these out. Not everyone needs to have the same task, but they should at least fit together. The PCs need to all share the story with one another, after all. 
+*Trade. Life is hard on the frontier. For the most part, you were probably defined by your job before your power manifested itself. What did you do? Were you a builder? baker? farmer? soldier? lumberjack? How advanced is human civilization -- do jobs like pickpocket and scholar exist? Probably? Subsistence farming isn't very exciting. This is something you can come up with yourself if you like -- the input of others isn't super important here.*
 
-Ethos. Even if you dreamed of being an adventurer, nothing in your life could have truly prepared you for it. How have you reacted? Do you embrace your new responsibility or resent it? What sort of world are you working to build for humanity? This is something you should talk to your GM and other players about, though you don't need to agree on everything -- disagreement can lead to interesting party dynamics!
+*Power. Very rarely -- perhaps just a handful of times per generation -- a hint of ancient power manifests inself in an unwitting human. You are one such human. What is your power? Check out the appendix for examples or work with your GM to come up with one of your own. It's ideal that you have a power when the game starts, since people without powers are not adventurers.*
+
+*Service. When your power manifested, you were drafted as an adventurer. On behalf of all of humanity, you explore the unknown and confront the dangers that live there. What onus, specifically, had been placed upon you? You should work with your group to figure these out. Not everyone needs to have the same task, but they should at least fit together. The PCs need to all share the story with one another, after all.*
+
+*Ethos. Even if you dreamed of being an adventurer, nothing in your life could have truly prepared you for it. How have you reacted? Do you embrace your new responsibility or resent it? What sort of world are you working to build for humanity? This is something you should talk to your GM and other players about, though you don't need to agree on everything -- disagreement can lead to interesting party dynamics!*
 
 ## Bloodline Scores
 
@@ -50,6 +54,6 @@ The next chapter illustrates in detail how these boxes become checked, how they 
 
 ## Notes
 
-This is a large blank space at the bottom of the character sheet. It's meant for anything that the player wants to note as they play. It will likely start out empty, then accumulate little bits over time. 
+*This is a large blank space at the bottom of the character sheet. It's meant for anything that the player wants to note as they play. It will likely start out empty, then accumulate little bits over time.*
 
-This is a place to mark unusual items carried, relationships with NPCs, memorable exploits, rumors gathered from NPCs, thoughts to be referenced later, etc. This section doesn't have a mechanical effect – it exists to help add color. 
+*This is a place to mark unusual items carried, relationships with NPCs, memorable exploits, rumors gathered from NPCs, thoughts to be referenced later, etc. This section doesn't have a mechanical effect – it exists to help add color.*
