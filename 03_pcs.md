@@ -1,6 +1,6 @@
 # Player Characters
 
-PCs are characters played by players. In contrast, NPCs are played by the GM. They get their own chapter later. 
+*PCs are characters played by players. In contrast, NPCs are played by the GM. They get their own chapter later.*
 
 ## Title
 
