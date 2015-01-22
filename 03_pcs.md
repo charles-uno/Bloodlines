@@ -2,7 +2,7 @@
 
 PCs are characters played by players. In contrast, NPCs are played by the GM. They get their own chapter later. 
 
-## Name
+## Title
 
 It shouldn't just be a name. Keep in mind that your PC has just been teamed up with strangers from half a world away. What makes you memorable? Perhaps a long family name? a distinguishing physical characteristic? your attitude? Where you are from?
 
