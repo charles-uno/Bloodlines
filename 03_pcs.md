@@ -10,11 +10,9 @@ PCs are characters played by players. In contrast, NPCs are played by the GM. Th
 
 A PC's foundation is a set of four glimpses into the PC's life. They are not meant to be a full back story... just a handful of snippets to ground where the PC comes from, and who they are. Keep in mind that a PC's most exciting adventures lie ahead of them! 
 
-Prior to being conscripted as an adventurer, each PC had a **trade**: building, baking, logging, and so on. In fact, they likely had little else; the hard frontier life doesn't leave much time for hobby pursuits. A PC's trade hints at the sorts of tools they might carry, what NPCs they might naturally relate to, what problem-solving approaches come naturally to them, and so on. 
+Prior to being conscripted as an adventurer, each PC had a **Trade**: building, baking, logging, and so on. In fact, they likely had little else; the hard frontier life doesn't leave much time for hobby pursuits. A PC's trade hints at the sorts of tools they might carry, what NPCs they might naturally relate to, what problem-solving approaches come naturally to them, and so on. 
 
-*Trade. Life is hard on the frontier. For the most part, you were probably defined by your job before your power manifested itself. What did you do? Were you a builder? baker? farmer? soldier? lumberjack? How advanced is human civilization -- do jobs like pickpocket and scholar exist? Probably? Subsistence farming isn't very exciting. This is something you can come up with yourself if you like -- the input of others isn't super important here.*
-
-*Power. Very rarely -- perhaps just a handful of times per generation -- a hint of ancient power manifests inself in an unwitting human. You are one such human. What is your power? Check out the appendix for examples or work with your GM to come up with one of your own. It's ideal that you have a power when the game starts, since people without powers are not adventurers.*
+Each PC's life changed with the manifestation of their **Power**. This whisper of magical ability, held over from the old peoples, set them undeniably apart from the rest of Humanity. The Appendix lists several example powers, and also gives guidelines from which players can work with each other and the GM to come up with their own. 
 
 *Service. When your power manifested, you were drafted as an adventurer. On behalf of all of humanity, you explore the unknown and confront the dangers that live there. What onus, specifically, had been placed upon you? You should work with your group to figure these out. Not everyone needs to have the same task, but they should at least fit together. The PCs need to all share the story with one another, after all.*
 
