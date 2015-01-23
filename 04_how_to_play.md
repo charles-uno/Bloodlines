@@ -28,7 +28,7 @@ Roll levels are set by the GM, based both on the challenge in front of the PC an
 
 *A failed roll is always bad for the PCs, but should still move the story forward. It should be viewed by the GM an as invitation to introduce some new and unfortunate plot twist.*
 
-> Suppose Oxye and Tor Byorn are pursuing some cultists through a cave system. The GM calls for Tor Byorn, who is walking ahead as a scout, for an Elf roll. If it's successful, he hears voices up ahead; if she fails, the two of them are ambushed.
+> Suppose Oxye and Tor Byorn are pursuing some cultists through a cave system. The GM calls for Tor Byorn, who is walking ahead as a scout, for an Elf roll. If it's successful, he hears voices up ahead; if he fails, the two of them are ambushed.
 
 *Roll outcomes are immediate.*
 
