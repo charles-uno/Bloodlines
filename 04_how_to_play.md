@@ -4,6 +4,8 @@ Bloodlines is, for the most part, played by talking. The GM describes the situat
 
 There is no turn order per se. Players participate when they have something to add. That said, the GM should moderate play to ensure that everyone participates. For example, an underparticipating players can be called to action with, "The troll bellows menacingly. Oxyehenhuain, what's your plan?" or "Tor Byorn, what are you up to while she is in the meeting with Ambassador Xictli?"
 
+> Is that last bit actually an example? Can we phrase it like one? 
+
 The GM can interject at any time to call for a roll, in order to judge the outcome of a given action. This chapter addresses how rolls work from the players' perspective, while a more thorough discussion of the GM's role can be found in Chapter 6.
 
 ## Rolling Dice
@@ -60,6 +62,8 @@ The GM calls for rolls at their discretion. This means that a player may sometim
 + *Halfling -> Shaken*
 
 *Whenever a PC gets hit, they check a box. The GM will tell them which one, either by deciding or by choosing randomly.*
+
+> let's have two examples in this section. I'm not sure exactly where they go. 
 
 *Wounds are recovered in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single wound (of the player's choice). All wounds are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.*
 
