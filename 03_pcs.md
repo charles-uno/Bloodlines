@@ -4,19 +4,23 @@
 
 ## Title
 
-*It shouldn't just be a name. Keep in mind that your PC has just been teamed up with strangers from half a world away. What makes you memorable? Perhaps a long family name? a distinguishing physical characteristic? your attitude? Where you are from?*
+Each PC is at once an embodiment of Humanity's heritage and a beacon of hope for its future. The common folk view them with a mixture of reverence and apprehension. Such a larger-then-life figure can hardly have an ordinary name! 
+
+*It shouldn't just be a name. Keep in mind that your PC has just been teamed up with strangers from half a world away. What makes them memorable? Perhaps a long family name? a distinguishing physical characteristic? an attitude? a place of origin?*
 
 ## Foundation
 
-A PC's foundation is a set of four glimpses into the PC's life. They are not meant to be a full back story... just a handful of snippets to ground where the PC comes from, and who they are. Keep in mind that a PC's most exciting adventures lie ahead of them! 
+A PC's foundation is a set of four glimpses into the PC's life. They are not meant to be a full back story... just a handful of snippets to ground where the PC comes from, and who they are. Players should consider the following prompts when writing their PCs' foundations. It's also important to keep in mind that a PC's most exciting adventures lie ahead of them! 
 
-Prior to being conscripted as an adventurer, each PC had a **Trade**: building, baking, logging, and so on. In fact, they likely had little else; the hard frontier life doesn't leave much time for hobby pursuits. A PC's trade hints at the sorts of tools they might carry, what NPCs they might naturally relate to, what problem-solving approaches come naturally to them, and so on. 
+Before enlisting as an adventurer, each PC had a **Trade**. Perhaps they were a builder, a logger, an innkeep, or a farmer. It's likely that this profession was central to their identity; the hard frontier life leaves little room for hobby pursuits. A PC's Trade hints at the sorts of tools they might carry, what NPCs they might naturally relate to, what problem-solving approaches come naturally to them, and so on. 
 
-Each PC's life changed with the manifestation of their **Power**. This whisper of magical ability, held over from the old peoples, set them undeniably apart from the rest of Humanity. The Appendix lists several example powers, and also gives guidelines from which players can work with each other and the GM to come up with their own. 
+Each PC's life changed with the manifestation of their **Power**. While such a power is just a whisper of the old peoples' magical abilities, it is enough to set a PC apart, unambiguously, from the rest of Humanity. The Appendix lists several example Powers, and also provides guideline from which players can work with each other and the GM to create their own. 
 
-*Service. When your power manifested, you were drafted as an adventurer. On behalf of all of humanity, you explore the unknown and confront the dangers that live there. What onus, specifically, had been placed upon you? You should work with your group to figure these out. Not everyone needs to have the same task, but they should at least fit together. The PCs need to all share the story with one another, after all.*
+Adventurers are pressed into **Service** for the sake of all Humanity. Their missions are dangerous – the recovery of powerful artifacts, the exploration of ancient ruins, or the capture of magical creatures, for instance – and often push past the bounds of Human knowledge. Players should work with the GM and each other to establish their Service, keeping in mind that all of the PCs need to belong in the same story! 
 
-*Ethos. Even if you dreamed of being an adventurer, nothing in your life could have truly prepared you for it. How have you reacted? Do you embrace your new responsibility or resent it? What sort of world are you working to build for humanity? This is something you should talk to your GM and other players about, though you don't need to agree on everything -- disagreement can lead to interesting party dynamics!*
+A PC may have dreamed of becoming an adventurer, but nothing in their life could truly have prepared them for it. Their **Ethos** reflects how they have reacted. Does the PC embrace their newfound responsibility, or resent those who placed it upon them? What sort of future do they want to help build for Humanity? 
+
+A PC's Trade and Power do not change over time. That said, if a player realizes after a few sessions that they're unsatisfied with the PC they've created, they should talk to the GM about retconning a detail or two. On the other hand, a PC's Service and Ethos may well change over the course of a campaign. Revisions can arise from the PCs' discovery of new information, a new assignment after a completed quest, a PC's personal development, and so on. 
 
 ## Bloodline Scores
 
