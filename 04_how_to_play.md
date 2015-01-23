@@ -48,7 +48,15 @@ The GM calls for rolls at their discretion. This means that a player may sometim
 
 > Suppose that Tor Byorn wants to sneak up behind an NPC and knock them out. The GM may choose to call for a Goblin roll (for the sneaking) or for a Dwarf roll (for the attack), depending on which seems more appropriate at the time.
 
-*Each success is worth one wound on an NPC, or an effect of about that size. Each failed roll is worth one wound on a PC, or an effect of about that size. This can be literally anything. Grapples, affecting NPC behavior by taunting/distracting/whatever, etc. A big list can be found in chapter 6.*
+Generally speaking, each success is worth a single condition box, as is each failure. During a confrontation, a player whose roll shows two successes should expect to mark two NPC boxes, and one whose roll shows a failure (that is, no successes) should expect a PC box to be checked. Other effects are allowed as well, of course; PCs can grapple, taunt, interact with the environment, and so on. Their actions can affect NPC behavior, bring new information to light, or influence the GM's assessment of the levels of future rolls. No matter what's being rolled for, however, the GM should judge the roll's effect to be roughly on par with one box marked per success. 
+
+> example: TBY taunts baddies away from Oxye. fails. there's someone behind you! they leave Oxye alone, but now surround you. 
+
+> Example: Oxye rolls to deduce why these guys might be here. success. 
+
+> example: TBY rolls to kick some ass. two successes. two baddies drop. 
+
+> example: Oxye rolls to peg one with a stone. failure. Hits TBY. 
 
 ## Injury, Recovery, and Death
 
