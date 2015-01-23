@@ -6,7 +6,7 @@
 
 **how to guide your players -- especially new ones -- as they figure out their characters**
 
-**coming up with Service** you can play this out with your players, or just figure it out OOC. 
+**coming up with Service** you can play this out with your players, or just figure it out OOC. in either case, keep in mind that the PCs will almost certainly be given flawed and/or incomplete information. They are striking out into the unknown, after all. 
 
 **Conservation of Details.** Only use as many NPCs and locations as you need. Players can only keep track of so much.
 
