@@ -2,11 +2,16 @@
 
 *PCs are characters played by players. In contrast, NPCs are played by the GM. They get their own chapter later.*
 
+> For examples in this chapter, and the following chapters, we'll be considering a game run by GM Gemma, for players X and Y. 
 ## Title
 
 Each PC is at once an embodiment of Humanity's heritage and a beacon of hope for its future. The common folk view them with a mixture of reverence and apprehension. Such a larger-then-life figure can hardly have an ordinary name! 
 
 *It shouldn't just be a name. Keep in mind that your PC has just been teamed up with strangers from half a world away. What makes them memorable? Perhaps a long family name? a distinguishing physical characteristic? an attitude? a place of origin?*
+
+> Player X names...
+
+> Player Y names...
 
 ## Foundation
 
@@ -14,11 +19,19 @@ A PC's foundation is a set of four glimpses into the PC's life. They are not mea
 
 Before enlisting as an adventurer, each PC had a **Trade**. Perhaps they were a builder, a logger, an innkeep, or a farmer. It's likely that this profession was central to their identity; the hard frontier life leaves little room for hobby pursuits. A PC's Trade hints at the sorts of tools they might carry, what NPCs they might naturally relate to, what problem-solving approaches come naturally to them, and so on. 
 
+> Example...
+
 Each PC's life changed with the manifestation of their **Power**. While such a power is just a whisper of the old peoples' magical abilities, it is enough to set a PC apart, unambiguously, from the rest of Humanity. The Appendix lists several example Powers, and also provides guideline from which players can work with each other and the GM to create their own. 
+
+> Example...
 
 Adventurers are pressed into **Service** for the sake of all Humanity. Their missions are dangerous – the recovery of powerful artifacts, the exploration of ancient ruins, or the capture of magical creatures, for instance – and often push past the bounds of Human knowledge. Players should work with the GM and each other to establish their Service, keeping in mind that all of the PCs need to belong in the same story! 
 
+> Example... we need both for this one, to show how they fit together, so we might as well do both for all of them? 
+
 A PC may have dreamed of becoming an adventurer, but nothing in their life could truly have prepared them for it. Their **Ethos** reflects how they have reacted. Does the PC embrace their newfound responsibility, or resent those who placed it upon them? What sort of future do they want to help build for Humanity? 
+
+> Example... 
 
 A PC's Trade and Power do not change over time. That said, if a player realizes after a few sessions that they're unsatisfied with the PC they've created, they should talk to the GM about retconning a detail or two. On the other hand, a PC's Service and Ethos may well change over the course of a campaign. Revisions can arise from the PCs' discovery of new information, a new assignment after a completed quest, a PC's personal development, and so on. 
 
@@ -41,7 +54,9 @@ The dice are divided into four piles by value. The sizes of the four piles are t
 
 > At the beginning of the first session, twenty four-sided dice are rolled to determine Tor Byorn's bloodline scores. The result is 4 dice showing "1," 7 dice showing "2," 3 dice showing "3," and 6 dice showing "4." That means that his four bloodline scores are 4, 7, 3, and 6. He assigns his highest score (7) to Dwarf, his second-highest (6) to Halfling, his third-highest (4) to Goblin, and his lowest (3) to Elf.
 
-> At the beginning of the second session, twenty-one dice are rolled, resulting in 3 dice showing "1," 5 dice showing "2," 5 dice showing "3," and 8 dice showing "4." That means that his four bloodline scores are 3, 5, 5, and 8. He assigns them in the same order as before: Dwarf 8, Halfling 5, Goblin 5, and Elf 3.
+> Also do the other PC's scores? Probably. 
+
+> At the beginning of the second session, twenty-one dice are rolled, resulting in 3 dice showing "1," 5 dice showing "2," 5 dice showing "3," and 8 dice showing "4." That means that his four bloodline scores are 3, 5, 5, and 8. He assigns them in the same order as before: Dwarf 8, Halfling 5, Goblin 5, and Elf 3. 
 
 ## Conditions
 
@@ -59,3 +74,5 @@ The next chapter illustrates in detail how these boxes become checked, how they 
 *This is a large blank space at the bottom of the character sheet. It's meant for anything that the player wants to note as they play. It will likely start out empty, then accumulate little bits over time.*
 
 *This is a place to mark unusual items carried, relationships with NPCs, memorable exploits, rumors gathered from NPCs, thoughts to be referenced later, etc. This section doesn't have a mechanical effect – it exists to help add color.*
+
+> Examples: right off the bat, who adds what to their Notes? What do they add as they get going? 
