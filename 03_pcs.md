@@ -2,7 +2,8 @@
 
 *PCs are characters played by players. In contrast, NPCs are played by the GM. They get their own chapter later.*
 
-> For examples in this chapter, and the following chapters, we'll be considering a game run by GM Gemma, for players X and Y. 
+> For examples in this chapter, and the following chapters, we'll be considering a game run by GM Gemma, for players X and Y.
+
 ## Title
 
 Each PC is at once an embodiment of Humanity's heritage and a beacon of hope for its future. The common folk view them with a mixture of reverence and apprehension. Such a larger-then-life figure can hardly have an ordinary name! 
