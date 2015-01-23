@@ -14,21 +14,21 @@ When the GM asks a player for a roll, the player rolls a number of dice equal to
 
 Each die that shows "1" is a **success**. If no successes are rolled (no dice show "1") then the roll is a **failure**. A failed roll is bad. A single success is good. Additional successes indicate that the action went unexpectedly well, the details of which fall to the GM's discretion.
 
-The size of dice used for the roll is determined by the roll's level. **Minor** rolls use four-sided dice; **Significant** rolls use six-sided dice; **Incredible** rolls use eight-sided dice; **Legendary** rolls use ten-sided dice. Successes are rarer on larger dice, of course; a Significant roll made with six dice will succeed two times out of three, while a Legendary roll made with six dice will succeed less than half the time.
+The size of dice used for the roll is determined by the roll's level. **Minor** rolls use four-sided dice; **Significant** rolls use six-sided dice; **Incredible** rolls use eight-sided dice; **Legendary** rolls use ten-sided dice. Successes are rarer on larger dice, of course; a Significant roll made with six dice will succeed two times out of three, while a Legendary roll made with six dice will succeed less than half the time. 
+
+> Example of TBY wanting to do something, and how he rolls for it. 
 
 Roll levels are set by the GM, based both on the challenge in front of the PC and their approach to it. Sometimes it's easier to pick the lock, while other times it's easier to kick down the door. Level can also be affected by the player's mindful narration of the PC's actions. 
 
 > Suppose Oxyehenhuain is attempting to pick a lock, which the GM considers a Significant roll. If she states specifically that she is taking her time and picking the pock very carefully, the roll could be Minor instead. In that case, the consequences of failure may be more severe: perhaps the door opens into an ambush, or she is caught before getting the door open. 
 
-> Example of mindful narration turning an Incredible roll into a Legendary roll. 
-
 ## Failing Forward
 
-*No roll should ever result in nothing happening, whether it be a failure or a success.*
+*No roll should ever result in nothing happening, whether it be a failure or a success. every roll should advance the story, making it impossible to try the same roll again at the same stakes.*
 
-*A failed roll is always bad for the PCs, but should still move the story forward. It should be viewed by the GM an as invitation to introduce some new and unfortunate plot twist.*
+*A failed roll is always bad for the PCs, but should still move the story forward. It should be viewed by the GM an as invitation to introduce some new and interesting/unfortunate plot twist.*
 
-> Suppose Oxye and Tor Byorn are pursuing some cultists through a cave system. The GM calls for Tor Byorn, who is walking ahead as a scout, for an Elf roll. If it's successful, he hears voices up ahead; if he fails, the two of them are ambushed.
+> Suppose Oxye and Tor Byorn are pursuing some cultists through a cave system. The GM calls for Tor Byorn, who is walking ahead as a scout, for an Elf roll. If it's successful, he hears hushed voices arguing; if he fails, the two of them are ambushed. 
 
 *Roll outcomes are immediate.*
 
