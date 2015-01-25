@@ -72,8 +72,6 @@ The next chapter illustrates in detail how these boxes become checked, how they 
 
 ## Notes
 
-*This is a large blank space at the bottom of the character sheet. It's meant for anything that the player wants to note as they play. It will likely start out empty, then accumulate little bits over time.*
-
-*This is a place to mark unusual items carried, relationships with NPCs, memorable exploits, rumors gathered from NPCs, thoughts to be referenced later, etc. This section doesn't have a mechanical effect – it exists to help add color.*
+The final element of a character sheet is the Notes section. Use of this space is open-ended; players should use it to record anything they find important. A player might choose to note unusual items the PC carries with them, relationships with NPCs, exploits worth bragging about, or simply observations that might be useful later. Few details of this sort exist at character creation, so the Notes section tends to start out sparse, then accumulate content over the course of a campaign.  
 
 > Examples: right off the bat, who adds what to their Notes? What do they add as they get going? 
