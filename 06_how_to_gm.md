@@ -1,12 +1,11 @@
 # Game Mastering
 
-**Maybe Alex will write this chapter for me. I don't even know if the title is supposed to be one word or two.**
-
-**The section breakdown in this chapter is highly tentative.**
-
 **how to guide your players -- especially new ones -- as they figure out their characters**
 
 **coming up with Service** you can play this out with your players, or just figure it out OOC. in either case, keep in mind that the PCs will almost certainly be given flawed and/or incomplete information. They are striking out into the unknown, after all. 
+
+**only immediate effects**. rolls don't ever sya "nothing happens"
+
 
 **Conservation of Details.** Only use as many NPCs and locations as you need. Players can only keep track of so much.
 
