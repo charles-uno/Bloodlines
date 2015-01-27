@@ -26,15 +26,17 @@ Roll levels are set by the GM, based both on the challenge in front of the PC an
 
 ## Failing Forward
 
-*No roll should ever result in nothing happening, whether it be a failure or a success. every roll should advance the story, making it impossible to try the same roll again at the same stakes.*
+In Bloodlines, the outcome of a roll is never "nothing happens." Each roll advances the story, making it impossible for a player to reattempt the same toll at the same stakes. This ensures that the game's momentum is never stalled out by the results of a roll. 
 
-*A failed roll is always bad for the PCs, but should still move the story forward. It should be viewed by the GM an as invitation to introduce some new and interesting/unfortunate plot twist.*
+Traditionally, a failed roll indicates that a PC is simply unsuccessful in their attempted action. In Bloodlines, the GM instead views a failed roll as an invitation to introduce a new and unfortunate plot twist. Often, this twist will subvert the action the PC was attempting... or give them the desired outcome, but at an unexpected cost. This is particularly true when a roll is made to use a power; magic is dangerous and unpredictable, after all, so a PC should never feel that their power is completely under their control. 
 
 > Suppose Oxye and Tor Byorn are pursuing some cultists through a cave system. The GM calls for Tor Byorn, who is walking ahead as a scout, for an Elf roll. If it's successful, he hears hushed voices arguing; if he fails, the two of them are ambushed. 
 
-*Roll outcomes are immediate.*
-
 > Before opening a door, Oxyehenhuain notices that the hinge is connected to a trigger. She attempts to disarm it, prompting a Goblin roll. If she succeeds, she's able to disarm the trap and open the door safely. If she fails, the trap triggers, and the room begins to fill with icy water.
+
+> magic example
+
+> magic example
 
 ## Confrontations
 
