@@ -1,18 +1,18 @@
 # Setting
 
-At the dawn of the **First Age**, four peoples awakened: the Dwarves in the northern mountains, the Elves in the eastern forests, the Goblins in the southern swamps, and the Halflings in the western grasslands. For centuries, each lived isolated, oblivious to the existences of the others.
+At the dawn of the **First Age**, three peoples awakened: the Dwarves in the northern mountains, the Elves in the eastern forests, and the Halflings in the southern grasslands. For centuries, each lived isolated, oblivious to the existences of the others.
 
 The **Second Age** was a time of exploration, then colonization, then conflict. Cultures clashed with words and weaponry. Entire generations were lost to perennial warfare.
 
-Finally, there came the **Third Age**. Historical enmities were set aside, for the most part, giving way to a time of coexistence, commerce, and prosperity. This age saw the creation of titanic monuments, powerful artifacts, and fantastical creatures. Its fruits impregnated every corner of the world.
+Finally, there came the **Third Age**. Historical enmities were set aside, for the most part, giving way to a time of coexistence, commerce, and prosperity. This age saw the creation of titanic monuments, powerful artifacts, and fantastical creatures. Its fruits impregnate every corner of the world.
 
-It was not just culture and magic that were exchanged during this time, of course. Through a hundred generations of political marriages and forbidden loves, bloodlines intermingled, creating an entirely new people: Humans, whose rise heralded the opening of the **Fourth Age**.
+It was not just culture and magic that were exchanged during this time, of course. Through a hundred generations of political marriages and forbidden loves, bloodlines intermingled, creating an entirely new people: Humans, whose emergence heralded the opening of the **Fourth Age**.
 
-Humanity has inherited the strongest qualities of its parents – the strength of the Dwarves and the charisma of the Halflings – but not their magical gifts. The vast majority of Humans exhibit no magical ability at all, and the few powers that do appear are modest in comparison to those of the old peoples.
+Humanity has inherited the strongest qualities of its parents – the strength of the Dwarves and the charm of the Halflings – but not their magical gifts. The vast majority of Humans exhibit no magical ability at all, and the few powers that do appear are modest in comparison to those of the old peoples. 
 
 As if in sympathy to Humanity's rise, the world's magic diminishes. Artifacts crumble. Creatures turn on their creators. What magic remains – for now at least – is chaotic and dangerous.
 
-This change has not gone unnoticed. Many among the ancient peoples view it as an omen that their stewardship over the world has ended. They gradually withdraw. The majestic Elvish cities shut their gates; their populations dwindle. Goblins take pilgrimages to the edges of the world, never to return. All the while, Humanity's population swells. Small towns and trading posts spread across the world.
+This change has not gone unnoticed. Many among the ancient peoples view it as an omen that their stewardship over the world has ended. They gradually withdraw. The majestic Elvish cities shut their gates; their populations dwindle. Halflings take pilgrimages to the edges of the world, never to return. All the while, Humanity's population swells. Small towns and trading posts spread across the world.
 
 Humanity is not the only thing that grows, however. As ancient magic recedes, the wilderness reasserts itself, becoming more savage and feral than any time in living memory. Dark and perilous places are no longer relegated to the far corners of the world; they surround and isolate every road and encampment. Even the largest Human city is no more than a stone's throw from the untamed wilds.
 
@@ -32,27 +32,17 @@ Dwarven society is orderly and traditional. Each city is made up of clans, and e
 
 The world's eastern highlands are blanketed by a dense redwood forest, the home of the Elves. Their halls and towers are suspended high above the forest floor, sculpted from the boughs and trunks of living trees. 
 
-Compared to Humans, Elves are tall and willowy. Their arms and legs are slender, and their ears and chins are pointed. In place of hair, Elves grow luxurious manes of moss, ivy, and pine needles; they give off the smell of flowers and are often attended by bees and butterflies.  
+Compared to Humans, Elves are tall and willowy. Their arms and legs are slender, and their ears and chins are pointed. In place of hair, Elves grow manes of moss, ivy, and pine needles; they give off the smell of flowers and are often attended by bees and butterflies.  
 
 Elves follow the twins Aso and Osa, the god and goddess of the sun and moon respectively. They watch over the world, day and night, and preside over nature, the seasons, the passage of time, and the cycle of life and death.
 
 Much like the giant redwoods, Elves are ancient. Births and deaths are rare. As a result, Elvish society is egalitarian, even to the erosion of individual identity. There is no heirarchy or leadership; Elves do not even claim professions or property. Every Elf is a ranger, an astronomer, a healer, and an architect, able to fill whatever role falls to them on a given day. 
 
-## Goblins
-
-The southern edge of the world is wrapped in a lush mangrove swamp, where highland streams crisscross in silty deltas before flowing into the sea. The treetops and waterways teem with birds, snakes, and frogs. Goblins are the apex predators of the swamp's vibrant food chain.
-
-Goblins are comparable in height to Humans, though the two would never be mistaken for one another. Goblins have wiry builds, bald skin, and exaggerated features: oversized eyes, ears, and teeth. Their tropical home leaves them little need for clothing, but they tattoo themselves heavily.
-
-Goblins pray to Opochi, the god of wind, water, and storms. While others might believe Opochi to be fickle and dangerous, the Goblins believe that he sends storms and floods to test the cleverness of his children... and that he rewards those who impress him.
-
-Goblins are tribal nomads. They erect their huts wherever solid ground is to be had, knowing that they will soon move to a new hunting ground, or flee an incoming storm.
-
 ## Halflings
 
 The west of the world is a massive grassland interspersed with hills, streams, and well-worn roads. These plains are home to the Halflings. They live in small, agrarian communities, each surrounded by vineyards, pastures, and fields of grain.
 
-Halflings are short – far more so than the Dwarves – with round bellies and faces. They are smooth-cheeked but sport dark, curly hair on their heads and on top of their almost-always-bare feet. Halflings have a penchant for theatricality; they tend to dress in bright colors, even when working the fields, and can often be heard sharing songs and poetry.
+Halflings are short – far more so than the Dwarves – with round bellies and faces. They are naturally expressive, with large eyes and hands. Halflings have smooth cheeks, but sport dark, curly hair on their heads and on top of their almost-always-bare feet. 
 
 Halfling magic stems from Dina, the goddess of wine and revelry. She watches over all of her children, but most of all favors parents, lovers, and mischief-makers. Dina holds dominion over charms and illusions.
 
@@ -60,10 +50,10 @@ Halfling society is familial. Children defer to their parents, who in turn defer
 
 ## Humans
 
-Unlike the other peoples of the world, Humans have no ancestral homeland. Their settlements crop up haphazardly as the other peoples recede, thrown together from little more than fieldstones and thatch. Some Humans are fortunate enough to instead make their homes in cities abandoned by the other peoples. The most famous of these is the Human capital, **XXX**, a once-great marketplace built where the four realms of the world come together. 
+Unlike the other peoples of the world, Humans have no ancestral homeland. Their settlements crop up haphazardly as the other peoples recede, thrown together from little more than fieldstones and thatch. Some Humans are fortunate enough to instead make their homes in cities abandoned by the other peoples. The most famous of these is the Human capital, **XXX**, a once-great marketplace built where the three realms of the world come together. 
 
-Physically, Humans are built more broadly than the Goblins, but not so plump as the Halflings. They have neither the living manes of the Elves nor the bold beards of the Dwarves. Elements of each of the four original peoples can be seen in Humanity, though they have all been blurred together. 
+Physically, Humans are not so sturdily built as the Dwarves, nor so tall as the Elves, nor so plump as the Halflings. Elements of each of the three original peoples can be seen in Humanity, though they have been blurred together. 
 
-Most Humans worship a pantheon of gods and goddesses. Though their names change regionally, most observe a mother figure who grants strength, a brother figure who grants skill, and so on. Humans rarely encounter magic, however, so most are ignorant of the connections between the deities and their respective magical domains. 
+Most Humans worship a pantheon of gods and goddesses. Though their names change regionally, most observe a mother figure who grants strength, a father who grants skill, an elder who grants wisdom, and so on. Humans rarely encounter magic, however, so most are ignorant of the connections between the deities and their respective magical domains. 
 
 Human lifespans are relatively short, and their settlements relatively independent from one another, so culture varies widely from region to region. Perhaps the only universal practice is observation of the Midsummer Revel. At the solstice, each Human with a newly manifested power makes the trek to **XXX** to enlist as an adventurer. There are only a handful of new adventurers each year, but they are viewed with such hope and reverence that Humans travel from around the world to join in the festivities. 
