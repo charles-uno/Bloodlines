@@ -76,7 +76,7 @@ setting ripe for exploration and adventure, a satisfying dice mechanic, and a li
 
 Bloodlines is played with papers, pens, and dice. 
 
-Four kinds of dice are used: four-, six-, eight-, and ten-sided. It's best to have about a dozen of each. Each kind of die should be kept in its own bowl or tray, in order to make it easy for players to pick up a handful of a single kind: four six-sided dice, five four-sided dice, seven ten-sided dice, etc. 
+Three kinds of dice are used: four-, six-, and eight-sided. It's best to have about a dozen of each. Each kind of die should be kept in its own bowl or tray, in order to make it easy for players to pick up a handful of a single kind: four six-sided dice, five four-sided dice, seven eight-sided dice, etc. 
 
 Four-sided dice merit particular attention. Traditional (pyramid-shaped) four-sided dice are difficult to pick up off a flat table, particularly a handful at a time. Barrel-shaped four-sided dice are recommended instead. 
 
