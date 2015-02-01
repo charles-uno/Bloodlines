@@ -2,9 +2,11 @@
 
 Bloodlines is, for the most part, played by talking. The GM describes the situation that the PCs find themselves in. Players ask the GM for details, speak as their PCs, and narrate their actions. The GM explains what happens in response. This pattern continues on, back and forth, scene after scene.
 
-There is no turn order per se. Players participate when they have something to add. That said, the GM should moderate play to ensure that everyone participates. For example, an underparticipating players can be called to action with, "The troll bellows menacingly. Oxyehenhuain, what's your plan?" or "Tor Byorn, what are you up to while she is in the meeting with Ambassador Xictli?"
+There is no turn order per se. Players participate when they have something to add. That said, the GM may also use pointed prompts to ensure that everyone participates. 
 
-> Is that last bit actually an example? Can we phrase it like one? 
+> example... "The troll bellows menacingly. Oxyehenhuain, what's your plan?"
+
+> example... "Tor Byorn, what are you up to while she is in the meeting with Ambassador Xictli?"
 
 The GM can interject at any time to call for a roll, in order to judge the outcome of a given action. This chapter addresses how rolls work from the players' perspective, while a more thorough discussion of the GM's role can be found in Chapter 6.
 
@@ -16,7 +18,7 @@ When the GM asks a player for a roll, the player rolls a number of dice equal to
 
 Each die that shows "1" is a **success**. If no successes are rolled (no dice show "1") then the roll is a **failure**. A failed roll is bad. A single success is good. Additional successes indicate that the action went unexpectedly well, the details of which fall to the GM's discretion.
 
-The size of dice used for the roll is determined by the roll's level. **Minor** rolls use four-sided dice; **Significant** rolls use six-sided dice; **Incredible** rolls use eight-sided dice; **Legendary** rolls use ten-sided dice. Successes are rarer on larger dice, of course; a Significant roll made with six dice will succeed two times out of three, while a Legendary roll made with six dice will succeed less than half the time. 
+The size of dice used for the roll is determined by the roll's level. **Ordinary** rolls use four-sided dice, **Significant** rolls use six-sided dice, and **Extraordinary** rolls use eight-sided dice. Successes are rarer on larger dice, of course; an Ordinary roll made with five dice will succeed three times out of four, while a Legendary roll made with five dice will succeed less than half the time. 
 
 > Example of TBY wanting to do something, and how he rolls for it. 
 
@@ -67,8 +69,7 @@ Generally speaking, each success is worth a single condition box, as is each fai
 *Corresponding to each bloodline score is a checkbox.*
 
 + *Dwarf -> Broken*
-+ *Elf -> Dazed (this word may later be replaced)*
-+ *Goblin -> Unsteady*
++ *Elf -> Dazed*
 + *Halfling -> Shaken*
 
 *Whenever a PC gets hit, they check a box. The GM will tell them which one, either by deciding or by choosing randomly.*
