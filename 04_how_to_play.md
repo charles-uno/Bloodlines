@@ -24,7 +24,7 @@ The size of dice used for the roll is determined by the roll's level. **Ordinary
 
 Roll levels are set by the GM, based both on the challenge in front of the PC and their approach to it. Sometimes it's easier to pick the lock, while other times it's easier to kick down the door. Level can also be affected by the player's mindful narration of the PC's actions. 
 
-> Suppose Oxyehenhuain is attempting to pick a lock, which the GM considers a Significant roll. If she states specifically that she is taking her time and picking the pock very carefully, the roll could be Minor instead. In that case, the consequences of failure may be more severe: perhaps the door opens into an ambush, or she is caught before getting the door open. 
+> Suppose Oxyehenhuain is attempting to pick a lock, which the GM considers a Significant roll. If she states specifically that she is taking her time and picking the pock very carefully, the roll could be Ordinary instead. In that case, the consequences of failure may be more severe: perhaps the door opens into an ambush, or she is caught before getting the door open. 
 
 ## Failing Forward
 
@@ -50,7 +50,7 @@ During a confrontation, players should contribute as they like, within reason, e
 
 The GM calls for rolls at their discretion. This means that a player may sometimes narrate several actions before being called to roll. When this happens, it is the GM that determines which bloodline score should be rolled. 
 
-> Suppose that Tor Byorn wants to sneak up behind an NPC and knock them out. The GM may choose to call for a Goblin roll (for the sneaking) or for a Dwarf roll (for the attack), depending on which seems more appropriate at the time.
+> Suppose that Tor Byorn wants to sneak up behind an NPC and knock them out. The GM may choose to call for a Halfling roll (for the sneaking) or for a Dwarf roll (for the attack), depending on which seems more appropriate at the time.......... wait, aren't these both halfling rolls now?
 
 Generally speaking, each success is worth a single condition box, as is each failure. During a confrontation, a player whose roll shows two successes should expect to mark two NPC boxes, and one whose roll shows a failure (that is, no successes) should expect a PC box to be checked. Other effects are allowed as well, of course; PCs can grapple, taunt, interact with the environment, and so on. Their actions can affect NPC behavior, bring new information to light, or influence the GM's assessment of the levels of future rolls. No matter what's being rolled for, however, the GM should judge the roll's effect to be roughly on par with one box marked per success. 
 
