@@ -42,6 +42,26 @@ Traditionally, a failed roll indicates that a PC is simply unsuccessful in their
 
 > magic example
 
+## Injury, Recovery, and Death
+
+As mentioned in the previous chapter, a PC's health is tracked using three condition boxes, each of which corresponds to one of the bloodline scores:
+
++ The **Broken** box corresponds to the Dwarf bloodline score.
++ The **Dazed** box corresponds to the Elf bloodline score.
++ The **Shaken** box corresponds to the Halfling bloodline score.
+
+The GM will call for a box to be marked when the PC fails a roll, and as a result is subjected to physical punishment. This can mean being hit by an arrow or sword, mauled by a monster, sickened by poison, swept up by a landslide, overcome by fatigue, and so on.
+
+Whenever the GM calls on a player to make a roll, if the box corresponding to that roll is marked, the roll must instead be made at the next higher level. Note that physical punishment makes a PC's mental and social rolls more difficult, not just their physical rolls; even polite conversation can be made problematic by blood loss, a concussion, or shock!
+
+> During a fight, Tor Byorn attacks an NPC with his sword, for which the GM prompts an Ordinary Dwarf roll. However, since Tor Byorn's Broken box is checked, he must make a Significant roll instead.
+
+Condition boxes are unmarked in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single box of the player's choice. This could be as simple as sitting down, having a drink of water, and binding a wound or two. All of a PC's boxes are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.
+
+> After stumbling upon a nest of fire wasps, Oxye's Dazed box is marked. However, stopping to rest seems risky. She and Tor Byorn choose to push forward. As a result, her Dazed box will not be unmarked until they make camp for the night.
+
+When a PC is called to mark a condition box but they have none left (that is, if they suffer an injury when they have three boxes already marked), they are killed. PCs in Bloodlines never lay bleeding on the ground, waiting to die. They are standing, albeit unsteadily, until their last breath.
+
 ## Confrontations
 
 Broadly, the rules work the same during a fight that they do at any other time. Players participate in whatever order feels natural. The GM interjects on behalf of NPCs, and prompts the PCs for rolls. No roll ever results in nothing happening. The specifics of how these rules are applied during a confrontation bears additional discussion, however.
@@ -64,24 +84,3 @@ Generally speaking, each success is worth a single condition box, as is each fai
 
 > why haven't we got any examples with grappling or something? I want to show how rolls can do something other than damage, and influence NPC behavior and the difficulty of later rolls. 
 
-## Injury, Recovery, and Death
-
-*these boxes were introduced in the previous chapter, but we need to explain here how they actually work with the rules.*
-
-*Corresponding to each bloodline score is a checkbox.*
-
-+ *Dwarf -> Broken*
-+ *Elf -> Dazed*
-+ *Halfling -> Shaken*
-
-*Whenever a PC gets hit, they check a box. The GM will tell them which one, either by deciding or by choosing randomly.*
-
-> let's have two examples in this section. I'm not sure exactly where they go. 
-
-Condition boxes are unmarked in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single box of the player's choice. All boxes are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.
-
-*Whenever a player is called to make a roll, if their corresponding box is checked, they instead make that roll one level higher. For example, if Tor Byorn is Broken and the GM calls for a Significant Dwarf roll, an Incredible roll must be made instead.*
-
-*Two of the boxes indicate mental detriments due to physical damage. Why? Well, pain is distracting. Concussions impair mental and social ability. Battles are disorienting and panic-inducing, particularly for the inexperienced.*
-
-*If a player would check a box but all four are already checked, they are killed. This means you are on your feet, though at an ever-diminishing capacity, until the deathblow is struck. You never lay on the ground waiting to die.*
