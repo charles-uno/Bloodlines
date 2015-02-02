@@ -20,11 +20,13 @@ Each die that shows "1" is a **success**. If no successes are rolled (no dice sh
 
 The size of dice used for the roll is determined by the roll's level. **Ordinary** rolls use four-sided dice, **Significant** rolls use six-sided dice, and **Extraordinary** rolls use eight-sided dice. Successes are rarer on larger dice, of course; an Ordinary roll made with five dice will succeed three times out of four, while a Legendary roll made with five dice will succeed less than half the time. 
 
-> Example of TBY wanting to do something, and how he rolls for it. 
+> When confronted with a locked door, Tor Byorn's solution is to kick it down. To judge the result, the GM calls for an Ordinary Dwarf roll. Tor Byorn's Dwarf score is 7, so he rolls 7 four-sided dice. The result is 2, 2, 3, 4, 2, 3, 1: a success. The GM narrates that the door buckles, showering both Tor Byorn and Oxyehenhuain with rotten wood. 
 
 Roll levels are set by the GM, based both on the challenge in front of the PC and their approach to it. Sometimes it's easier to pick the lock, while other times it's easier to kick down the door. Level can also be affected by the player's mindful narration of the PC's actions. 
 
-> Suppose Oxyehenhuain is attempting to pick a lock, which the GM considers Significant. If she states specifically that she is taking her time and picking the pock very carefully, the roll could be Ordinary instead. In that case, the consequences of failure may be more severe: perhaps the door opens into an ambush, or she is caught before getting the door open. 
+> Oxye is attempting to pick a lock. Because she is under no time constraints, O indicates Oxye's intention to work slowly and methodically. The GM calls for a Significant Halfling roll to judge the outcome. 
+
+> Oxye is attempting to pick the same lock. Because there are guards just around the corner, Oxye must work quickly and quietly. The GM calls for an Extraordinary Halfling roll to judge the outcome. 
 
 ## Failing Forward
 
@@ -48,17 +50,19 @@ During a confrontation, players should contribute as they like, within reason, e
 
 The GM calls for rolls at their discretion. This means that a player may sometimes narrate several actions before being called to roll. When this happens, it is the GM that determines which bloodline score should be rolled. 
 
-> Suppose that Tor Byorn wants to sneak up behind an NPC and knock them out. The GM may choose to call for a Halfling roll (for the sneaking) or for a Dwarf roll (for the attack), depending on which seems more appropriate at the time.......... wait, aren't these both halfling rolls now?
+> Tor Byorn is attempting to push a boulder over a ledge, without being seen by the NPCs below. The GM may choose to call for a Dwarf roll (for the push) or a Halfling roll (for the stealth), depending on which seems more appropriate at the time. 
 
 Generally speaking, each success is worth a single condition box, as is each failure. During a confrontation, a player whose roll shows two successes should expect to mark two NPC boxes, and one whose roll shows a failure (that is, no successes) should expect a PC box to be checked. Other effects are allowed as well, of course; PCs can grapple, taunt, interact with the environment, and so on. Their actions can affect NPC behavior, bring new information to light, or influence the GM's assessment of the levels of future rolls. No matter what's being rolled for, however, the GM should judge the roll's effect to be roughly on par with one box marked per success. 
 
-> example: TBY taunts baddies away from Oxye. fails. there's someone behind you! they leave Oxye alone, but now surround you. 
+> example. oxye is out front. elf roll to detect baddies.  if success, she hears them. if failure, ambush. just two ambushers? 
 
-> Example: Oxye rolls to deduce why these guys might be here. success. 
+> example: TBY taunts baddies away from Oxye. if success, they turn towards him. if failure, there's another one behind him and he gets hit. 
 
-> example: TBY rolls to kick some ass. two successes. two baddies drop. 
+> example: Oxye rolls to peg one with a stone. if success, she hits one. If failure, she hits TBY. 
 
-> example: Oxye rolls to peg one with a stone. failure. Hits TBY. 
+> example: TBY rolls to kick some ass. success, he grabs one to allow negotiations. failure, they chop him up. 
+
+> why haven't we got any examples with grappling or something? I want to show how rolls can do something other than damage, and influence NPC behavior and the difficulty of later rolls. 
 
 ## Injury, Recovery, and Death
 
@@ -74,7 +78,7 @@ Generally speaking, each success is worth a single condition box, as is each fai
 
 > let's have two examples in this section. I'm not sure exactly where they go. 
 
-*Wounds are recovered in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single wound (of the player's choice). All wounds are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.*
+Condition boxes are unmarked in dramatically appropriate time. A short rest immediately after the confrontation is sufficient to unmark a single box of the player's choice. All boxes are unmarked after a long rest, such as a hot meal or a night of sleep somewhere safe.
 
 *Whenever a player is called to make a roll, if their corresponding box is checked, they instead make that roll one level higher. For example, if Tor Byorn is Broken and the GM calls for a Significant Dwarf roll, an Incredible roll must be made instead.*
 
