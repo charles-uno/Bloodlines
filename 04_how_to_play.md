@@ -77,7 +77,7 @@ Generally speaking, each success is worth a single condition box, as is each fai
 > Half a day's travel from XXX, the cobblestones end. They are replaced by a narrow dirt road, tightly bordered by trees. A flickering orange glow is visible not far off the road. Oxyehenhuain decides to investigate. Tor Byorn Yorgensen lags behind; wary of bandits, he tries to keep Oxye and the horses both in view. 
 
 > Gemma prompts Olga for a Significant Halfling roll to judge whether she's able to approach without making noise. 
-> + One success: Oxyehenhuain finds a small clearing. Two men sit around a campfire surrounded by wine and ill-gotten jewelry.
+> + One success: Oxyehenhuain finds a small clearing. Two men sit around a campfire surrounded byill-gotten wine and jewelry.
 > + Two successes: The men are asleep. 
 > + Failure: Oxye encounters an uninhabited campsite, then suddenly finds two men, knives drawn, between her and the horses. 
 
