@@ -86,13 +86,12 @@ Generally speaking, each success is worth a single condition box, as is each fai
 > + Two successes: While eating, the men also share relevant information. 
 > + Failure: The bandits see Tor Byorn as a surmountable threat, and move to flank him. 
 
+> Unsure how Tor Byorn will fare against the two bandits, Oxye picks up a stone and throws it, hard, at one of them. Gemma calls for an Ordinary Halfling roll – he's not far from her, and his back is turned. 
+> + One success: Oxye hits the man squarely in the head. He drops. 
+> + Two successes: As he falls, he also knocks his companion off-balance. If Tor Byorn was waiting for the perfect moment to act, this is it. 
+> + Failure: The stone misses its mark, and strikes Tor Byorn instead. Gemma has Tamir mark his Dazed box, and the bandits take this opportunity to attack. 
 
-
-
-
-A single success would mean they accepted the offer. With two successes, they would even have information to share. Unfortunately, Tamir fails the roll. The men see him as a surmountable threat, and move to flank him. 
-
-> Unsure how Tor Byorn will fare against the two bandits, Oxye picks up a stone and throws it, hard, at one of them. Gemma calls for an Ordinary Halfling roll – he's not far from her, and his back is turned. If Olga had rolled a succeess, she would have knocked him out cold; two would mean that he knocked his companion off-balance as he fell. Unfortunately, she failed the roll. The stone bloodied Tor Byorn instead. Gemma has Tamir mark his Dazed box, and the bandits take this opportunity to attack. 
-
-> Tor Byorn attempts to grab one of the bandits by the wrist, headbut him, and then hold him tight as a human shield. Gemma has Tamir make a Significant Dwarf roll. The action he's describing isn't particularly easy, but neither is it difficult enough to demand an Extraordinary roll. A single success would be good enough to subdue his target; the other man would then draw his sword, unwilling to concede. Two successes would be enough to make both men yield. Unfortunately, Tamir failed his roll; Tor Byorn is a hair too slow and fails to grapple his target. Instead, he takes a knife to the ribs, marking his Broken box. 
-
+> Tor Byorn attempts to grab one of the bandits by the wrist, headbut him, and then hold him tight as a human shield. Gemma has Tamir make a Significant Dwarf roll. The action he's describing isn't particularly easy, but neither is it difficult enough to demand an Extraordinary roll. 
+> + One success: Tor Byorn subdues his target, but the other man is unwilling to concede. He draws his sword. 
+> + Two successes: Both men yield.
+> + Failure: Tor Byorn is a hair too slow. His grapple fails, and he takes a knife to the ribs. Gemma instructs Tamir to mark his Broken box. 
