@@ -76,9 +76,21 @@ Generally speaking, each success is worth a single condition box, as is each fai
 
 > Half a day's travel from XXX, the cobblestones end. They are replaced by a narrow dirt road, tightly bordered by trees. A flickering orange glow is visible not far off the road. Oxyehenhuain decides to investigate. Tor Byorn Yorgensen lags behind; wary of bandits, he tries to keep Oxye and the horses both in view. 
 
-> Gemma prompts Olga for a Significant Halfling roll to judge whether she's able to approach without making noise. If she succeeded, she would find a small clearing with two men sleeping next to a campfire, surrounded by ill-gotten wine and jewelry. Unfortunately, she fails, and they hear her coming. She instead encounters an empty campsite, then suddenly finds two men, knives drawn, between her and the horses. 
+> Gemma prompts Olga for a Significant Halfling roll to judge whether she's able to approach without making noise. 
+> + One success: Oxyehenhuain finds a small clearing. Two men sit around a campfire surrounded by wine and ill-gotten jewelry.
+> + Two successes: The men are asleep. 
+> + Failure: Oxye encounters an uninhabited campsite, then suddenly finds two men, knives drawn, between her and the horses. 
 
-> Tor Byorn steps into view and attempts to defuse the situation pragmatically: "Why don't you boys join us for a hot meal, then we'll be on our way without any trouble?" Gemma asks Tamir for an Ordinary Elf roll to see how his bargain is received (it shouldn't be hard to convince these men to take a free meal, rather than tangling with someone so sturdy as Tor Byorn). A single success would mean they accepted the offer. With two successes, they would even have information to share. Unfortunately, Tamir fails the roll. The men see him as a surmountable threat, and move to flank him. 
+> Tor Byorn steps into view and attempts to defuse the situation pragmatically: "Why don't you boys join us for a hot meal, then we'll be on our way without any trouble?" Gemma asks Tamir for an Ordinary Elf roll to see how his bargain is received (it shouldn't be hard to convince these men to take a free meal, rather than tangling with someone so sturdy as Tor Byorn). 
+> + One success: The men put away their knives and accept the offer. 
+> + Two successes: While eating, the men also share relevant information. 
+> + Failure: The bandits see Tor Byorn as a surmountable threat, and move to flank him. 
+
+
+
+
+
+A single success would mean they accepted the offer. With two successes, they would even have information to share. Unfortunately, Tamir fails the roll. The men see him as a surmountable threat, and move to flank him. 
 
 > Unsure how Tor Byorn will fare against the two bandits, Oxye picks up a stone and throws it, hard, at one of them. Gemma calls for an Ordinary Halfling roll – he's not far from her, and his back is turned. If Olga had rolled a succeess, she would have knocked him out cold; two would mean that he knocked his companion off-balance as he fell. Unfortunately, she failed the roll. The stone bloodied Tor Byorn instead. Gemma has Tamir mark his Dazed box, and the bandits take this opportunity to attack. 
 
