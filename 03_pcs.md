@@ -30,6 +30,8 @@ Adventurers are pressed into **Service** for the sake of all Humanity. Their mis
 
 A PC may have dreamed of becoming an adventurer, but nothing in their life could truly have prepared them for it. Their **Ethos** reflects how they have reacted. Does the PC embrace their newfound responsibility, or resent those who placed it upon them? What sort of future do they want to help build for Humanity? 
 
+hope and fear?
+
 > Example... 
 
 A PC's Trade and Power do not change over time. That said, if a player realizes after a few sessions that they're unsatisfied with the PC they've created, they should talk to the GM about retconning a detail or two. On the other hand, a PC's Service and Ethos may well change over the course of a campaign. Revisions can arise from the PCs' discovery of new information, a new assignment after a completed quest, a PC's personal development, and so on. 
