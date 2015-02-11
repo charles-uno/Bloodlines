@@ -39,8 +39,7 @@ should be put on hold to address the issue.
 
 Bloodlines reimagines classic concepts through a modern lens. The mechanics
 are built from the ground up to enable and reward the smart, immersive play
-style of early roleplaying games, without being bound by their mechanical
-eccentricities. Similarly, Tolkien's influence is clear in the setting of
+style of early roleplaying games, as well as to emulate the radical symmetry and rules-lightness found in recent indie games. Similarly, Tolkien's influence is clear in the setting of
 Bloodlines, but his moral absolutism is not; conflict stems from opposing
 motivations and the will to survive, rather than from irredeemable evil.
 
