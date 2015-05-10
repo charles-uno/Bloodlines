@@ -2,7 +2,7 @@
 
 Bloodlines is a game of collaborative, structured storytelling. 
 It is played with one game master (**GM**) and one or more **players**.
-Each player plays the role of a player character (**PC**)which they create as the game begins. 
+Each player plays the role of a player character (**PC**) which they create as the game begins. 
 The GM designs and plays the role of the world around the PCs, including its cast of nonplayer characters (**NPCs**), including everything from elvish royalty to rival adventurers or hideous dungeon monsters.
 
 The players and the GM work together to tell stories about the adventures of the PCs. 
@@ -27,43 +27,22 @@ If anyone is unsatisfied in either respect, play should be put on hold to addres
 
 ## About Bloodlines
 
-Bloodlines reimagines classic concepts through a modern lens. 
-The mechanics are built from the ground up to enable and reward the smart, immersive play style of early roleplaying games, as well as to emulate the radical symmetry and rules-lightness found in recent indie games. 
-Similarly, Tolkien's influence is clear in the setting of Bloodlines, but his moral absolutism is not; conflict stems from opposing motivations and the will to survive, rather than from irredeemable evil.
-
-In Bloodlines, Humanity finds itself inheriting a dangerous world. The ancient peoples are in decline. 
+In Bloodlines, Humanity finds itself inheriting a dangerous world. 
+The ancient peoples are in decline. 
 The savage wilderness, once brought to heel by their magic, rears its head. 
-While the past age has been peaceful, these changes promise to bring ancient enmities to the surface. 
-PCs may find themselves called to choose sides among multiple sympathetic factions.
+While the past age has been peaceful, these changes promise to bring old enmities to the surface.
 
-The mechanics of Bloodlines exist solely to help the GM take the reins of this world, and to help the players immerse themselves in it through their PCs. 
+The mechanics of Bloodlines exist to help the GM take the reins of this world, and to help the players engross themselves in it. 
 To that end, the rules are concise, concrete, and consistent. 
-While the pages that follow are full of examples to impart readers with an intuitive grasp of how the rules work, there are no tables to reference later, nor any obscure exceptions or corner cases built into the system.
+They bring together the smart, immersive play style found in early roleplaying games and the elegant symmetry found in modern indie games. 
 
-Bloodlines uses just as many numbers as it needs – no fewer, and certainly no more. 
-PC abilities are rated on a fine scale, allowing room for personalization and advancement. 
-On the other hand, NPCs and roll difficulties fall on a coarse scale, making it easy for the GM to make quick, intuitive judgments.
+While the rules are light, Bloodlines is not shy about its use of dice. 
+It embraces the tactile satisfaction that comes with rolling a handful of them. 
 
-While the rules are light, Bloodlines is not shy about its use of dice; it embraces the tactile satisfaction that comes with rolling a handful of them. 
-Action resolution in Bloodlines takes a novel approach to dice pools. 
-A roll can be made with just a word from the GM and a glance at the character sheet – no arithmetic required.
+... 
 
-That is, Bloodlines is a roleplaying game boiled down to its essence: a setting ripe for exploration and adventure, a satisfying dice mechanic, and a lightweight rules architecture to bring them together.
+Bloodlines is a roleplaying game boiled down to its essence: a setting ripe for exploration and adventure, a satisfying dice mechanic, and a lightweight rules architecture to bring them together.
 
 ## Game Materials
 
-Bloodlines is played with papers, pens, and dice. 
-
-Three kinds of dice are used: four-, six-, and eight-sided. 
-It's best to have about a dozen of each. 
-Each kind of die should be kept in its own bowl or tray, in order to make it easy for players to pick up a handful of a single kind: four six-sided dice, five four-sided dice, seven eight-sided dice, etc. 
-
-Four-sided dice merit particular attention. 
-Traditional (pyramid-shaped) four-sided dice are difficult to pick up off a flat table, particularly a handful at a time. 
-Barrel-shaped four-sided dice are recommended instead. 
-
-Other than dice, the table needs only pens and paper. 
-The GM should have a notebook (or some scratch paper, or a pile of notecards) to keep their notes. 
-Each player needs a character sheet for their PC. 
-The last page of this book contains a blank one; additionally, they can be downloaded and printed from **website pending**. 
-For added convenience, character sheets can even be laminated, so that wet-erase markers can be used to easily mark and unmark injuries.
+Bloodlines is played with papers, pens, and twelve-sided dice. 
