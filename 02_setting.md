@@ -1,22 +1,20 @@
 # Setting
 
-At the dawn of the **First Age**, three peoples awakened: the Dwarves in the northern mountains, the Elves in the eastern forests, and the Halflings in the southern grasslands. For centuries, each lived isolated, oblivious to the existences of the others.
+At the dawn of the world, three peoples awakened: the Dwarves in the northern mountains, the Elves in the eastern forests, and the Halflings in the western grasslands. For centuries, each lived isolated, oblivious to the existence of the others. 
 
-The **Second Age** was a time of exploration, then colonization, then conflict. Cultures clashed with words and weaponry. Entire generations were lost to perennial warfare.
+There came a time of exploration, then colonization, then conflict; entire generations were lost to perennial warfare. Finally, historical enmities were set aside, giving way to a time of coexistence, commerce, and prosperity. The world saw the creation of titanic momuments, powerful artifacts, and fantastical creatures. Its fruits impregnate every corner of the world.
 
-Finally, there came the **Third Age**. Historical enmities were set aside, for the most part, giving way to a time of coexistence, commerce, and prosperity. This age saw the creation of titanic monuments, powerful artifacts, and fantastical creatures. Its fruits impregnate every corner of the world.
+It was not just culture and magic that were exchanged during this time, of course. Through a hundred generations of political marriages and forbidden loves, bloodlines intermingled, creating an entirely new people: Humans.
 
-It was not just culture and magic that were exchanged during this time, of course. Through a hundred generations of political marriages and forbidden loves, bloodlines intermingled, creating an entirely new people: Humans, whose emergence heralded the opening of the **Fourth Age**.
+Humanity inherited the strongest qualities of its parents -- the strength of the Dwarves and the charm of the Halflings -- but not their magical gifts. The vast majority of Humans exhibit no magical ability at all, and the few powers that do appear are modest in comparison to those of its progenitors.
 
-Humanity has inherited the strongest qualities of its parents – the strength of the Dwarves and the charm of the Halflings – but not their magical gifts. The vast majority of Humans exhibit no magical ability at all, and the few powers that do appear are modest in comparison to those of its progenitors. 
-
-As if in sympathy to Humanity's rise, the world's magic diminishes. Artifacts crumble. Creatures turn on their creators. What magic remains – for now at least – is chaotic and dangerous.
+As if in sympathy to Humanity's rise, the world's magic diminishes. Artifacts crumble. Creatures turn on their creators. The magic that remains is chaotic and dangerous.
 
 Many among the ancient peoples view this change as an omen that their stewardship over the world has ended. The majestic Elvish cities shut their gates; their populations dwindle. Halflings take pilgrimages to the edges of the world, never to return. All the while, Humanity's population swells. Towns and trading posts spread across the world.
 
-Humanity is not the only thing that grows, however. As ancient magic recedes, the wilderness reasserts itself, becoming more savage and feral than any time in living memory. Dark and perilous places are no longer relegated to the far corners of the world; they surround and isolate every road and encampment. Even the largest Human city is no more than a stone's throw from the untamed wilds.
+Humanity is not the only thing that grows, however. As ancient magic recedes, the wilderness reasserts itself, becoming more savage and feral than any time in living memory. Dark and perilous places surround and isolate every road and encampment. Even the largest Human city is no more than a stone's throw from the untamed wilds.
 
-None can say whether Humanity will survive its coming of age, or if it will be overcome by the dangers that surround it. If it does survive, it will be by the bravery and bloodshed of adventurers – the precious few Humans who manifest whispers of ancient magic, pressed into service for the sake of all Humanity. 
+None can say whether Humanity will survive its coming of age. If it does, it will be by the bravery and bloodshed of so-called adventurers -- the precious few Humans who manifest whispers of ancient magic, and are pressed into service for the sake of all Humanity.
 
 ## Dwarves
 
