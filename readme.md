@@ -1,3 +1,12 @@
+http://math.stanford.edu/~jyzhao/latexfonts.php
+
+http://www.dafont.com/ardagh.font
+
+
+
+
+
+
 Bloodlines
 ==========
 Bloodlines Roleplaying Game.

@@ -1,0 +1,65 @@
+% Charles McEachern
+
+% Spring 2015
+
+% Note: This document wraps at column 80. 
+
+% #############################################################################
+% ############################################################## Document Setup
+% #############################################################################
+
+% Set the size and shape of the document. 
+\documentclass[11pt,letterpaper]{article}
+\usepackage[letterpaper, margin=0.8in]{geometry}
+%\addtolength{\topmargin}{-0.25in}
+
+% For better handling of whitespace around macros. 
+\usepackage{xspace}
+
+\usepackage{humanist}
+\usepackage[T1]{fontenc}
+
+\newcommand\customfont[1]{{\usefont{T1}{custom}{m}{n} #1 }}
+
+% #############################################################################
+% ###################################################################### Macros
+% #############################################################################
+
+% Format the dash in a year range nicely. 
+%\newcommand{\YearRange}[2]{#1--#2}
+
+% #############################################################################
+% ####################################################### Beginning of Document
+% #############################################################################
+
+\begin{document}
+
+% =============================================================================
+% ====================================================================== Header
+% =============================================================================
+
+\begin{center}
+  { \Huge \textbf{Charles McEachern} }
+\end{center}
+
+
+\section{Section Title}
+
+Text text text. 
+
+\subsection{Subsection Title}
+
+{\fontfamily{pcr}\selectfont TExt text text in a new font. }
+
+{\hminfamily trying some text in Humanist. }
+
+\customfont{Trying out that tutorial on the lazy way to add a font. }
+
+
+% =============================================================================
+% ============================================================= End of Document
+% =============================================================================
+
+\end{document}
+
+
