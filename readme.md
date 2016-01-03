@@ -3,7 +3,9 @@ http://math.stanford.edu/~jyzhao/latexfonts.php
 http://www.dafont.com/ardagh.font
 
 
+On how to insert oddly-shaped images in LaTeX...
 
+http://tex.stackexchange.com/questions/53073/two-column-text-with-circular-insert
 
 
 
